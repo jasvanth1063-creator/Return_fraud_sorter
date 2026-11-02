@@ -1,0 +1,11 @@
+group,requests,abusive,mean_predicted,observed_rate,observed_95%_low,observed_95%_high,check,brier,ece_5_bins
+customer: new (< 90 days),1111,90,0.0586,0.081,0.0664,0.0985,prediction outside interval,0.0431,0.0263
+customer: established,7386,609,0.0726,0.0825,0.0764,0.0889,prediction outside interval,0.0404,0.0122
+order value: low third,2624,191,0.0619,0.0728,0.0635,0.0834,prediction outside interval,0.0378,0.0112
+order value: middle third,2942,229,0.0658,0.0778,0.0687,0.0881,prediction outside interval,0.0396,0.0168
+order value: high third,2931,279,0.0838,0.0952,0.0851,0.1064,prediction outside interval,0.0444,0.02
+text: English-like,4440,383,0.0701,0.0863,0.0784,0.0949,prediction outside interval,0.0428,0.0164
+text: Hinglish-like (mixed),1726,127,0.0733,0.0736,0.0622,0.0869,ok,0.0339,0.0146
+text: Hindi-dominant,2331,189,0.0702,0.0811,0.0707,0.0929,prediction outside interval,0.0418,0.0144
+month: May,3729,320,0.0722,0.0858,0.0772,0.0952,prediction outside interval,0.0412,0.0176
+month: June,4768,379,0.0696,0.0795,0.0721,0.0875,prediction outside interval,0.0404,0.0106

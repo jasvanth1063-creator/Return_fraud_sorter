@@ -1,0 +1,5 @@
+truth_label,auto_approve,inspect,escalate
+abusive,308,391,0
+genuine_quality_issue,2379,74,0
+genuine_fit_issue,4146,47,0
+genuine_wrong_item,1136,16,0

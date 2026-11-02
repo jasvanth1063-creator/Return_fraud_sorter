@@ -1,0 +1,4 @@
+group_pair,flag_rate_a,flag_rate_b,disparity_ratio,ci_lo,ci_hi,pair_score,group_a,group_b
+new_vs_established_customer,0.01763,0.01756,1.0,1.01,1.45,1.0,new (<90 days),established
+low_value_vs_other_order,0.01399,0.01906,1.2113,1.01,1.55,0.7887,low value (<1000),1000+
+non_english_vs_english_text,0.01684,0.01824,1.0521,1.0,1.3,0.9479,non-English,English

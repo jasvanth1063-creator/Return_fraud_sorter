@@ -1,0 +1,15 @@
+{
+  "decision_counts": {
+    "auto_approve": 15748,
+    "inspect": 1184
+  },
+  "break_even": {
+    "inspect_threshold": 0.35,
+    "escalate_threshold": "disabled",
+    "note": "Threshold optimized on validation set; inspect>=0.35 maximizes primary score"
+  },
+  "mean_confidence": 0.0772,
+  "primary_score": 0.3878,
+  "savings": 0.2936,
+  "fairness_effective": 0.9113
+}

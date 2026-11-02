@@ -1,0 +1,8 @@
+feature,meaning,leakage_safety
+txt_p_abusive,out-of-fold probability that the customer_reason text matches 'abusive',customer-grouped OOF; text only
+txt_p_genuine_quality_issue,out-of-fold probability that the customer_reason text matches 'genuine_quality_issue',customer-grouped OOF; text only
+txt_p_genuine_fit_issue,out-of-fold probability that the customer_reason text matches 'genuine_fit_issue',customer-grouped OOF; text only
+txt_p_genuine_wrong_item,out-of-fold probability that the customer_reason text matches 'genuine_wrong_item',customer-grouped OOF; text only
+ev_*,"capped count of rule phrases (fit, quality, wrong item, damage, negation...) - supporting evidence only",regex
+txt_len_chars / txt_n_words / txt_upper_share / txt_n_exclaim / txt_has_emoji,shape of the text,row's own text
+hist_same_text / hist_max_text_sim / hist_n_similar_text,text reuse versus the same customer's EARLIER requests,earlier rows only

@@ -1,0 +1,54 @@
+{
+  "selected_baseline": {
+    "model": "catboost",
+    "arm": "C + all text-derived"
+  },
+  "selection_rule": "simplest model within max(seed sd, 0.005) of the best calibrated routing saving",
+  "protocol": "Phase 2 chronological 70/10/20: train fits, calibration fits isotonic calibrator only, test = validation period",
+  "split_boundaries": {
+    "train_last": "2026-04-07",
+    "calibration": [
+      "2026-04-08",
+      "2026-05-07"
+    ],
+    "test": [
+      "2026-05-08",
+      "2026-06-30"
+    ]
+  },
+  "seeds": [
+    0,
+    1
+  ],
+  "hyperparameters": "fixed in advance - see r2sorter/baselines.py::build_model",
+  "preprocessing": "r2sorter.preprocess.FeaturePreprocessor fitted on train only",
+  "text_scores": "Phase 4 word TF-IDF + LogReg, train rows out-of-fold",
+  "hidden_test_labels_used": false,
+  "versions": {
+    "python": "3.13.17",
+    "numpy": "2.5.4",
+    "pandas": "3.1.0",
+    "scikit-learn": "1.9.1",
+    "lightgbm": "4.7.0"
+  },
+  "results": {
+    "model": "catboost",
+    "arm": "C + all text-derived",
+    "macro_f1": 0.8459,
+    "accuracy": 0.9133,
+    "abusive_precision": 0.817,
+    "abusive_recall": 0.4692,
+    "log_loss_4class": 0.2383,
+    "abuse_AP": 0.7045,
+    "raw_log_loss": 0.148,
+    "raw_ECE": 0.0159,
+    "cal_log_loss": 0.1494,
+    "cal_ECE": 0.0138,
+    "raw_saving": 0.292,
+    "cal_saving": 0.3019,
+    "saving_sd": 0.0098,
+    "genuine_escalated": 1.0,
+    "abusive_approved": 303.5,
+    "seeds": 2
+  }
+}

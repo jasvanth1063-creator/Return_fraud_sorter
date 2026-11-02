@@ -1,0 +1,16 @@
+,gain_share
+txt_p_genuine_quality_issue,0.2123
+txt_p_genuine_wrong_item,0.2012
+txt_p_genuine_fit_issue,0.1817
+days_since_delivery,0.0535
+return_window_remaining,0.0316
+sub_category,0.0246
+mrp_inr,0.0226
+prior_return_rate,0.0174
+fabric,0.0155
+ev_wrong_item,0.015
+hist_mean_item_price,0.0146
+customer_tenure_days,0.0138
+item_share_of_order,0.0133
+brand,0.0131
+txt_p_abusive,0.01

@@ -1,0 +1,5 @@
+,precision,recall,f1,support
+abusive,0.3256,0.0582,0.0988,1924
+genuine_quality_issue,0.8197,0.9249,0.8691,6481
+genuine_fit_issue,0.9059,0.9665,0.9352,11044
+genuine_wrong_item,0.9129,0.915,0.914,4307

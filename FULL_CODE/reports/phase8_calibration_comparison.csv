@@ -1,0 +1,5 @@
+probability,brier,log_loss,ece,ece_95%_low,ece_95%_high,distinct_values,official_score,fairness,cost_per_request,saving_vs_approve_all,genuine_escalated
+raw (uncalibrated),0.0404,0.1472,0.0158,0.0126,0.021,8497,0.3538,0.6983,0.0571,0.3059,0
+Platt (sigmoid),0.0407,0.147,0.014,0.0118,0.0186,8151,0.3326,0.6577,0.0586,0.2873,1
+isotonic,0.041,0.1481,0.0134,0.0098,0.018,67,0.3631,0.7345,0.0569,0.3089,1
+bagged isotonic,0.0408,0.1476,0.0132,0.0101,0.0186,755,0.3524,0.6983,0.0573,0.3039,1

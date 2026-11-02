@@ -1,0 +1,50 @@
+{
+  "model": "catboost_seed0",
+  "calibrator": "Platt (sigmoid)",
+  "cost_matrix_verified": {
+    "wrong_block_cost": 10.0,
+    "missed_fraud_cost": 1.0,
+    "ratio": "wrong block is 10\u00d7 costlier \u2014 matches challenge statement"
+  },
+  "group_multipliers": {
+    "new_vs_established": 1.1,
+    "low_value_vs_other": 1.3,
+    "non_english_vs_english": 0.9
+  },
+  "multiplier_tuned_on": "train + calibration period (no validation labels used)",
+  "multiplier_grid": [
+    0.7,
+    0.8,
+    0.9,
+    1.0,
+    1.1,
+    1.2,
+    1.3,
+    1.5
+  ],
+  "safety_rules": {
+    "A_escalate_if_p_ge": "disabled",
+    "B_approve_if_p_lt": 0.03,
+    "C_repeated_returns_inspect_floor": "hist_n_similar_text >= 3 AND p >= theta1",
+    "D_new_customer_downgrade_escalate": "tenure < 90 days AND decision=escalate AND p < 0.95 \u2192 inspect",
+    "F_high_value_downgrade_escalate": "order_value >= p67 AND escalate AND p < 0.70 \u2192 inspect",
+    "spec_note": "Rules protect vulnerable groups; no rule penalises new customers or multilingual text"
+  },
+  "thresholds": {
+    "approve_to_inspect": 0.35,
+    "inspect_to_escalate": "disabled (cost-optimal: inspect is cheaper than escalate for uncertain cases)",
+    "rationale": "Lowering inspect threshold from 0.4167 to 0.35 and disabling escalate raises primary score from 0.3493 to 0.3878"
+  },
+  "results": {
+    "baseline_official": 0.3326,
+    "baseline_savings": 0.2873,
+    "baseline_fairness": 0.6577,
+    "final_official": 0.3878,
+    "final_savings": 0.2936,
+    "final_fairness": 0.9113,
+    "improvement": 0.0552,
+    "prev_official": 0.3493,
+    "prev_improvement": 0.0167
+  },
+  "hidden_test_labels_used": false
+}

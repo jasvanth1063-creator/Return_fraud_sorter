@@ -1,0 +1,5 @@
+calibrator,brier,ece,official_score,fairness,saving,distinct_values
+raw (uncalibrated),0.0382,0.0136,0.296,0.6921,0.2251,4388
+Platt (sigmoid),0.0383,0.0079,0.287,0.6997,0.2101,4170
+isotonic,0.039,0.0058,0.2087,0.625,0.1575,115
+bagged isotonic,0.039,0.0064,0.2289,0.6269,0.1725,669

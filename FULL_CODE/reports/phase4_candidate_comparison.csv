@@ -1,0 +1,7 @@
+,abusive_AP,abusive_base_rate,recall@1%FPR,recall@5%FPR,recall@10%FPR,macro_f1 (not used to choose),accuracy
+word_logreg,0.176,0.081,0.0613,0.1741,0.2656,0.7043,0.8722
+char_logreg,0.1452,0.081,0.0312,0.1279,0.2313,0.6909,0.8714
+combined_logreg,0.1728,0.081,0.0556,0.1772,0.264,0.7085,0.8718
+word_linear_svm,0.1762,0.081,0.0639,0.1746,0.2708,0.6985,0.8758
+char_linear_svm,0.1447,0.081,0.04,0.1372,0.2432,0.6877,0.8759
+combined_linear_svm,0.1745,0.081,0.0644,0.1736,0.2692,0.7024,0.8768

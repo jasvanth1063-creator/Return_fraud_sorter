@@ -1,0 +1,7 @@
+variant,AP_threshold_slice,AP_later,recall@5%FPR_later (threshold from earlier slice),realised_FPR_later
+four-class word,0.1847,0.1802,0.1662,0.054
+binary word weight=None,0.1845,0.1813,0.1701,0.0503
+binary word weight=balanced,0.1682,0.1763,0.1802,0.0495
+four-class combined,0.181,0.1824,0.1599,0.0465
+binary combined weight=None,0.1827,0.1826,0.1688,0.0514
+binary combined weight=balanced,0.1702,0.1754,0.1802,0.0544

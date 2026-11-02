@@ -1,0 +1,81 @@
+# Single configuration file for the R2 pipeline. Paths are relative to FULL_CODE/.
+# Environment variables R2_CONFIG (alternative config file) and R2_DATA_DIR (data folder) override paths.
+seed: 42
+
+paths:
+  data_dir: data
+  models_dir: models
+  reports_dir: reports
+  submission_dir: ../submission
+  train_file: return_requests_train.csv
+  test_file: return_requests_test.csv
+  products_file: products.csv
+  size_charts_file: size_charts.csv
+  customers_file: customers.csv
+
+# Official cost matrix (README "Cost matrix"): cost[truth][decision]. Must match tools/evaluate.py.
+costs:
+  genuine: {auto_approve: 0.0, inspect: 0.5, escalate: 10.0}
+  abusive: {auto_approve: 1.0, inspect: 0.3, escalate: 0.0}
+
+validation:
+  holdout_start: "2026-05-01"      # last two months of train are held out and never used for fitting
+  calibration_start: "2026-02-01"  # out-of-time predictions from here on fit the calibrator
+  min_train_months: 3              # smallest training window in the rolling-origin folds
+  text_oof_folds: 4
+
+fairness:
+  low_value_inr: 1000
+  new_customer_days: 90
+  max_pair_ratio: 1.25             # internal target; the official scorer gives full marks at 1.0
+
+text:
+  word_ngram: [1, 2]
+  word_min_df: 3
+  char_ngram: [2, 5]
+  char_min_df: 5
+  char_max_features: 120000
+  logreg_c: 4.0
+
+model:
+  n_seeds: 3                    # abuse model is averaged over this many LightGBM seeds
+  abuse:
+    n_estimators: 500
+    learning_rate: 0.03
+    num_leaves: 48
+    min_child_samples: 30
+    subsample: 0.8
+    subsample_freq: 1
+    colsample_bytree: 0.7
+    reg_lambda: 8.0
+  reason:
+    n_estimators: 300
+    learning_rate: 0.05
+    num_leaves: 24
+    min_child_samples: 40
+    subsample: 0.8
+    subsample_freq: 1
+    colsample_bytree: 0.7
+    reg_lambda: 5.0
+
+size_chart:
+  top_k: 5
+  min_returns: 20
+
+history_windows_days: [30, 60, 90]
+label_history_max_lag_days: 92   # outcomes become known 1..92 days after a request (matches the test period length)
+similarity_lookback: 8
+
+calibration:
+  method: isotonic                 # or "sigmoid"
+
+explain:
+  top_reasons: 3                   # how many evidence items go into each justification
+
+preprocess:
+  return_window_days: 30           # retailer policy: 30-day returns (Phase 1: no request is later than this)
+  late_after_days: 14              # "late" = second half of the window
+  price_edges_inr: [500, 1000, 2000, 3000]
+  discount_edges_pct: [10, 30, 50]
+  rare_category_min_count: 50      # categories rarer than this in the TRAINING rows are pooled together
+  velocity_windows_days: [30, 60, 90]

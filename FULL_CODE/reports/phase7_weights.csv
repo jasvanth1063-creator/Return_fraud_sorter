@@ -1,0 +1,5 @@
+,weight
+catboost,0.333
+lightgbm_plain,0.467
+lightgbm_robust,0.067
+text_logreg,0.133

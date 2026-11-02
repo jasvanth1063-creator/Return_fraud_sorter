@@ -1,0 +1,5 @@
+,pred_abusive,pred_genuine_quality_issue,pred_genuine_fit_issue,pred_genuine_wrong_item
+true_abusive,112,866,659,287
+true_genuine_quality_issue,101,5994,318,68
+true_genuine_fit_issue,46,303,10674,21
+true_genuine_wrong_item,85,149,132,3941

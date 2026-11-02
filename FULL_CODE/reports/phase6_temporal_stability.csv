@@ -1,0 +1,7 @@
+,abusive_PR_AUC,abusive_PR_AUC,saving,saving
+month,2026-05,2026-06,2026-05,2026-06
+model,,,,
+catboost (Phase 5),0.728,0.695,0.318,0.301
+lightgbm_plain,0.749,0.702,0.308,0.295
+lightgbm_robust,0.723,0.662,0.267,0.207
+lightgbm_weighted,0.751,0.707,0.299,0.265

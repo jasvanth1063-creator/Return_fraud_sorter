@@ -1,0 +1,976 @@
+product_id,title,category,sub_category,gender,brand,price_inr,available_sizes,size_chart_id,fabric,fit_type,colour
+PRD-01317XS0,Gulmohar Threads Women's Yellow Linen Blend Solid with Border Saree,Women Ethnic,saree,women,Gulmohar Threads,2099,Free Size,,linen blend,free size,yellow
+PRD-02CYRRUX,Mohini Weaves Women's Olive Linen Blend Solid with Border Saree,Women Ethnic,saree,women,Mohini Weaves,6599,Free Size,,linen blend,free size,olive
+PRD-04NPYC95,Silvat Menswear Men's Grey Self Design Slim Jacquard Nehru Jacket,Men Ethnic,nehru jacket,men,Silvat Menswear,3999,S|M|L|XL,SC-YT2L6W,jacquard,slim,grey
+PRD-06J5RBZX,Taranga Lane Women's Brown Pack of 1 Churidar Viscose Lycra Leggings,Women Western,leggings,women,Taranga Lane,399,XS|S|M|L|XL|XXL,SC-2PKQPD,viscose lycra,churidar,brown
+PRD-08VWPI9P,Padchinh Men's Maroon Training Shoes,Footwear,sneakers,men,Padchinh,1899,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-0FNJTS,mesh,regular,maroon
+PRD-095UEYDJ,Padchinh Women's Maroon Running Shoes,Footwear,sneakers,women,Padchinh,1199,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-V5MLTZ,synthetic,regular,maroon
+PRD-0BMZDK1N,Gulmohar Threads Women's Yellow Chikankari Embroidered Straight Cotton Blend Kurta,Women Ethnic,kurta,women,Gulmohar Threads,1999,XS|S|M|L|XL|XXL,SC-YXAUMG,cotton blend,straight,yellow
+PRD-0CTF6TYT,Mohini Weaves Women's Maroon Cotton Kurta with Palazzo and Dupatta,Women Ethnic,kurta set,women,Mohini Weaves,1899,XS|S|M|L|XL,SC-ISLYF2,cotton,A-line,maroon
+PRD-0DX2ZVY3,Paavni Studio Women's Off-White Bandhani Print Flared Chanderi Silk Kurta,Women Ethnic,kurta,women,Paavni Studio,2299,XS|S|M|L|XL|XXL,SC-WX2SLW,chanderi silk,flared,off-white
+PRD-0ECGRQ5E,Kesarbagh Women's Mustard Striped Flared Cotton Blend Kurta,Women Ethnic,kurta,women,Kesarbagh,1199,XS|S|M|L|XL|XXL,SC-SX1YWY,cotton blend,flared,mustard
+PRD-0FB91LG2,Kadam Footwear Men's Brown Oxford Formal Shoes,Footwear,formal shoes,men,Kadam Footwear,3699,UK 6|UK 7|UK 8|UK 9|UK 10,SC-N2GJ5V,synthetic leather,regular,brown
+PRD-0FLCCUK8,Taranga Lane Women's Off-White Solid Ankle Length Viscose Lycra Leggings,Women Western,leggings,women,Taranga Lane,599,XS|S|M|L|XL|XXL,SC-PYZHCK,viscose lycra,ankle length,off-white
+PRD-0PSFHNCA,Veer Denim Works Men's Beige Mid Rise Relaxed Cotton Denim Jeans,Men Western,jeans,men,Veer Denim Works,1199,28|30|32|34|36|38|40,SC-PA59HA,cotton denim,relaxed,beige
+PRD-0QA3SG67,Karonda Studio Women's Off-White Solid Regular Georgette Top,Women Western,top,women,Karonda Studio,799,XS|S|M|L|XL|XXL,SC-RW2WK9,georgette,regular,off-white
+PRD-0RX6PNN8,Rangkaar Women's Orange Silk Blend Embroidered Lehenga Choli,Women Ethnic,lehenga,women,Rangkaar,3199,S|M|L|XL,SC-UHALZ3,silk blend,semi-stitched,orange
+PRD-0SJHNCWC,Mohini Weaves Women's Red Yoke Embroidered Regular Georgette Kurta,Women Ethnic,kurta,women,Mohini Weaves,1599,XS|S|M|L|XL,SC-ACP6D3,georgette,regular,red
+PRD-0TOR8GKX,Bahaar Street Women's Peach Wrap Fit And Flare Cotton Dress,Women Western,dress,women,Bahaar Street,2099,XS|S|M|L|XL|XXL,SC-SOCTMU,cotton,fit and flare,peach
+PRD-0TP5MAIC,Kesarbagh Women's Green Georgette Kurta with Palazzo and Dupatta,Women Ethnic,kurta set,women,Kesarbagh,1299,XS|S|M|L|XL|XXL,SC-Z63YCC,georgette,straight,green
+PRD-0TY20KUF,Kesarbagh Women's Black Solid Regular Chanderi Silk Kurta,Women Ethnic,kurta,women,Kesarbagh,899,XS|S|M|L|XL|XXL,SC-4EV3RS,chanderi silk,regular,black
+PRD-0U9QEM5V,Karonda Studio Women's Green Wrap Regular Crepe Dress,Women Western,dress,women,Karonda Studio,999,XS|S|M|L|XL|XXL,SC-88TGPY,crepe,regular,green
+PRD-0VSGE3MG,Mojri Mahal Men's Beige Walking Shoes,Footwear,sneakers,men,Mojri Mahal,2799,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-90ZQP4,synthetic leather,regular,beige
+PRD-0XOAWFVG,Mohini Weaves Women's Maroon Cotton Zari Woven Saree,Women Ethnic,saree,women,Mohini Weaves,1699,Free Size,,cotton,free size,maroon
+PRD-0XUZREJ1,Bahaar Street Women's Pink Solid Maxi Regular Rayon Dress,Women Western,dress,women,Bahaar Street,799,XS|S|M|L|XL,SC-SOCTMU,rayon,regular,pink
+PRD-0ZX2EOCB,Kadam Footwear Men's Pink Outdoor Sandals Sandals,Footwear,sandals,men,Kadam Footwear,1099,UK 6|UK 7|UK 8|UK 9|UK 10,SC-X70STK,leather,regular,pink
+PRD-0ZZVXVS9,Saffron Basics Men's Brown Checked Casual Slim Linen Blend Shirt,Men Western,shirt,men,Saffron Basics,2199,S|M|L|XL|XXL,SC-WO8UFI,linen blend,slim,brown
+PRD-10STN51E,Veer Denim Works Men's Black Striped Slim Polyester T-Shirt,Men Western,t-shirt,men,Veer Denim Works,499,S|M|L|XL|XXL,SC-TI3LT5,polyester,slim,black
+PRD-12G2PFOR,Mohini Weaves Women's Orange Printed Flared Rayon Palazzo,Women Ethnic,palazzo,women,Mohini Weaves,699,XS|S|M|L|XL|XXL,SC-NFL53I,rayon,flared,orange
+PRD-13J83J32,Paavni Studio Women's Peach Zari Woven Flared Net Anarkali,Women Ethnic,anarkali,women,Paavni Studio,3099,XS|S|M|L|XL|XXL,SC-LQ1RWL,net,flared,peach
+PRD-14100FCM,Pagdandi Menswear Men's Brown Polo Regular Cotton Blend T-Shirt,Men Western,t-shirt,men,Pagdandi Menswear,999,S|M|L|XL|XXL,SC-SWJKNR,cotton blend,regular,brown
+PRD-14JL1VAO,Silvat Menswear Men's Sky Blue Dark Wash Tapered Stretchable Denim Jeans,Men Western,jeans,men,Silvat Menswear,1399,28|30|32|34|36|38,SC-ZNXXNU,stretchable denim,tapered,sky blue
+PRD-14XQXFBM,Pagdandi Menswear Men's Off-White Distressed Relaxed Stretchable Denim Jeans,Men Western,jeans,men,Pagdandi Menswear,1699,28|30|32|34|36|38|40,SC-UBS6VA,stretchable denim,relaxed,off-white
+PRD-15JS92HU,Chalo Steps Men's Silver Casual Sneakers,Footwear,sneakers,men,Chalo Steps,2599,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-HVU875,mesh,regular,silver
+PRD-18FAMOY3,Mohini Weaves Women's Orange Linen Blend Printed Saree,Women Ethnic,saree,women,Mohini Weaves,1899,Free Size,,linen blend,free size,orange
+PRD-18IAHJIY,Bahaar Street Women's Red Light Fade Straight Cotton Denim Jeans,Women Western,jeans,women,Bahaar Street,1399,26|28|30|32|34|36,SC-49AQW7,cotton denim,straight,red
+PRD-18NWQ7S6,Taranga Lane Women's Blue Shirt Dress Regular Polyester Dress,Women Western,dress,women,Taranga Lane,799,XS|S|M|L|XL|XXL,SC-SKA0WC,polyester,regular,blue
+PRD-19G0OH8B,Silvat Menswear Men's Black Printed Straight Silk Blend Kurta,Men Ethnic,kurta,men,Silvat Menswear,699,S|M|L|XL|XXL,SC-97PMGZ,silk blend,straight,black
+PRD-1A6KKO06,Padchinh Men's Pink Derby Formal Shoes,Footwear,formal shoes,men,Padchinh,1999,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-CA46JW,leather,regular,pink
+PRD-1AG6SQOR,Silvat Menswear Men's Brown Printed Casual Slim Cotton Shirt,Men Western,shirt,men,Silvat Menswear,699,S|M|L|XL|XXL,SC-B8U76E,cotton,slim,brown
+PRD-1BTS6BLK,Chalo Steps Women's Pink Kolhapuri Style Flats,Footwear,flats,women,Chalo Steps,599,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-7656NH,synthetic,regular,pink
+PRD-1D8G9ZJ3,Saffron Basics Women's Peach Solid Maxi Bodycon Cotton Dress,Women Western,dress,women,Saffron Basics,2199,XS|S|M|L|XL|XXL,SC-PJV58I,cotton,bodycon,peach
+PRD-1E8IMI5M,Jhumka Lane Women's Bottle Green Chikankari Embroidered Regular Georgette Kurta,Women Ethnic,kurta,women,Jhumka Lane,899,XS|S|M|L|XL|XXL,SC-MD9V4K,georgette,regular,bottle green
+PRD-1FYNECOA,Gulmohar Threads Women's Brown Cotton Blend Kurta with Pants,Women Ethnic,kurta set,women,Gulmohar Threads,1699,XS|S|M|L|XL,SC-A20LE3,cotton blend,regular,brown
+PRD-1G97T2Y6,Silvat Menswear Men's Sky Blue Solid Straight Cotton Kurta,Men Ethnic,kurta,men,Silvat Menswear,1599,S|M|L|XL,SC-2R7MKZ,cotton,straight,sky blue
+PRD-1H2ANF3E,Gulmohar Threads Women's Wine Solid Regular Rayon Kurta,Women Ethnic,kurta,women,Gulmohar Threads,1099,XS|S|M|L|XL,SC-YXAUMG,rayon,regular,wine
+PRD-1HFD6JLN,Karonda Studio Women's Navy Blue Floral Print Fitted Polyester Top,Women Western,top,women,Karonda Studio,999,XS|S|M|L|XL|XXL,SC-03RSNR,polyester,fitted,navy blue
+PRD-1IMTEAFV,Kadam Footwear Women's Silver Kitten Heels Heels,Footwear,heels,women,Kadam Footwear,1799,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-8V4RR0,synthetic,regular,silver
+PRD-1J16BTUE,Gulmohar Threads Women's Brown Cotton Gota Patti Kurta Set,Women Ethnic,kurta set,women,Gulmohar Threads,1799,XS|S|M|L|XL|XXL,SC-QXB5CC,cotton,straight,brown
+PRD-1JFW1XCL,Shaan Ethnic Men's Off-White Pathani Straight Linen Blend Kurta,Men Ethnic,kurta,men,Shaan Ethnic,899,S|M|L|XL|XXL,SC-Z1A0DT,linen blend,straight,off-white
+PRD-1JPZ7X2C,Gulmohar Threads Women's Beige Linen Blend Zari Woven Saree,Women Ethnic,saree,women,Gulmohar Threads,1099,Free Size,,linen blend,free size,beige
+PRD-1KBI8KA2,Mohini Weaves Women's Mustard Solid Relaxed Rayon Palazzo,Women Ethnic,palazzo,women,Mohini Weaves,499,XS|S|M|L|XL|XXL,SC-NFL53I,rayon,relaxed,mustard
+PRD-1KLBZZNZ,Jhumka Lane Women's Navy Blue Chikankari Embroidered A-Line Chanderi Silk Kurta,Women Ethnic,kurta,women,Jhumka Lane,1599,XS|S|M|L|XL|XXL,SC-MD9V4K,chanderi silk,A-line,navy blue
+PRD-1MESTXFY,Silvat Menswear Men's Wine Textured Slim Cotton Chinos,Men Western,chinos,men,Silvat Menswear,1999,28|30|32|34|36|38|40,SC-NPH75P,cotton,slim,wine
+PRD-1MMZGLHC,Saffron Basics Women's Brown Floral Midi A-Line Cotton Dress,Women Western,dress,women,Saffron Basics,1499,XS|S|M|L|XL|XXL,SC-PJV58I,cotton,A-line,brown
+PRD-1RJRCB92,Saffron Basics Men's Cream Solid Regular Cotton Chinos,Men Western,chinos,men,Saffron Basics,1099,28|30|32|34|36|38,SC-GF81VS,cotton,regular,cream
+PRD-1T7XITEY,Silvat Menswear Men's Teal Printed Straight Cotton Kurta,Men Ethnic,kurta,men,Silvat Menswear,1999,S|M|L|XL|XXL,SC-2R7MKZ,cotton,straight,teal
+PRD-1U4V031G,Mohini Weaves Women's Off-White Leheriya Regular Chanderi Silk Kurta,Women Ethnic,kurta,women,Mohini Weaves,599,XS|S|M|L|XL|XXL,SC-ACP6D3,chanderi silk,regular,off-white
+PRD-1VMH4E5Z,Taranga Lane Women's Bottle Green Mid Rise Straight Stretchable Denim Jeans,Women Western,jeans,women,Taranga Lane,2199,26|28|30|32|34|36,SC-0IO2CX,stretchable denim,straight,bottle green
+PRD-1WAI3SJW,Saffron Basics Women's Navy Blue Shirt Dress Regular Crepe Dress,Women Western,dress,women,Saffron Basics,799,XS|S|M|L|XL,SC-PJV58I,crepe,regular,navy blue
+PRD-1Z6ANBXE,Chalo Steps Men's White Walking Shoes,Footwear,sneakers,men,Chalo Steps,4899,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-MLUSD5,synthetic leather,regular,white
+PRD-22QSUGZP,Karonda Studio Women's Red Ruffled Fitted Polyester Top,Women Western,top,women,Karonda Studio,1299,XS|S|M|L|XL,SC-RFCU3K,polyester,fitted,red
+PRD-23UW9UPN,Pagdandi Menswear Men's Peach Textured Slim Cotton Stretch Chinos,Men Western,chinos,men,Pagdandi Menswear,1499,28|30|32|34|36|38|40,SC-JJD1K2,cotton stretch,slim,peach
+PRD-24MD0SC6,Gulmohar Threads Women's Orange Striped Regular Rayon Kurta,Women Ethnic,kurta,women,Gulmohar Threads,1299,XS|S|M|L|XL|XXL,SC-YXAUMG,rayon,regular,orange
+PRD-26DJ5GG4,Saffron Basics Men's Peach Striped Formal Slim Linen Blend Shirt,Men Western,shirt,men,Saffron Basics,1699,S|M|L|XL|XXL,SC-EGR3QG,linen blend,slim,peach
+PRD-27FXAXXP,Kadam Footwear Women's Tan Kolhapuri Style Flats,Footwear,flats,women,Kadam Footwear,899,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-M2ORY3,synthetic,regular,tan
+PRD-27ZVW9IE,Karonda Studio Women's Mustard Striped Regular Polyester Top,Women Western,top,women,Karonda Studio,1299,XS|S|M|L|XL,SC-RFCU3K,polyester,regular,mustard
+PRD-2B2DH28I,Mohini Weaves Women's Maroon Silk Blend Zari Work Lehenga,Women Ethnic,lehenga,women,Mohini Weaves,3599,S|M|L|XL,SC-AYWT5W,silk blend,semi-stitched,maroon
+PRD-2BZP078I,Chalo Steps Men's Black Outdoor Sandals Sandals,Footwear,sandals,men,Chalo Steps,599,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-KXOZOG,synthetic,regular,black
+PRD-2CZADZF7,Veer Denim Works Men's Maroon Solid Formal Oversized Linen Blend Shirt,Men Western,shirt,men,Veer Denim Works,1099,S|M|L|XL|XXL,SC-P1HNA7,linen blend,relaxed,maroon
+PRD-2DA022DU,Rangkaar Women's Yellow Silk Blend Floral Lehenga with Dupatta,Women Ethnic,lehenga,women,Rangkaar,7999,S|M|L|XL,SC-UHALZ3,silk blend,flared,yellow
+PRD-2DC0ZM40,Kadam Footwear Men's Silver Outdoor Sandals Sandals,Footwear,sandals,men,Kadam Footwear,1899,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-X70STK,leather,regular,silver
+PRD-2DRVS5RN,Rangkaar Women's Brown Zari Woven Flared Net Anarkali,Women Ethnic,anarkali,women,Rangkaar,4499,XS|S|M|L|XL|XXL,SC-KH4929,net,flared,brown
+PRD-2HVMAAGB,Mohini Weaves Women's Orange Net Embroidered Lehenga Choli,Women Ethnic,lehenga,women,Mohini Weaves,3499,S|M|L|XL,SC-AYWT5W,net,semi-stitched,orange
+PRD-2I6L6ZIX,Taranga Lane Women's Grey Mid Rise Straight Stretchable Denim Jeans,Women Western,jeans,women,Taranga Lane,2399,26|28|30|32|34|36,SC-0IO2CX,stretchable denim,straight,grey
+PRD-2K7LIXKM,Kesarbagh Women's Red Cotton Bandhani Saree,Women Ethnic,saree,women,Kesarbagh,2999,Free Size,,cotton,free size,red
+PRD-2O65C7QA,Kesarbagh Men Men's Black Embroidered Set Straight Silk Blend Kurta Pyjama Set,Men Ethnic,kurta pyjama set,men,Kesarbagh Men,2699,S|M|L|XL|XXL,SC-5HZ2NQ,silk blend,straight,black
+PRD-2O6A1D0V,Padchinh Men's White Derby Formal Shoes,Footwear,formal shoes,men,Padchinh,1999,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-CA46JW,synthetic leather,regular,white
+PRD-2O7Q9WCM,Chalo Steps Women's Pink Pearl Work Juttis,Footwear,juttis,women,Chalo Steps,599,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-PLIV6U,velvet upper,regular,pink
+PRD-2OBFSNV7,Taranga Lane Women's Rani Pink Wrap Regular Georgette Dress,Women Western,dress,women,Taranga Lane,899,XS|S|M|L|XL|XXL,SC-24E9VS,georgette,regular,rani pink
+PRD-2QBTSZ2P,Mohini Weaves Women's Mustard Rayon Gota Patti Kurta Set,Women Ethnic,kurta set,women,Mohini Weaves,3799,XS|S|M|L|XL,SC-ISLYF2,rayon,A-line,mustard
+PRD-2QN95CR4,Mojri Mahal Men's Navy Blue Oxford Formal Shoes,Footwear,formal shoes,men,Mojri Mahal,3599,UK 6|UK 7|UK 8|UK 9|UK 10,SC-1QEWGK,leather,regular,navy blue
+PRD-2R6Y5HKZ,Gulmohar Threads Women's Off-White Georgette Mirror Work Lehenga,Women Ethnic,lehenga,women,Gulmohar Threads,3499,S|M|L|XL,SC-ENAASQ,georgette,semi-stitched,off-white
+PRD-2THI3N3K,Veer Denim Works Men's Teal Clean Look Tapered Stretchable Denim Jeans,Men Western,jeans,men,Veer Denim Works,1299,28|30|32|34|36|38|40,SC-U0EWPX,stretchable denim,tapered,teal
+PRD-2VREEUAF,Karonda Studio Women's Red Mid Rise Straight Cotton Denim Jeans,Women Western,jeans,women,Karonda Studio,999,26|28|30|32|34|36,SC-TU8F2V,cotton denim,straight,red
+PRD-2WAJUSJM,Pagdandi Menswear Men's Cream Checked Casual Slim Poly-Cotton Shirt,Men Western,shirt,men,Pagdandi Menswear,1199,S|M|L|XL,SC-0R2ENB,poly-cotton,slim,cream
+PRD-2WCCNMTU,Saffron Basics Women's Grey Shirt Dress A-Line Crepe Dress,Women Western,dress,women,Saffron Basics,1299,XS|S|M|L|XL,SC-PJV58I,crepe,A-line,grey
+PRD-2ZDCHDZ6,Kesarbagh Women's Beige Georgette Printed Saree,Women Ethnic,saree,women,Kesarbagh,1099,Free Size,,georgette,free size,beige
+PRD-2ZLD40GI,Bahaar Street Women's Rust Peplum Regular Rayon Top,Women Western,top,women,Bahaar Street,899,XS|S|M|L|XL|XXL,SC-ZVM0P8,rayon,regular,rust
+PRD-346GFE9N,Taranga Lane Women's Navy Blue Floral Midi Regular Georgette Dress,Women Western,dress,women,Taranga Lane,899,XS|S|M|L|XL|XXL,SC-8R3SIC,georgette,regular,navy blue
+PRD-356TLQQ5,Kesarbagh Men Men's Olive Solid Regular Silk Blend Kurta,Men Ethnic,kurta,men,Kesarbagh Men,1299,S|M|L|XL|XXL,SC-GXJ7N5,silk blend,regular,olive
+PRD-35C0LES9,Rangkaar Women's Brown Cotton Blend Printed Kurta with Sharara,Women Ethnic,kurta set,women,Rangkaar,1399,XS|S|M|L|XL|XXL,SC-XUZ9IJ,cotton blend,straight,brown
+PRD-37NUJVZ2,Rangkaar Women's Peach Cotton Blend Gota Patti Kurta Set,Women Ethnic,kurta set,women,Rangkaar,1699,XS|S|M|L|XL|XXL,SC-XUZ9IJ,cotton blend,straight,peach
+PRD-38MXC5ZM,Shaan Ethnic Men's Brown Solid Straight Jacquard Kurta,Men Ethnic,kurta,men,Shaan Ethnic,599,S|M|L|XL|XXL,SC-Z1A0DT,jacquard,straight,brown
+PRD-39QTZ3YS,Rangkaar Women's Olive Yoke Embroidered Flared Cotton Kurta,Women Ethnic,kurta,women,Rangkaar,499,XS|S|M|L|XL|XXL,SC-CPCQH3,cotton,flared,olive
+PRD-3ABQD3O0,Kesarbagh Women's Wine Rayon Embroidered Kurta Set,Women Ethnic,kurta set,women,Kesarbagh,999,XS|S|M|L|XL|XXL,SC-Z63YCC,rayon,straight,wine
+PRD-3MBU9VTE,Saffron Basics Women's Maroon Solid Maxi Bodycon Cotton Dress,Women Western,dress,women,Saffron Basics,799,XS|S|M|L|XL|XXL,SC-F07EX8,cotton,bodycon,maroon
+PRD-3N41DQ8R,Paavni Studio Women's Off-White Yoke Embroidered Regular Georgette Kurta,Women Ethnic,kurta,women,Paavni Studio,699,XS|S|M|L|XL|XXL,SC-WX2SLW,georgette,regular,off-white
+PRD-3NBMNYK0,Bahaar Street Women's Green Floral Midi Fit And Flare Rayon Dress,Women Western,dress,women,Bahaar Street,2499,XS|S|M|L|XL|XXL,SC-MY5UV2,rayon,fit and flare,green
+PRD-3NDX1YAQ,Kesarbagh Women's Red Cotton Blend Embroidered Kurta Set,Women Ethnic,kurta set,women,Kesarbagh,3899,XS|S|M|L|XL|XXL,SC-Z63YCC,cotton blend,straight,red
+PRD-3PBNYHJF,Saffron Basics Women's Bottle Green Solid Ankle Length Cotton Lycra Leggings,Women Western,leggings,women,Saffron Basics,599,XS|S|M|L|XL|XXL,SC-GO01WQ,cotton lycra,ankle length,bottle green
+PRD-3PUZMZSB,Mojri Mahal Men's Black Floaters Sandals,Footwear,sandals,men,Mojri Mahal,999,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-M3YBNQ,leather,regular,black
+PRD-3S8RTJCF,Silvat Menswear Men's Olive Solid Set Straight Jacquard Kurta Pyjama Set,Men Ethnic,kurta pyjama set,men,Silvat Menswear,1899,S|M|L|XL|XXL,SC-CNUV9X,jacquard,straight,olive
+PRD-3USVT0RH,Kadam Footwear Men's Pink Training Shoes,Footwear,sneakers,men,Kadam Footwear,2799,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-HFP7IG,canvas,regular,pink
+PRD-3WOOXZ9P,Kesarbagh Women's Mustard Yoke Embroidered Straight Chanderi Silk Kurta,Women Ethnic,kurta,women,Kesarbagh,1099,XS|S|M|L|XL|XXL,SC-4EV3RS,chanderi silk,straight,mustard
+PRD-3ZBEKOS0,Karonda Studio Women's Olive Pack of 1 Ankle Length Cotton Lycra Leggings,Women Western,leggings,women,Karonda Studio,499,XS|S|M|L|XL|XXL,SC-83LFSN,cotton lycra,ankle length,olive
+PRD-40MWE0WZ,Saffron Basics Men's Grey Distressed Regular Cotton Denim Jeans,Men Western,jeans,men,Saffron Basics,2299,28|30|32|34|36|38|40,SC-FKU70Q,cotton denim,regular,grey
+PRD-41LTH6DY,Veer Denim Works Men's Mustard Solid Regular Cotton Chinos,Men Western,chinos,men,Veer Denim Works,2399,28|30|32|34|36|38,SC-C5I25I,cotton,regular,mustard
+PRD-44RZAYJE,Rangkaar Women's Navy Blue Pleated Relaxed Cotton Palazzo,Women Ethnic,palazzo,women,Rangkaar,399,XS|S|M|L|XL|XXL,SC-OE2JYN,cotton,relaxed,navy blue
+PRD-45EINVHS,Rangkaar Women's Bottle Green Printed Regular Net Anarkali,Women Ethnic,anarkali,women,Rangkaar,1799,XS|S|M|L|XL|XXL,SC-XMCOIU,net,regular,bottle green
+PRD-46J1YGP5,Saffron Basics Women's Wine Tiered Regular Crepe Dress,Women Western,dress,women,Saffron Basics,1099,XS|S|M|L|XL|XXL,SC-PJV58I,crepe,regular,wine
+PRD-48SLO8KB,Padchinh Men's Navy Blue Zari Work Mojaris,Footwear,mojaris,men,Padchinh,1399,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-U7WWDK,synthetic leather,regular,navy blue
+PRD-49VBW831,Pagdandi Menswear Men's Brown Textured Slim Cotton Chinos,Men Western,chinos,men,Pagdandi Menswear,1299,28|30|32|34|36|38|40,SC-JJD1K2,cotton,slim,brown
+PRD-4A3DL2ON,Kesarbagh Women's Peach Floral Print Regular Georgette Kurta,Women Ethnic,kurta,women,Kesarbagh,1999,XS|S|M|L|XL|XXL,SC-BO0HZB,georgette,regular,peach
+PRD-4B1E9RR5,Pagdandi Menswear Men's Blue Solid Formal Slim Poly-Cotton Shirt,Men Western,shirt,men,Pagdandi Menswear,799,S|M|L|XL|XXL,SC-V0UICZ,poly-cotton,slim,blue
+PRD-4BROQ62N,Taranga Lane Women's Pink Wrap A-Line Cotton Dress,Women Western,dress,women,Taranga Lane,2699,XS|S|M|L|XL|XXL,SC-SKA0WC,cotton,A-line,pink
+PRD-4D41DKO3,Veer Denim Works Men's Grey Striped Slim Cotton Blend T-Shirt,Men Western,t-shirt,men,Veer Denim Works,599,S|M|L|XL|XXL,SC-TI3LT5,cotton blend,slim,grey
+PRD-4EC7U3GL,Mohini Weaves Women's Teal Sequinned Flared Net Anarkali,Women Ethnic,anarkali,women,Mohini Weaves,3199,XS|S|M|L|XL|XXL,SC-94IHKB,net,flared,teal
+PRD-4HIVHV6R,Veer Denim Works Men's Cream Mid Rise Relaxed Cotton Denim Jeans,Men Western,jeans,men,Veer Denim Works,2599,28|30|32|34|36|38|40,SC-PA59HA,cotton denim,relaxed,cream
+PRD-4HQ11WL0,Pagdandi Menswear Men's Grey Striped Formal Regular Poly-Cotton Shirt,Men Western,shirt,men,Pagdandi Menswear,999,S|M|L|XL|XXL,SC-3CCDB2,poly-cotton,regular,grey
+PRD-4JAUOR1U,Mohini Weaves Women's Brown Embroidered Regular Rayon Anarkali,Women Ethnic,anarkali,women,Mohini Weaves,4199,XS|S|M|L|XL,SC-ZBLNZ6,rayon,regular,brown
+PRD-4JFJBBNX,Taranga Lane Women's Yellow Mid Rise Wide Leg Cotton Denim Jeans,Women Western,jeans,women,Taranga Lane,999,26|28|30|32|34,SC-0IO2CX,cotton denim,wide leg,yellow
+PRD-4JR2178L,Gulmohar Threads Women's Mustard Rayon Kurta with Pants,Women Ethnic,kurta set,women,Gulmohar Threads,1099,XS|S|M|L|XL|XXL,SC-QXB5CC,rayon,straight,mustard
+PRD-4KNBIKU7,Silvat Menswear Men's Peach Printed Slim Velvet Nehru Jacket,Men Ethnic,nehru jacket,men,Silvat Menswear,1499,S|M|L|XL|XXL,SC-C82YGL,velvet,slim,peach
+PRD-4MWG9RP5,Mojri Mahal Women's White Stilettos Heels,Footwear,heels,women,Mojri Mahal,1699,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-S5XDRG,synthetic,regular,white
+PRD-4NEVE5NI,Padchinh Women's Grey Slip-ons Flats,Footwear,flats,women,Padchinh,1199,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-MPMQQB,PU,regular,grey
+PRD-4NXIBAFZ,Padchinh Men's Pink Loafers Formal Shoes,Footwear,formal shoes,men,Padchinh,2799,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-1E0X4Y,leather,regular,pink
+PRD-4O07YSL3,Mohini Weaves Women's White Banarasi Silk Blend Kanjeevaram-style Woven Saree,Women Ethnic,saree,women,Mohini Weaves,2199,Free Size,,banarasi silk blend,free size,white
+PRD-4OJ9I389,Kesarbagh Women's Grey Block Print Straight Cotton Kurta,Women Ethnic,kurta,women,Kesarbagh,899,XS|S|M|L|XL|XXL,SC-4EV3RS,cotton,straight,grey
+PRD-4OZNTWK9,Shaan Ethnic Men's Brown Solid Set Straight Silk Blend Kurta Pyjama Set,Men Ethnic,kurta pyjama set,men,Shaan Ethnic,1299,S|M|L|XL,SC-7QYQMJ,silk blend,straight,brown
+PRD-4P97ZOSJ,Saffron Basics Men's Olive Textured Regular Cotton Chinos,Men Western,chinos,men,Saffron Basics,1699,28|30|32|34|36|38,SC-GF81VS,cotton,regular,olive
+PRD-4QJ3R16O,Rangkaar Women's Green Muslin Kurta with Palazzo and Dupatta,Women Ethnic,kurta set,women,Rangkaar,999,XS|S|M|L|XL|XXL,SC-XUZ9IJ,muslin,regular,green
+PRD-4R050CDJ,Veer Denim Works Men's Off-White Solid Casual Slim Poly-Cotton Shirt,Men Western,shirt,men,Veer Denim Works,799,S|M|L|XL|XXL,SC-6R2QTT,poly-cotton,slim,off-white
+PRD-4TYV2KPF,Gulmohar Threads Women's Black Ikat Print Straight Georgette Kurta,Women Ethnic,kurta,women,Gulmohar Threads,2399,XS|S|M|L|XL|XXL,SC-YXAUMG,georgette,straight,black
+PRD-4UMQJHMP,Karonda Studio Women's Rani Pink Distressed Straight Stretchable Denim Jeans,Women Western,jeans,women,Karonda Studio,1899,26|28|30|32|34,SC-0J1XB9,stretchable denim,straight,rani pink
+PRD-4Y04Q2WN,Kadam Footwear Women's Maroon Kitten Heels Heels,Footwear,heels,women,Kadam Footwear,1599,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-8V4RR0,PU,regular,maroon
+PRD-4Y2SBGUR,Kesarbagh Women's Blue Chiffon Bandhani Saree,Women Ethnic,saree,women,Kesarbagh,1099,Free Size,,chiffon,free size,blue
+PRD-4YC66MJV,Paavni Studio Women's Rust Sequinned Flared Net Anarkali,Women Ethnic,anarkali,women,Paavni Studio,2399,XS|S|M|L|XL|XXL,SC-1AI6IZ,net,flared,rust
+PRD-4ZORXHP6,Kesarbagh Men Men's Cream Printed Straight Jacquard Kurta,Men Ethnic,kurta,men,Kesarbagh Men,799,S|M|L|XL|XXL,SC-GXJ7N5,jacquard,straight,cream
+PRD-51ER79L8,Kadam Footwear Women's Grey Embellished Flats Flats,Footwear,flats,women,Kadam Footwear,399,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-GPLSC7,canvas,regular,grey
+PRD-51PMF0OY,Kadam Footwear Men's Brown Embroidered Mojaris,Footwear,mojaris,men,Kadam Footwear,1399,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-V99Z9N,velvet upper,regular,brown
+PRD-52FUBQBY,Bahaar Street Women's Mustard Peplum Fitted Cotton Top,Women Western,top,women,Bahaar Street,1199,XS|S|M|L|XL,SC-AOBOKA,cotton,fitted,mustard
+PRD-52I2NE3J,Saffron Basics Men's Grey Striped Slim Polyester T-Shirt,Men Western,t-shirt,men,Saffron Basics,699,S|M|L|XL,SC-VJXMOW,polyester,slim,grey
+PRD-52UI3OVC,Karonda Studio Women's Bottle Green Solid Regular Georgette Top,Women Western,top,women,Karonda Studio,1299,XS|S|M|L|XL,SC-RFCU3K,georgette,regular,bottle green
+PRD-548B2SIR,Kesarbagh Women's Yellow Organza Printed Saree,Women Ethnic,saree,women,Kesarbagh,3999,Free Size,,organza,free size,yellow
+PRD-57I5F5XU,Kesarbagh Women's Peach Art Silk Sequinned Lehenga Set,Women Ethnic,lehenga,women,Kesarbagh,4799,S|M|L|XL,SC-SW83WB,art silk,semi-stitched,peach
+PRD-58DUZ6S5,Saffron Basics Women's Rani Pink Mid Rise Mom Fit Cotton Denim Jeans,Women Western,jeans,women,Saffron Basics,1099,26|28|30|32|34,SC-35W4TF,cotton denim,mom fit,rani pink
+PRD-5AIIIKS7,Mohini Weaves Women's Mustard Printed Flared Cotton Palazzo,Women Ethnic,palazzo,women,Mohini Weaves,899,XS|S|M|L|XL|XXL,SC-NFL53I,cotton,flared,mustard
+PRD-5AMD7QSV,Saffron Basics Women's Beige High Rise Straight Stretchable Denim Jeans,Women Western,jeans,women,Saffron Basics,999,26|28|30|32|34,SC-35W4TF,stretchable denim,straight,beige
+PRD-5HWZYKEY,Paavni Studio Women's Grey Block Print Regular Viscose Rayon Kurta,Women Ethnic,kurta,women,Paavni Studio,2099,XS|S|M|L|XL|XXL,SC-9HF1XI,viscose rayon,regular,grey
+PRD-5J5BRZR9,Rangkaar Women's Brown Block Print Straight Cotton Blend Kurta,Women Ethnic,kurta,women,Rangkaar,1699,XS|S|M|L|XL|XXL,SC-Y17XT5,cotton blend,straight,brown
+PRD-5JLIEJXO,Karonda Studio Women's Rani Pink Ruffled Fitted Polyester Top,Women Western,top,women,Karonda Studio,1299,XS|S|M|L|XL|XXL,SC-OC2F60,polyester,fitted,rani pink
+PRD-5JOERX32,Mohini Weaves Women's Yellow Cotton Blend Kurta with Pants,Women Ethnic,kurta set,women,Mohini Weaves,2799,XS|S|M|L|XL|XXL,SC-ISLYF2,cotton blend,straight,yellow
+PRD-5KS23EYH,Kesarbagh Women's Brown Striped Straight Chanderi Silk Kurta,Women Ethnic,kurta,women,Kesarbagh,999,XS|S|M|L|XL|XXL,SC-4EV3RS,chanderi silk,straight,brown
+PRD-5M9P89GL,Jhumka Lane Women's Lavender Bandhani Print A-Line Chanderi Silk Kurta,Women Ethnic,kurta,women,Jhumka Lane,599,XS|S|M|L|XL|XXL,SC-EQ2IBM,chanderi silk,A-line,lavender
+PRD-5NHOEEH8,Mojri Mahal Women's Tan Running Shoes,Footwear,sneakers,women,Mojri Mahal,3999,UK 3|UK 4|UK 5|UK 6|UK 7,SC-DH0CFX,mesh,regular,tan
+PRD-5OU66185,Chalo Steps Women's Tan Mirror Work Juttis,Footwear,juttis,women,Chalo Steps,599,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-4FSJS6,velvet upper,regular,tan
+PRD-5Q672Y16,Taranga Lane Women's Navy Blue Mid Rise Skinny Stretchable Denim Jeans,Women Western,jeans,women,Taranga Lane,899,26|28|30|32|34,SC-0IO2CX,stretchable denim,skinny,navy blue
+PRD-5QIV4UUK,Shaan Ethnic Men's Off-White Solid Straight Jacquard Kurta,Men Ethnic,kurta,men,Shaan Ethnic,2099,S|M|L|XL|XXL,SC-Z1A0DT,jacquard,straight,off-white
+PRD-5S9MVL7Q,Padchinh Women's Gold Block Heels Heels,Footwear,heels,women,Padchinh,1799,UK 3|UK 4|UK 5|UK 6|UK 7,SC-1E2OFH,synthetic,regular,gold
+PRD-5SH2QL0W,Saffron Basics Men's Beige Round Neck Solid Oversized Cotton T-Shirt,Men Western,t-shirt,men,Saffron Basics,699,S|M|L|XL,SC-VJXMOW,cotton,oversized,beige
+PRD-5SK0DTR9,Jhumka Lane Women's Red Yoke Embroidered Regular Georgette Kurta,Women Ethnic,kurta,women,Jhumka Lane,799,XS|S|M|L|XL,SC-CPAYKI,georgette,regular,red
+PRD-5Z9PJ69L,Mohini Weaves Women's Red Organza Zari Woven Saree,Women Ethnic,saree,women,Mohini Weaves,1099,Free Size,,organza,free size,red
+PRD-616XNZ5B,Gulmohar Threads Women's Brown Striped A-Line Cotton Blend Kurta,Women Ethnic,kurta,women,Gulmohar Threads,1699,XS|S|M|L|XL|XXL,SC-YXAUMG,cotton blend,A-line,brown
+PRD-61NN4KSO,Bahaar Street Women's Black Solid Regular Georgette Top,Women Western,top,women,Bahaar Street,799,XS|S|M|L|XL,SC-ZVM0P8,georgette,regular,black
+PRD-62ZGQD58,Gulmohar Threads Women's Maroon Printed Regular Rayon Anarkali,Women Ethnic,anarkali,women,Gulmohar Threads,2799,XS|S|M|L|XL|XXL,SC-LUID2D,rayon,regular,maroon
+PRD-64YTSABJ,Taranga Lane Women's Maroon Shirt Dress Regular Crepe Dress,Women Western,dress,women,Taranga Lane,999,XS|S|M|L|XL,SC-SKA0WC,crepe,regular,maroon
+PRD-66Y0ODJI,Mojri Mahal Women's Grey Pearl Work Juttis,Footwear,juttis,women,Mojri Mahal,1599,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-62PY7I,leather,regular,grey
+PRD-68CBLXYC,Mojri Mahal Women's Gold Casual Sneakers,Footwear,sneakers,women,Mojri Mahal,1399,UK 3|UK 4|UK 5|UK 6|UK 7,SC-DH0CFX,mesh,regular,gold
+PRD-68ELR4AI,Kesarbagh Men Men's Brown Solid Set Regular Jacquard Kurta Pyjama Set,Men Ethnic,kurta pyjama set,men,Kesarbagh Men,3399,S|M|L|XL|XXL,SC-5HZ2NQ,jacquard,regular,brown
+PRD-68VZUSLQ,Saffron Basics Men's Light Pink Dark Wash Relaxed Stretchable Denim Jeans,Men Western,jeans,men,Saffron Basics,1099,28|30|32|34|36|38,SC-FKU70Q,stretchable denim,relaxed,light pink
+PRD-69LGDI3F,Mohini Weaves Women's Rust Art Silk Bandhani Dupatta,Women Ethnic,dupatta,women,Mohini Weaves,699,Free Size,,art silk,free size,rust
+PRD-69UBZVAF,Mohini Weaves Women's Pink Striped Flared Georgette Kurta,Women Ethnic,kurta,women,Mohini Weaves,1999,XS|S|M|L|XL|XXL,SC-ACP6D3,georgette,flared,pink
+PRD-6AOH3TT5,Saffron Basics Women's Brown Clean Look Mom Fit Stretchable Denim Jeans,Women Western,jeans,women,Saffron Basics,1399,26|28|30|32|34,SC-35W4TF,stretchable denim,mom fit,brown
+PRD-6CTX60FH,Silvat Menswear Men's Light Pink Distressed Tapered Cotton Denim Jeans,Men Western,jeans,men,Silvat Menswear,2499,28|30|32|34|36|38|40,SC-977YA6,cotton denim,tapered,light pink
+PRD-6DFMU8J4,Pagdandi Menswear Men's Off-White Printed Casual Slim Poly-Cotton Shirt,Men Western,shirt,men,Pagdandi Menswear,799,S|M|L|XL|XXL,SC-V0UICZ,poly-cotton,slim,off-white
+PRD-6DMT1921,Kesarbagh Men Men's Grey Chikankari Straight Cotton Kurta,Men Ethnic,kurta,men,Kesarbagh Men,2199,S|M|L|XL|XXL,SC-GXJ7N5,cotton,straight,grey
+PRD-6E0JX9YN,Jhumka Lane Women's Wine Sequinned Flared Rayon Anarkali,Women Ethnic,anarkali,women,Jhumka Lane,4899,XS|S|M|L|XL|XXL,SC-7X17S1,rayon,flared,wine
+PRD-6EYPM4Z6,Kadam Footwear Women's Brown Kolhapuri Style Flats,Footwear,flats,women,Kadam Footwear,599,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-GPLSC7,synthetic,regular,brown
+PRD-6FMNEHIZ,Saffron Basics Women's Beige Floral Midi A-Line Cotton Dress,Women Western,dress,women,Saffron Basics,1699,XS|S|M|L|XL,SC-7P5EQ1,cotton,A-line,beige
+PRD-6GIB1HTU,Silvat Menswear Men's Off-White Henley Regular Cotton T-Shirt,Men Western,t-shirt,men,Silvat Menswear,499,S|M|L|XL|XXL,SC-VLVWX8,cotton,regular,off-white
+PRD-6GQMJX0R,Kadam Footwear Women's Gold Kolhapuri Style Flats,Footwear,flats,women,Kadam Footwear,599,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-GPLSC7,synthetic,regular,gold
+PRD-6IN52D6X,Taranga Lane Women's Wine High Rise Wide Leg Stretchable Denim Jeans,Women Western,jeans,women,Taranga Lane,1399,26|28|30|32|34,SC-0IO2CX,stretchable denim,wide leg,wine
+PRD-6JG12RLX,Karonda Studio Women's Bottle Green Light Fade Mom Fit Cotton Denim Jeans,Women Western,jeans,women,Karonda Studio,799,26|28|30|32|34,SC-KJ9ASP,cotton denim,mom fit,bottle green
+PRD-6KAA5E82,Shaan Ethnic Men's Teal Jacquard Silk Blend Self Design Sherwani,Men Ethnic,sherwani,men,Shaan Ethnic,6899,S|M|L|XL|XXL,SC-X7J8NC,jacquard silk blend,regular,teal
+PRD-6NF720PS,Gulmohar Threads Women's Peach Ikat Print Straight Viscose Rayon Kurta,Women Ethnic,kurta,women,Gulmohar Threads,1499,XS|S|M|L|XL|XXL,SC-YXAUMG,viscose rayon,straight,peach
+PRD-6NOIAQDC,Bahaar Street Women's Brown Pack of 1 Ankle Length Cotton Lycra Leggings,Women Western,leggings,women,Bahaar Street,599,XS|S|M|L|XL,SC-2B5DRX,cotton lycra,ankle length,brown
+PRD-6O664IES,Kesarbagh Men Men's Mustard Jacquard Set Straight Jacquard Kurta Pyjama Set,Men Ethnic,kurta pyjama set,men,Kesarbagh Men,2599,S|M|L|XL,SC-5HZ2NQ,jacquard,straight,mustard
+PRD-6OCKOC4K,Paavni Studio Women's Bottle Green Yoke Embroidered Straight Cotton Kurta,Women Ethnic,kurta,women,Paavni Studio,1399,XS|S|M|L|XL,SC-TBZ7TT,cotton,straight,bottle green
+PRD-6OL2KLOA,Chalo Steps Men's Maroon Floaters Sandals,Footwear,sandals,men,Chalo Steps,599,UK 6|UK 7|UK 8|UK 9|UK 10,SC-C6KBV0,leather,regular,maroon
+PRD-6R2CK386,Mohini Weaves Women's Black Muslin Gota Patti Kurta Set,Women Ethnic,kurta set,women,Mohini Weaves,3599,XS|S|M|L|XL|XXL,SC-ISLYF2,muslin,straight,black
+PRD-6RBT5PSE,Paavni Studio Women's White Striped Flared Chanderi Silk Kurta,Women Ethnic,kurta,women,Paavni Studio,899,XS|S|M|L|XL,SC-WX2SLW,chanderi silk,flared,white
+PRD-6T36F44O,Kadam Footwear Women's Grey Casual Sneakers,Footwear,sneakers,women,Kadam Footwear,2999,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-3IC0H0,synthetic,regular,grey
+PRD-6TFD446W,Silvat Menswear Men's White Printed Regular Linen Blend Kurta,Men Ethnic,kurta,men,Silvat Menswear,1499,S|M|L|XL|XXL,SC-2R7MKZ,linen blend,regular,white
+PRD-6UUY7P9W,Silvat Menswear Men's Light Pink Dark Wash Slim Cotton Denim Jeans,Men Western,jeans,men,Silvat Menswear,2099,28|30|32|34|36|38|40,SC-977YA6,cotton denim,slim,light pink
+PRD-6V9A8OVC,Mohini Weaves Women's Rani Pink Muslin Embroidered Kurta Set,Women Ethnic,kurta set,women,Mohini Weaves,1199,XS|S|M|L|XL,SC-ISLYF2,muslin,regular,rani pink
+PRD-6VMGLZO5,Kesarbagh Women's Off-White Cotton Sequinned Saree,Women Ethnic,saree,women,Kesarbagh,3099,Free Size,,cotton,free size,off-white
+PRD-6ZNMYG1W,Shaan Ethnic Men's Light Pink Solid Set Regular Jacquard Kurta Pyjama Set,Men Ethnic,kurta pyjama set,men,Shaan Ethnic,3199,S|M|L|XL|XXL,SC-7QYQMJ,jacquard,regular,light pink
+PRD-70PJ0T8I,Gulmohar Threads Women's Peach Chiffon Solid with Border Saree,Women Ethnic,saree,women,Gulmohar Threads,4699,Free Size,,chiffon,free size,peach
+PRD-711TB1MU,Kesarbagh Women's Peach Block Print Flared Chanderi Silk Kurta,Women Ethnic,kurta,women,Kesarbagh,1699,XS|S|M|L|XL|XXL,SC-4EV3RS,chanderi silk,flared,peach
+PRD-71CK4V7R,Mojri Mahal Men's Grey Walking Shoes,Footwear,sneakers,men,Mojri Mahal,1099,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-90ZQP4,canvas,regular,grey
+PRD-72UP4KYV,Mojri Mahal Women's Beige Embroidered Juttis,Footwear,juttis,women,Mojri Mahal,1099,UK 3|UK 4|UK 5|UK 6|UK 7,SC-62PY7I,velvet upper,regular,beige
+PRD-78O8JLNW,Kadam Footwear Women's Gold Mirror Work Juttis,Footwear,juttis,women,Kadam Footwear,699,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-QCALXU,velvet upper,regular,gold
+PRD-79FKF6V7,Kesarbagh Women's Olive Pleated Relaxed Cotton Palazzo,Women Ethnic,palazzo,women,Kesarbagh,899,XS|S|M|L|XL|XXL,SC-BXL34E,cotton,relaxed,olive
+PRD-7C3UBNJD,Saffron Basics Men's Off-White Polo Slim Cotton T-Shirt,Men Western,t-shirt,men,Saffron Basics,399,S|M|L|XL,SC-VJXMOW,cotton,slim,off-white
+PRD-7CD1GPF1,Rangkaar Women's Yellow Yoke Embroidered Straight Georgette Kurta,Women Ethnic,kurta,women,Rangkaar,499,XS|S|M|L|XL,SC-Y17XT5,georgette,straight,yellow
+PRD-7D7WK7MP,Gulmohar Threads Women's Blue Yoke Embroidered Flared Cotton Kurta,Women Ethnic,kurta,women,Gulmohar Threads,899,XS|S|M|L|XL,SC-YXAUMG,cotton,flared,blue
+PRD-7DTJGEJ2,Saffron Basics Men's Off-White Round Neck Solid Slim Cotton T-Shirt,Men Western,t-shirt,men,Saffron Basics,999,S|M|L|XL,SC-VJXMOW,cotton,slim,off-white
+PRD-7ELXPZ21,Rangkaar Women's Wine Georgette Mirror Work Lehenga,Women Ethnic,lehenga,women,Rangkaar,4199,S|M|L|XL,SC-87AER3,georgette,semi-stitched,wine
+PRD-7GK9P6YS,Mohini Weaves Women's Wine Rayon Embroidered Kurta Set,Women Ethnic,kurta set,women,Mohini Weaves,3099,XS|S|M|L|XL|XXL,SC-ISLYF2,rayon,A-line,wine
+PRD-7HK65BGI,Kesarbagh Women's Lavender Cotton Printed Saree,Women Ethnic,saree,women,Kesarbagh,1199,Free Size,,cotton,free size,lavender
+PRD-7HQAH0BG,Saffron Basics Men's Wine Solid Regular Cotton Stretch Chinos,Men Western,chinos,men,Saffron Basics,1999,28|30|32|34|36|38|40,SC-DHGHT8,cotton stretch,regular,wine
+PRD-7HR5A0TB,Silvat Menswear Men's Teal Round Neck Solid Oversized Cotton Blend T-Shirt,Men Western,t-shirt,men,Silvat Menswear,699,S|M|L|XL|XXL,SC-YFHTOP,cotton blend,oversized,teal
+PRD-7HVS16D0,Kesarbagh Women's White Cotton Sequinned Saree,Women Ethnic,saree,women,Kesarbagh,4399,Free Size,,cotton,free size,white
+PRD-7JKXHVKB,Mojri Mahal Women's Gold Kitten Heels Heels,Footwear,heels,women,Mojri Mahal,2199,UK 3|UK 4|UK 5|UK 6|UK 7,SC-U80I9E,PU,regular,gold
+PRD-7KJ1TI0J,Karonda Studio Women's Off-White Solid Fitted Cotton Top,Women Western,top,women,Karonda Studio,399,XS|S|M|L|XL|XXL,SC-RFCU3K,cotton,fitted,off-white
+PRD-7KKVB3KZ,Saffron Basics Men's Sky Blue Solid Regular Cotton Chinos,Men Western,chinos,men,Saffron Basics,1099,28|30|32|34|36|38,SC-GF81VS,cotton,regular,sky blue
+PRD-7NDH0OJO,Silvat Menswear Men's Beige Solid Formal Slim Linen Blend Shirt,Men Western,shirt,men,Silvat Menswear,699,S|M|L|XL|XXL,SC-LX39AM,linen blend,slim,beige
+PRD-7NVFPSGF,Jhumka Lane Women's Maroon Georgette Printed Kurta with Sharara,Women Ethnic,kurta set,women,Jhumka Lane,2999,XS|S|M|L|XL,SC-UALE84,georgette,A-line,maroon
+PRD-7NVFZGX0,Padchinh Women's Maroon Casual Sneakers,Footwear,sneakers,women,Padchinh,1499,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-V5MLTZ,mesh,regular,maroon
+PRD-7P4GOLFM,Kadam Footwear Women's Black Block Heels Heels,Footwear,heels,women,Kadam Footwear,2599,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-8V4RR0,PU,regular,black
+PRD-7RK0WQRO,Karonda Studio Women's Teal Light Fade Straight Cotton Denim Jeans,Women Western,jeans,women,Karonda Studio,1599,26|28|30|32|34|36,SC-VR4X8M,cotton denim,straight,teal
+PRD-7RRG2YX3,Veer Denim Works Men's Teal Solid Formal Regular Linen Blend Shirt,Men Western,shirt,men,Veer Denim Works,799,S|M|L|XL|XXL,SC-6R2QTT,linen blend,regular,teal
+PRD-7S68TQDF,Jhumka Lane Women's Wine Georgette Gota Patti Kurta Set,Women Ethnic,kurta set,women,Jhumka Lane,1599,XS|S|M|L|XL,SC-IKCOMJ,georgette,A-line,wine
+PRD-7U8M23BK,Gulmohar Threads Women's Navy Blue Yoke Embroidered Straight Cotton Kurta,Women Ethnic,kurta,women,Gulmohar Threads,1599,XS|S|M|L|XL|XXL,SC-YXAUMG,cotton,straight,navy blue
+PRD-7UJ1AC9V,Rangkaar Women's Rani Pink Cotton Blend Embroidered Kurta Set,Women Ethnic,kurta set,women,Rangkaar,3599,XS|S|M|L|XL|XXL,SC-W118KF,cotton blend,regular,rani pink
+PRD-7UJ9T1NI,Chalo Steps Women's White Kolhapuri Style Flats,Footwear,flats,women,Chalo Steps,799,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-7656NH,synthetic,regular,white
+PRD-7VZKZVXA,Kesarbagh Women's Peach Georgette Floral Lehenga with Dupatta,Women Ethnic,lehenga,women,Kesarbagh,4599,S|M|L|XL,SC-YJ7ULQ,georgette,semi-stitched,peach
+PRD-80AXKGRS,Mojri Mahal Men's Brown Floaters Sandals,Footwear,sandals,men,Mojri Mahal,1299,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-U8WZ1G,leather,regular,brown
+PRD-81P5N629,Chalo Steps Women's Pink Ballerinas Flats,Footwear,flats,women,Chalo Steps,399,UK 3|UK 4|UK 5|UK 6|UK 7,SC-7656NH,PU,regular,pink
+PRD-81PB015D,Silvat Menswear Men's Olive Jacquard Set Regular Silk Blend Kurta Pyjama Set,Men Ethnic,kurta pyjama set,men,Silvat Menswear,1499,S|M|L|XL|XXL,SC-CNUV9X,silk blend,regular,olive
+PRD-835SPAI1,Saffron Basics Men's Peach Graphic Print Oversized Polyester T-Shirt,Men Western,t-shirt,men,Saffron Basics,299,S|M|L|XL,SC-337NNL,polyester,oversized,peach
+PRD-89QK94AD,Kesarbagh Women's Rani Pink Georgette Zari Woven Saree,Women Ethnic,saree,women,Kesarbagh,5099,Free Size,,georgette,free size,rani pink
+PRD-8A7IO5Z5,Jhumka Lane Women's Brown Ikat Print A-Line Cotton Blend Kurta,Women Ethnic,kurta,women,Jhumka Lane,1099,XS|S|M|L|XL,SC-MD9V4K,cotton blend,A-line,brown
+PRD-8C7YL8QN,Karonda Studio Women's Pink Floral Print Regular Polyester Top,Women Western,top,women,Karonda Studio,399,XS|S|M|L|XL|XXL,SC-RFCU3K,polyester,regular,pink
+PRD-8CGAYPME,Gulmohar Threads Women's Green Leheriya Flared Cotton Kurta,Women Ethnic,kurta,women,Gulmohar Threads,1399,XS|S|M|L|XL,SC-YXAUMG,cotton,flared,green
+PRD-8D454GF2,Kadam Footwear Men's Brown Strap Sandals Sandals,Footwear,sandals,men,Kadam Footwear,1099,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-X70STK,PU,regular,brown
+PRD-8DONJJ0L,Chalo Steps Men's Pink Derby Formal Shoes,Footwear,formal shoes,men,Chalo Steps,2099,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-GH7KDI,leather,regular,pink
+PRD-8EKK72TN,Saffron Basics Women's Rani Pink Tiered A-Line Georgette Dress,Women Western,dress,women,Saffron Basics,1099,XS|S|M|L|XL|XXL,SC-J218VL,georgette,A-line,rani pink
+PRD-8INAKCGJ,Gulmohar Threads Women's Lavender Rayon Gota Patti Kurta Set,Women Ethnic,kurta set,women,Gulmohar Threads,1399,XS|S|M|L|XL|XXL,SC-QXB5CC,rayon,straight,lavender
+PRD-8KH7DB6K,Kesarbagh Women's Rust Cotton Blend Printed Kurta with Sharara,Women Ethnic,kurta set,women,Kesarbagh,2399,XS|S|M|L|XL|XXL,SC-Z63YCC,cotton blend,regular,rust
+PRD-8KSXET91,Mohini Weaves Women's Off-White Muslin Kurta with Palazzo and Dupatta,Women Ethnic,kurta set,women,Mohini Weaves,2599,XS|S|M|L|XL|XXL,SC-H93ZQM,muslin,regular,off-white
+PRD-8KU1WWMP,Saffron Basics Men's Mustard Solid Casual Slim Poly-Cotton Shirt,Men Western,shirt,men,Saffron Basics,899,S|M|L|XL|XXL,SC-WO8UFI,poly-cotton,slim,mustard
+PRD-8M2BE1MX,Jhumka Lane Women's Beige Velvet Embroidered Lehenga Choli,Women Ethnic,lehenga,women,Jhumka Lane,5599,S|M|L|XL,SC-4WFUJS,velvet,flared,beige
+PRD-8MG8BJ77,Paavni Studio Women's Rani Pink Cotton Printed Kurta with Sharara,Women Ethnic,kurta set,women,Paavni Studio,2499,XS|S|M|L|XL|XXL,SC-2B1Y48,cotton,regular,rani pink
+PRD-8OLRI9YB,Mohini Weaves Women's Navy Blue Pleated Relaxed Rayon Palazzo,Women Ethnic,palazzo,women,Mohini Weaves,499,XS|S|M|L|XL|XXL,SC-YM7IS0,rayon,relaxed,navy blue
+PRD-8QE50NJD,Chalo Steps Women's Navy Blue Pearl Work Juttis,Footwear,juttis,women,Chalo Steps,499,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-PLIV6U,velvet upper,regular,navy blue
+PRD-8SHAQPF1,Rangkaar Women's Pink Striped Regular Cotton Blend Kurta,Women Ethnic,kurta,women,Rangkaar,599,XS|S|M|L|XL|XXL,SC-9E00DI,cotton blend,regular,pink
+PRD-8TQUUI87,Shaan Ethnic Men's Sky Blue Solid Slim Linen Blend Nehru Jacket,Men Ethnic,nehru jacket,men,Shaan Ethnic,2599,S|M|L|XL|XXL,SC-8T3Y8H,linen blend,slim,sky blue
+PRD-8UU93BIE,Saffron Basics Men's Teal Distressed Tapered Stretchable Denim Jeans,Men Western,jeans,men,Saffron Basics,1699,28|30|32|34|36|38|40,SC-FKU70Q,stretchable denim,tapered,teal
+PRD-8V55ONRM,Taranga Lane Women's Off-White Distressed Mom Fit Cotton Denim Jeans,Women Western,jeans,women,Taranga Lane,2199,26|28|30|32|34|36,SC-0IO2CX,cotton denim,mom fit,off-white
+PRD-8ZFSWLTL,Bahaar Street Women's Pink Light Fade Skinny Stretchable Denim Jeans,Women Western,jeans,women,Bahaar Street,1099,26|28|30|32|34|36,SC-L0P2VO,stretchable denim,skinny,pink
+PRD-92ZBLUQJ,Karonda Studio Women's Mustard Striped Regular Georgette Top,Women Western,top,women,Karonda Studio,499,XS|S|M|L|XL|XXL,SC-RFCU3K,georgette,regular,mustard
+PRD-939HNZG3,Kadam Footwear Women's White Ballerinas Flats,Footwear,flats,women,Kadam Footwear,1099,UK 3|UK 4|UK 5|UK 6|UK 7,SC-2955QE,PU,regular,white
+PRD-94VBWSHP,Taranga Lane Women's Off-White Floral Print Fitted Georgette Top,Women Western,top,women,Taranga Lane,699,XS|S|M|L|XL|XXL,SC-VT79W0,georgette,fitted,off-white
+PRD-95881KMV,Taranga Lane Women's Wine Solid Churidar Viscose Lycra Leggings,Women Western,leggings,women,Taranga Lane,699,XS|S|M|L|XL,SC-2PKQPD,viscose lycra,churidar,wine
+PRD-9797JTB2,Kesarbagh Women's White Organza Solid with Border Saree,Women Ethnic,saree,women,Kesarbagh,899,Free Size,,organza,free size,white
+PRD-981FC2UY,Veer Denim Works Men's Teal Solid Slim Cotton Chinos,Men Western,chinos,men,Veer Denim Works,1099,28|30|32|34|36|38|40,SC-C5I25I,cotton,slim,teal
+PRD-982U254S,Gulmohar Threads Women's Grey Muslin Kurta with Pants,Women Ethnic,kurta set,women,Gulmohar Threads,1799,XS|S|M|L|XL|XXL,SC-NUYYL2,muslin,straight,grey
+PRD-98OHO8AM,Kesarbagh Men Men's Light Pink Printed Regular Silk Blend Kurta,Men Ethnic,kurta,men,Kesarbagh Men,1899,S|M|L|XL,SC-OXMCRL,silk blend,regular,light pink
+PRD-9BL5TCA0,Mojri Mahal Men's White Walking Shoes,Footwear,sneakers,men,Mojri Mahal,2599,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-90ZQP4,mesh,regular,white
+PRD-9CZ9OF3D,Taranga Lane Women's Lavender Sequinned Party Bodycon Crepe Dress,Women Western,dress,women,Taranga Lane,999,XS|S|M|L|XL|XXL,SC-SKA0WC,crepe,bodycon,lavender
+PRD-9DKO9HWT,Veer Denim Works Men's Cream Checked Casual Slim Cotton Shirt,Men Western,shirt,men,Veer Denim Works,699,S|M|L|XL,SC-6R2QTT,cotton,slim,cream
+PRD-9EWRMSXA,Saffron Basics Women's Pink Solid Boxy Cotton Top,Women Western,top,women,Saffron Basics,799,XS|S|M|L|XL|XXL,SC-MA75DH,cotton,boxy,pink
+PRD-9F25MEL0,Gulmohar Threads Women's Orange Striped Regular Chanderi Silk Kurta,Women Ethnic,kurta,women,Gulmohar Threads,1199,XS|S|M|L|XL|XXL,SC-0XJVE1,chanderi silk,regular,orange
+PRD-9FIENGMK,Kadam Footwear Men's Brown Zari Work Mojaris,Footwear,mojaris,men,Kadam Footwear,1799,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-V99Z9N,synthetic leather,regular,brown
+PRD-9FX5WJ1E,Saffron Basics Men's Off-White Solid Casual Regular Linen Blend Shirt,Men Western,shirt,men,Saffron Basics,2099,S|M|L|XL|XXL,SC-WO8UFI,linen blend,regular,off-white
+PRD-9IE9VHR1,Jhumka Lane Women's Rani Pink Net Gota Border Dupatta,Women Ethnic,dupatta,women,Jhumka Lane,699,Free Size,,net,free size,rani pink
+PRD-9JB2XFNJ,Bahaar Street Women's Red Floral Print Fitted Crepe Top,Women Western,top,women,Bahaar Street,499,XS|S|M|L|XL|XXL,SC-4HZD7P,crepe,fitted,red
+PRD-9K9WWXE4,Mojri Mahal Men's Brown Floaters Sandals,Footwear,sandals,men,Mojri Mahal,499,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-U8WZ1G,synthetic,regular,brown
+PRD-9LZ6F9O1,Bahaar Street Women's Lavender Tiered Regular Polyester Dress,Women Western,dress,women,Bahaar Street,2299,XS|S|M|L|XL|XXL,SC-M4ARGW,polyester,regular,lavender
+PRD-9MXM8VQR,Karonda Studio Women's Rust Floral Midi Bodycon Polyester Dress,Women Western,dress,women,Karonda Studio,1999,XS|S|M|L|XL|XXL,SC-9ZCDOA,polyester,bodycon,rust
+PRD-9PHCLSJJ,Mojri Mahal Men's Navy Blue Oxford Formal Shoes,Footwear,formal shoes,men,Mojri Mahal,2499,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-1QEWGK,leather,regular,navy blue
+PRD-9QMRG550,Gulmohar Threads Women's Navy Blue Linen Blend Bandhani Saree,Women Ethnic,saree,women,Gulmohar Threads,999,Free Size,,linen blend,free size,navy blue
+PRD-9QQJHX5J,Veer Denim Works Men's Olive Mid Rise Tapered Stretchable Denim Jeans,Men Western,jeans,men,Veer Denim Works,2299,28|30|32|34|36|38|40,SC-PA59HA,stretchable denim,tapered,olive
+PRD-9R329FL8,Kesarbagh Women's White Cotton Kanjeevaram-style Woven Saree,Women Ethnic,saree,women,Kesarbagh,5599,Free Size,,cotton,free size,white
+PRD-9SJ8VVFL,Paavni Studio Women's Olive Printed Relaxed Crepe Palazzo,Women Ethnic,palazzo,women,Paavni Studio,599,XS|S|M|L|XL|XXL,SC-UAA0GW,crepe,relaxed,olive
+PRD-9TZISZ4H,Karonda Studio Women's Navy Blue Peplum Boxy Rayon Top,Women Western,top,women,Karonda Studio,799,XS|S|M|L|XL|XXL,SC-RFCU3K,rayon,boxy,navy blue
+PRD-9V8X7DFM,Mohini Weaves Women's Rust Solid Flared Cotton Palazzo,Women Ethnic,palazzo,women,Mohini Weaves,699,XS|S|M|L|XL|XXL,SC-5QGS9J,cotton,flared,rust
+PRD-9W22PRRP,Chalo Steps Men's Maroon Embroidered Mojaris,Footwear,mojaris,men,Chalo Steps,1499,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-ESZSVQ,velvet upper,regular,maroon
+PRD-9ZDC1FT9,Rangkaar Women's Blue Bandhani Print Straight Chanderi Silk Kurta,Women Ethnic,kurta,women,Rangkaar,1499,XS|S|M|L|XL|XXL,SC-Y17XT5,chanderi silk,straight,blue
+PRD-A02E93XX,Mohini Weaves Women's Blue Banarasi Silk Blend Printed Saree,Women Ethnic,saree,women,Mohini Weaves,1999,Free Size,,banarasi silk blend,free size,blue
+PRD-A5P6ACO6,Kesarbagh Men Men's Wine Chikankari Regular Linen Blend Kurta,Men Ethnic,kurta,men,Kesarbagh Men,2499,S|M|L|XL|XXL,SC-GXJ7N5,linen blend,regular,wine
+PRD-A6E0HRU6,Saffron Basics Men's Teal Graphic Print Slim Polyester T-Shirt,Men Western,t-shirt,men,Saffron Basics,399,S|M|L|XL|XXL,SC-VJXMOW,polyester,slim,teal
+PRD-A6MOLXHM,Gulmohar Threads Women's Pink Pleated Relaxed Rayon Palazzo,Women Ethnic,palazzo,women,Gulmohar Threads,499,XS|S|M|L|XL,SC-H7ED6C,rayon,relaxed,pink
+PRD-A6TC9R9O,Mohini Weaves Women's Yellow Cotton Printed Kurta with Sharara,Women Ethnic,kurta set,women,Mohini Weaves,1499,XS|S|M|L|XL|XXL,SC-8G5XM8,cotton,regular,yellow
+PRD-A7CPPPDP,Saffron Basics Men's Light Pink Solid Casual Regular Poly-Cotton Shirt,Men Western,shirt,men,Saffron Basics,599,S|M|L|XL,SC-FYCE1X,poly-cotton,regular,light pink
+PRD-A7XL8CQ3,Kesarbagh Women's Yellow Banarasi Silk Blend Solid with Border Saree,Women Ethnic,saree,women,Kesarbagh,899,Free Size,,banarasi silk blend,free size,yellow
+PRD-A9ARF2W0,Kadam Footwear Men's Grey Floaters Sandals,Footwear,sandals,men,Kadam Footwear,1399,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-X70STK,synthetic,regular,grey
+PRD-AAKSBUU6,Gulmohar Threads Women's Maroon Block Print A-Line Chanderi Silk Kurta,Women Ethnic,kurta,women,Gulmohar Threads,1599,XS|S|M|L|XL,SC-YXAUMG,chanderi silk,A-line,maroon
+PRD-AASVP05X,Saffron Basics Men's Mustard Solid Regular Cotton Stretch Chinos,Men Western,chinos,men,Saffron Basics,1199,28|30|32|34|36|38|40,SC-GF81VS,cotton stretch,regular,mustard
+PRD-ABNBKFF2,Shaan Ethnic Men's Mustard Printed Regular Linen Blend Kurta,Men Ethnic,kurta,men,Shaan Ethnic,799,S|M|L|XL|XXL,SC-Z1A0DT,linen blend,regular,mustard
+PRD-AFFRANKC,Gulmohar Threads Women's Bottle Green Solid Straight Chanderi Silk Kurta,Women Ethnic,kurta,women,Gulmohar Threads,2499,XS|S|M|L|XL|XXL,SC-YXAUMG,chanderi silk,straight,bottle green
+PRD-AJG824GY,Chalo Steps Women's Beige Kitten Heels Heels,Footwear,heels,women,Chalo Steps,1899,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-8FC264,PU,regular,beige
+PRD-APQGSCRO,Kadam Footwear Men's Navy Blue Zari Work Mojaris,Footwear,mojaris,men,Kadam Footwear,2099,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-V99Z9N,velvet upper,regular,navy blue
+PRD-AQ61O78E,Kesarbagh Women's Black Art Silk Floral Lehenga with Dupatta,Women Ethnic,lehenga,women,Kesarbagh,7599,S|M|L|XL,SC-OY72YA,art silk,semi-stitched,black
+PRD-AQK2DKV8,Mohini Weaves Women's Red Cotton Floral Print Saree,Women Ethnic,saree,women,Mohini Weaves,3099,Free Size,,cotton,free size,red
+PRD-AQN44HMQ,Jhumka Lane Women's Black Silk Blend Zari Work Lehenga,Women Ethnic,lehenga,women,Jhumka Lane,8199,S|M|L|XL,SC-5A920L,silk blend,flared,black
+PRD-AS2BTKCK,Silvat Menswear Men's Olive Solid Casual Slim Linen Blend Shirt,Men Western,shirt,men,Silvat Menswear,2199,S|M|L|XL,SC-B8U76E,linen blend,slim,olive
+PRD-ATJY3HIA,Mojri Mahal Women's Pink Mirror Work Juttis,Footwear,juttis,women,Mojri Mahal,599,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-62PY7I,velvet upper,regular,pink
+PRD-AUUYVAVZ,Rangkaar Women's Teal Silk Blend Sequinned Lehenga Set,Women Ethnic,lehenga,women,Rangkaar,3799,S|M|L|XL,SC-UHALZ3,silk blend,semi-stitched,teal
+PRD-AVJ9N4P6,Jhumka Lane Women's White Ikat Print Straight Cotton Kurta,Women Ethnic,kurta,women,Jhumka Lane,2299,XS|S|M|L|XL|XXL,SC-MD9V4K,cotton,straight,white
+PRD-AVU93G4C,Rangkaar Women's Green Art Silk Bandhani Dupatta,Women Ethnic,dupatta,women,Rangkaar,699,Free Size,,art silk,free size,green
+PRD-AVZVA9SR,Mohini Weaves Women's Navy Blue Georgette Solid with Border Saree,Women Ethnic,saree,women,Mohini Weaves,3999,Free Size,,georgette,free size,navy blue
+PRD-AYCWJV2Z,Gulmohar Threads Women's Black Solid Regular Georgette Kurta,Women Ethnic,kurta,women,Gulmohar Threads,1499,XS|S|M|L|XL,SC-YXAUMG,georgette,regular,black
+PRD-AYMN3DUQ,Taranga Lane Women's Brown Light Fade Mom Fit Cotton Denim Jeans,Women Western,jeans,women,Taranga Lane,999,26|28|30|32|34,SC-PLEH1Q,cotton denim,mom fit,brown
+PRD-AZTZWVQB,Pagdandi Menswear Men's Light Pink Polo Oversized Polyester T-Shirt,Men Western,t-shirt,men,Pagdandi Menswear,399,S|M|L|XL|XXL,SC-SWJKNR,polyester,oversized,light pink
+PRD-B019DXNH,Gulmohar Threads Women's Black Art Silk Embroidered Lehenga Choli,Women Ethnic,lehenga,women,Gulmohar Threads,3399,S|M|L|XL,SC-RAWINJ,art silk,flared,black
+PRD-B0O39M2V,Silvat Menswear Men's Beige Mid Rise Relaxed Cotton Denim Jeans,Men Western,jeans,men,Silvat Menswear,1199,28|30|32|34|36|38|40,SC-977YA6,cotton denim,relaxed,beige
+PRD-B0RX4T8M,Karonda Studio Women's Black Floral Print Fitted Cotton Top,Women Western,top,women,Karonda Studio,699,XS|S|M|L|XL|XXL,SC-RFCU3K,cotton,fitted,black
+PRD-B2CO9E1B,Shaan Ethnic Men's Wine Chikankari Straight Jacquard Kurta,Men Ethnic,kurta,men,Shaan Ethnic,899,S|M|L|XL,SC-Z1A0DT,jacquard,straight,wine
+PRD-B35RRABB,Gulmohar Threads Women's Lavender Art Silk Printed Saree,Women Ethnic,saree,women,Gulmohar Threads,899,Free Size,,art silk,free size,lavender
+PRD-B3U9P1YQ,Gulmohar Threads Women's Grey Net Zari Work Lehenga,Women Ethnic,lehenga,women,Gulmohar Threads,3099,S|M|L|XL,SC-KQMU5R,net,semi-stitched,grey
+PRD-B4GMNGPO,Kesarbagh Men Men's Navy Blue Velvet Zari Work Sherwani,Men Ethnic,sherwani,men,Kesarbagh Men,5499,S|M|L|XL|XXL,SC-E3NXYN,velvet,regular,navy blue
+PRD-B63L0EFC,Rangkaar Women's Rust Net Printed Dupatta,Women Ethnic,dupatta,women,Rangkaar,399,Free Size,,net,free size,rust
+PRD-B8KEHLAU,Mohini Weaves Women's Olive Linen Blend Sequinned Saree,Women Ethnic,saree,women,Mohini Weaves,3399,Free Size,,linen blend,free size,olive
+PRD-B99LB9OR,Mohini Weaves Women's Green Net Solid Dupatta,Women Ethnic,dupatta,women,Mohini Weaves,1299,Free Size,,net,free size,green
+PRD-B9JPS4ZN,Bahaar Street Women's Navy Blue Solid Maxi A-Line Cotton Dress,Women Western,dress,women,Bahaar Street,999,XS|S|M|L|XL|XXL,SC-SOCTMU,cotton,A-line,navy blue
+PRD-BA4NCHC9,Veer Denim Works Men's Teal Solid Formal Regular Cotton Blend Shirt,Men Western,shirt,men,Veer Denim Works,1499,S|M|L|XL|XXL,SC-6R2QTT,cotton blend,regular,teal
+PRD-BAHSPWKE,Shaan Ethnic Men's Sky Blue Embroidered Set Regular Cotton Kurta Pyjama Set,Men Ethnic,kurta pyjama set,men,Shaan Ethnic,2499,S|M|L|XL|XXL,SC-7QYQMJ,cotton,regular,sky blue
+PRD-BDO95QL3,Karonda Studio Women's Green Solid Churidar Viscose Lycra Leggings,Women Western,leggings,women,Karonda Studio,499,XS|S|M|L|XL|XXL,SC-XEW5YT,viscose lycra,churidar,green
+PRD-BG0R5UHH,Karonda Studio Women's Yellow Shirt Dress Bodycon Polyester Dress,Women Western,dress,women,Karonda Studio,999,XS|S|M|L|XL|XXL,SC-E5WCWD,polyester,bodycon,yellow
+PRD-BG2NIW06,Gulmohar Threads Women's Mustard Leheriya Flared Rayon Kurta,Women Ethnic,kurta,women,Gulmohar Threads,699,XS|S|M|L|XL|XXL,SC-YXAUMG,rayon,flared,mustard
+PRD-BGKNTO8W,Kadam Footwear Women's Gold Walking Shoes,Footwear,sneakers,women,Kadam Footwear,2099,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-3IC0H0,synthetic,regular,gold
+PRD-BHCY2KVU,Jhumka Lane Women's Pink Net Floral Lehenga with Dupatta,Women Ethnic,lehenga,women,Jhumka Lane,7899,S|M|L|XL,SC-5A920L,net,semi-stitched,pink
+PRD-BJJJTCX0,Gulmohar Threads Women's Off-White Printed Relaxed Crepe Palazzo,Women Ethnic,palazzo,women,Gulmohar Threads,499,XS|S|M|L|XL|XXL,SC-ZNAGMZ,crepe,relaxed,off-white
+PRD-BLRLY7T4,Gulmohar Threads Women's Orange Georgette Sequinned Saree,Women Ethnic,saree,women,Gulmohar Threads,6799,Free Size,,georgette,free size,orange
+PRD-BLW1B2VE,Silvat Menswear Men's Light Pink Polo Oversized Cotton T-Shirt,Men Western,t-shirt,men,Silvat Menswear,299,S|M|L|XL|XXL,SC-VLVWX8,cotton,oversized,light pink
+PRD-BNVO4OXB,Paavni Studio Women's Orange Floral Print Flared Cotton Kurta,Women Ethnic,kurta,women,Paavni Studio,2399,XS|S|M|L|XL|XXL,SC-AUS9LW,cotton,flared,orange
+PRD-BOOP9FNK,Mohini Weaves Women's Teal Georgette Bandhani Saree,Women Ethnic,saree,women,Mohini Weaves,2599,Free Size,,georgette,free size,teal
+PRD-BROKMP5J,Silvat Menswear Men's Wine Solid Straight Cotton Kurta,Men Ethnic,kurta,men,Silvat Menswear,1299,S|M|L|XL|XXL,SC-2R7MKZ,cotton,straight,wine
+PRD-BSX8FZXN,Saffron Basics Women's Orange Solid Regular Cotton Top,Women Western,top,women,Saffron Basics,799,XS|S|M|L|XL|XXL,SC-MA75DH,cotton,regular,orange
+PRD-BTIX8J5J,Saffron Basics Men's Off-White Dark Wash Tapered Stretchable Denim Jeans,Men Western,jeans,men,Saffron Basics,1399,28|30|32|34|36|38|40,SC-FKU70Q,stretchable denim,tapered,off-white
+PRD-BWDG56RH,Mohini Weaves Women's Mustard Bandhani Print Regular Cotton Blend Kurta,Women Ethnic,kurta,women,Mohini Weaves,699,XS|S|M|L|XL,SC-ACP6D3,cotton blend,regular,mustard
+PRD-C0E5TS3U,Pagdandi Menswear Men's Cream Printed Casual Slim Cotton Shirt,Men Western,shirt,men,Pagdandi Menswear,1999,S|M|L|XL|XXL,SC-87DGNK,cotton,slim,cream
+PRD-C376U7CA,Paavni Studio Women's Pink Mirror Work Flared Rayon Anarkali,Women Ethnic,anarkali,women,Paavni Studio,1599,XS|S|M|L|XL|XXL,SC-0GHWLF,rayon,flared,pink
+PRD-C39M9KLQ,Jhumka Lane Women's Peach Block Print Flared Viscose Rayon Kurta,Women Ethnic,kurta,women,Jhumka Lane,2099,XS|S|M|L|XL|XXL,SC-MD9V4K,viscose rayon,flared,peach
+PRD-C42SHYVK,Karonda Studio Women's Green Clean Look Mom Fit Cotton Denim Jeans,Women Western,jeans,women,Karonda Studio,899,26|28|30|32|34|36,SC-RKPABP,cotton denim,mom fit,green
+PRD-C4NZFHNG,Kadam Footwear Men's Silver Plain Mojaris,Footwear,mojaris,men,Kadam Footwear,2199,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-V8WT3A,velvet upper,regular,silver
+PRD-C4PALGXG,Jhumka Lane Women's Rani Pink Solid Relaxed Rayon Palazzo,Women Ethnic,palazzo,women,Jhumka Lane,799,XS|S|M|L|XL,SC-AME3YD,rayon,relaxed,rani pink
+PRD-C55QG11Q,Taranga Lane Women's Rust Solid Regular Rayon Top,Women Western,top,women,Taranga Lane,399,XS|S|M|L|XL|XXL,SC-2D0A79,rayon,regular,rust
+PRD-C7PL7V9R,Shaan Ethnic Men's White Velvet Self Design Sherwani,Men Ethnic,sherwani,men,Shaan Ethnic,6399,S|M|L|XL|XXL,SC-X7J8NC,velvet,slim,white
+PRD-C8AZ7J35,Pagdandi Menswear Men's Grey Checked Casual Regular Cotton Blend Shirt,Men Western,shirt,men,Pagdandi Menswear,2099,S|M|L|XL,SC-V0UICZ,cotton blend,regular,grey
+PRD-C9DI1R7G,Pagdandi Menswear Men's Off-White Mid Rise Regular Stretchable Denim Jeans,Men Western,jeans,men,Pagdandi Menswear,1299,28|30|32|34|36|38|40,SC-IBJKPD,stretchable denim,regular,off-white
+PRD-C9LLF65F,Mohini Weaves Women's Off-White Banarasi Silk Blend Sequinned Saree,Women Ethnic,saree,women,Mohini Weaves,2099,Free Size,,banarasi silk blend,free size,off-white
+PRD-CAVNC0LB,Shaan Ethnic Men's Blue Printed Regular Silk Blend Kurta,Men Ethnic,kurta,men,Shaan Ethnic,1499,S|M|L|XL,SC-Z1A0DT,silk blend,regular,blue
+PRD-CGB01J70,Silvat Menswear Men's Off-White Solid Straight Silk Blend Kurta,Men Ethnic,kurta,men,Silvat Menswear,2199,S|M|L|XL|XXL,SC-34BD91,silk blend,straight,off-white
+PRD-CGQKVEU0,Padchinh Women's Maroon Kolhapuri Style Flats,Footwear,flats,women,Padchinh,599,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-MPMQQB,synthetic,regular,maroon
+PRD-CIIOQTNR,Bahaar Street Women's Mustard Tiered Regular Crepe Dress,Women Western,dress,women,Bahaar Street,1899,XS|S|M|L|XL|XXL,SC-SOCTMU,crepe,regular,mustard
+PRD-CM98Y4K5,Kesarbagh Women's Pink Muslin Gota Patti Kurta Set,Women Ethnic,kurta set,women,Kesarbagh,1199,XS|S|M|L|XL|XXL,SC-Z63YCC,muslin,regular,pink
+PRD-CP6MCRJV,Kadam Footwear Men's Pink Running Shoes,Footwear,sneakers,men,Kadam Footwear,4899,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-HFP7IG,canvas,regular,pink
+PRD-CPGTBRIU,Mojri Mahal Men's Pink Floaters Sandals,Footwear,sandals,men,Mojri Mahal,499,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-DMH9EJ,PU,regular,pink
+PRD-CRO73KTT,Veer Denim Works Men's Peach Mid Rise Relaxed Cotton Denim Jeans,Men Western,jeans,men,Veer Denim Works,1099,28|30|32|34|36|38|40,SC-ODDQSV,cotton denim,relaxed,peach
+PRD-CSED0A6H,Jhumka Lane Women's Navy Blue Floral Print Regular Rayon Kurta,Women Ethnic,kurta,women,Jhumka Lane,699,XS|S|M|L|XL|XXL,SC-MD9V4K,rayon,regular,navy blue
+PRD-CTS2GXEJ,Kesarbagh Women's Olive Block Print Straight Viscose Rayon Kurta,Women Ethnic,kurta,women,Kesarbagh,2199,XS|S|M|L|XL|XXL,SC-4EV3RS,viscose rayon,straight,olive
+PRD-CU9F6WLH,Kesarbagh Women's Orange Georgette Printed Saree,Women Ethnic,saree,women,Kesarbagh,8999,Free Size,,georgette,free size,orange
+PRD-CW5E0FIO,Saffron Basics Men's Beige Checked Casual Regular Cotton Shirt,Men Western,shirt,men,Saffron Basics,899,S|M|L|XL|XXL,SC-WO8UFI,cotton,regular,beige
+PRD-CXDJ3C5P,Pagdandi Menswear Men's Grey Striped Formal Slim Linen Blend Shirt,Men Western,shirt,men,Pagdandi Menswear,1399,S|M|L|XL|XXL,SC-V0UICZ,linen blend,slim,grey
+PRD-CY30TZ9M,Jhumka Lane Women's Mustard Block Print Straight Chanderi Silk Kurta,Women Ethnic,kurta,women,Jhumka Lane,1999,XS|S|M|L|XL|XXL,SC-MD9V4K,chanderi silk,straight,mustard
+PRD-CYNKXDC2,Pagdandi Menswear Men's Off-White Henley Oversized Polyester T-Shirt,Men Western,t-shirt,men,Pagdandi Menswear,699,S|M|L|XL|XXL,SC-SWJKNR,polyester,oversized,off-white
+PRD-CYVK48AD,Rangkaar Women's Red Pleated Relaxed Crepe Palazzo,Women Ethnic,palazzo,women,Rangkaar,799,XS|S|M|L|XL|XXL,SC-PDW1NX,crepe,relaxed,red
+PRD-CZ9ZL0CC,Kadam Footwear Men's Tan Monk Strap Formal Shoes,Footwear,formal shoes,men,Kadam Footwear,3099,UK 6|UK 7|UK 8|UK 9|UK 10,SC-N2GJ5V,synthetic leather,regular,tan
+PRD-D11AQH9C,Mohini Weaves Women's Wine Rayon Kurta with Pants,Women Ethnic,kurta set,women,Mohini Weaves,3699,XS|S|M|L|XL|XXL,SC-VPPHPN,rayon,straight,wine
+PRD-D1BJKUG9,Kesarbagh Women's Blue Rayon Kurta with Palazzo and Dupatta,Women Ethnic,kurta set,women,Kesarbagh,2699,XS|S|M|L|XL|XXL,SC-Z63YCC,rayon,regular,blue
+PRD-D1LO0TUG,Chalo Steps Women's White Running Shoes,Footwear,sneakers,women,Chalo Steps,1099,UK 3|UK 4|UK 5|UK 6|UK 7,SC-SFA2T1,synthetic,regular,white
+PRD-D1NXYP76,Gulmohar Threads Women's Rust Linen Blend Floral Print Saree,Women Ethnic,saree,women,Gulmohar Threads,2299,Free Size,,linen blend,free size,rust
+PRD-D1TASZIO,Pagdandi Menswear Men's White Striped Formal Regular Linen Blend Shirt,Men Western,shirt,men,Pagdandi Menswear,599,S|M|L|XL,SC-V0UICZ,linen blend,regular,white
+PRD-D20B6X0K,Kesarbagh Men Men's Grey Jacquard Set Straight Silk Blend Kurta Pyjama Set,Men Ethnic,kurta pyjama set,men,Kesarbagh Men,1599,S|M|L|XL,SC-5HZ2NQ,silk blend,straight,grey
+PRD-D53CGBLZ,Bahaar Street Women's Bottle Green Solid Boxy Crepe Top,Women Western,top,women,Bahaar Street,699,XS|S|M|L|XL|XXL,SC-ZVM0P8,crepe,boxy,bottle green
+PRD-D5F1UB6U,Taranga Lane Women's Rani Pink Floral Print Boxy Crepe Top,Women Western,top,women,Taranga Lane,999,XS|S|M|L|XL,SC-2D0A79,crepe,boxy,rani pink
+PRD-D5OUFCFC,Kesarbagh Women's Wine Georgette Kanjeevaram-style Woven Saree,Women Ethnic,saree,women,Kesarbagh,5299,Free Size,,georgette,free size,wine
+PRD-D6KO7A5Y,Silvat Menswear Men's Off-White Checked Casual Slim Linen Blend Shirt,Men Western,shirt,men,Silvat Menswear,1599,S|M|L|XL|XXL,SC-B8U76E,linen blend,slim,off-white
+PRD-D8B6MZKX,Chalo Steps Men's Brown Training Shoes,Footwear,sneakers,men,Chalo Steps,1299,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-7VD9PV,canvas,regular,brown
+PRD-D9YKPZP2,Taranga Lane Women's Yellow Light Fade Skinny Cotton Denim Jeans,Women Western,jeans,women,Taranga Lane,2399,26|28|30|32|34|36,SC-0IO2CX,cotton denim,skinny,yellow
+PRD-DAUB08L0,Kesarbagh Men Men's Off-White Solid Regular Jacquard Nehru Jacket,Men Ethnic,nehru jacket,men,Kesarbagh Men,1299,S|M|L|XL|XXL,SC-R9A204,jacquard,regular,off-white
+PRD-DCFGR3EM,Mohini Weaves Women's Grey Chikankari Embroidered A-Line Rayon Kurta,Women Ethnic,kurta,women,Mohini Weaves,1599,XS|S|M|L|XL|XXL,SC-ACP6D3,rayon,A-line,grey
+PRD-DCYB1DYO,Silvat Menswear Men's Maroon Checked Casual Regular Poly-Cotton Shirt,Men Western,shirt,men,Silvat Menswear,1399,S|M|L|XL,SC-B8U76E,poly-cotton,regular,maroon
+PRD-DD53FA1T,Saffron Basics Women's Mustard Peplum Regular Polyester Top,Women Western,top,women,Saffron Basics,999,XS|S|M|L|XL|XXL,SC-MA75DH,polyester,regular,mustard
+PRD-DE8QV1PX,Bahaar Street Women's Beige High Rise Straight Stretchable Denim Jeans,Women Western,jeans,women,Bahaar Street,899,26|28|30|32|34|36,SC-A04MB4,stretchable denim,straight,beige
+PRD-DFGDUVRP,Bahaar Street Women's Navy Blue Solid Ankle Length Cotton Lycra Leggings,Women Western,leggings,women,Bahaar Street,699,XS|S|M|L|XL|XXL,SC-2YBRSM,cotton lycra,ankle length,navy blue
+PRD-DGF6337E,Saffron Basics Men's Beige Textured Regular Cotton Stretch Chinos,Men Western,chinos,men,Saffron Basics,1599,28|30|32|34|36|38,SC-GF81VS,cotton stretch,regular,beige
+PRD-DGRK0TU7,Padchinh Men's White Strap Sandals Sandals,Footwear,sandals,men,Padchinh,999,UK 6|UK 7|UK 8|UK 9|UK 10,SC-09N28U,synthetic,regular,white
+PRD-DHOCYJJQ,Jhumka Lane Women's Black Art Silk Mirror Work Lehenga,Women Ethnic,lehenga,women,Jhumka Lane,5199,S|M|L|XL,SC-5A920L,art silk,flared,black
+PRD-DLWEYKR3,Kesarbagh Women's Rani Pink Bandhani Print A-Line Rayon Kurta,Women Ethnic,kurta,women,Kesarbagh,1599,XS|S|M|L|XL,SC-V6OFZ8,rayon,A-line,rani pink
+PRD-DMSZWCHK,Pagdandi Menswear Men's Olive Polo Oversized Cotton Blend T-Shirt,Men Western,t-shirt,men,Pagdandi Menswear,399,S|M|L|XL|XXL,SC-SWJKNR,cotton blend,oversized,olive
+PRD-DN61UPYK,Rangkaar Women's Yellow Cotton Printed Dupatta,Women Ethnic,dupatta,women,Rangkaar,399,Free Size,,cotton,free size,yellow
+PRD-DNI0Q7PN,Silvat Menswear Men's Grey Solid Set Straight Cotton Kurta Pyjama Set,Men Ethnic,kurta pyjama set,men,Silvat Menswear,2299,S|M|L|XL,SC-CNUV9X,cotton,straight,grey
+PRD-DOD4ZK5W,Veer Denim Works Men's Grey Striped Formal Regular Linen Blend Shirt,Men Western,shirt,men,Veer Denim Works,1299,S|M|L|XL|XXL,SC-6R2QTT,linen blend,regular,grey
+PRD-DOSPGENI,Mojri Mahal Women's Grey Pearl Work Juttis,Footwear,juttis,women,Mojri Mahal,1899,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-XL1O2M,synthetic leather,regular,grey
+PRD-DQ3CHWQ6,Saffron Basics Men's Bottle Green Textured Regular Cotton Chinos,Men Western,chinos,men,Saffron Basics,899,28|30|32|34|36|38|40,SC-QTHP9O,cotton,regular,bottle green
+PRD-DQN8W57T,Mohini Weaves Women's Maroon Cotton Solid Dupatta,Women Ethnic,dupatta,women,Mohini Weaves,799,Free Size,,cotton,free size,maroon
+PRD-DR3EYR1U,Rangkaar Women's White Chikankari Embroidered Straight Cotton Kurta,Women Ethnic,kurta,women,Rangkaar,1099,XS|S|M|L|XL,SC-Y17XT5,cotton,straight,white
+PRD-DTBDKQYS,Karonda Studio Women's Orange Solid Maxi Regular Georgette Dress,Women Western,dress,women,Karonda Studio,1299,XS|S|M|L|XL|XXL,SC-9ZCDOA,georgette,regular,orange
+PRD-DUGAN673,Gulmohar Threads Women's Wine Banarasi Silk Blend Printed Saree,Women Ethnic,saree,women,Gulmohar Threads,1099,Free Size,,banarasi silk blend,free size,wine
+PRD-DVA74BNZ,Silvat Menswear Men's Maroon Self Design Straight Silk Blend Kurta,Men Ethnic,kurta,men,Silvat Menswear,1599,S|M|L|XL|XXL,SC-2R7MKZ,silk blend,straight,maroon
+PRD-DVRBNQDV,Silvat Menswear Men's Brown Solid Formal Regular Poly-Cotton Shirt,Men Western,shirt,men,Silvat Menswear,1599,S|M|L|XL|XXL,SC-5D707K,poly-cotton,regular,brown
+PRD-E06JFQZA,Kadam Footwear Men's Grey Oxford Formal Shoes,Footwear,formal shoes,men,Kadam Footwear,1699,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-EYR6P5,leather,regular,grey
+PRD-E1IJ63WT,Chalo Steps Men's Gold Oxford Formal Shoes,Footwear,formal shoes,men,Chalo Steps,2999,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-GH7KDI,leather,regular,gold
+PRD-E2UGNSBC,Gulmohar Threads Women's White Art Silk Zari Work Lehenga,Women Ethnic,lehenga,women,Gulmohar Threads,3399,S|M|L|XL,SC-ENAASQ,art silk,semi-stitched,white
+PRD-E3WHN9Q4,Silvat Menswear Men's Peach Solid Set Regular Cotton Kurta Pyjama Set,Men Ethnic,kurta pyjama set,men,Silvat Menswear,1599,S|M|L|XL|XXL,SC-CNUV9X,cotton,regular,peach
+PRD-E7DVYA4I,Taranga Lane Women's Rust Sequinned Party Fit And Flare Crepe Dress,Women Western,dress,women,Taranga Lane,1199,XS|S|M|L|XL|XXL,SC-SKA0WC,crepe,fit and flare,rust
+PRD-EB7GH4KN,Pagdandi Menswear Men's Off-White Checked Casual Regular Linen Blend Shirt,Men Western,shirt,men,Pagdandi Menswear,699,S|M|L|XL|XXL,SC-V0UICZ,linen blend,regular,off-white
+PRD-EC99892L,Karonda Studio Women's Orange Tiered Regular Crepe Dress,Women Western,dress,women,Karonda Studio,1499,XS|S|M|L|XL|XXL,SC-9ZCDOA,crepe,regular,orange
+PRD-ECCJSS7S,Chalo Steps Men's Gold Walking Shoes,Footwear,sneakers,men,Chalo Steps,2399,UK 6|UK 7|UK 8|UK 9|UK 10,SC-HVU875,knit,regular,gold
+PRD-EDRU45DP,Mohini Weaves Women's White Chikankari Embroidered Flared Cotton Kurta,Women Ethnic,kurta,women,Mohini Weaves,999,XS|S|M|L|XL|XXL,SC-ACP6D3,cotton,flared,white
+PRD-EEC8A7VR,Padchinh Men's White Training Shoes,Footwear,sneakers,men,Padchinh,1199,UK 6|UK 7|UK 8|UK 9|UK 10,SC-BGQ5PU,synthetic leather,regular,white
+PRD-EG4SOJX4,Shaan Ethnic Men's Blue Velvet Self Design Sherwani,Men Ethnic,sherwani,men,Shaan Ethnic,5999,S|M|L|XL,SC-MKE2XQ,velvet,slim,blue
+PRD-EIQ6U7L1,Bahaar Street Women's Orange Wrap Bodycon Georgette Dress,Women Western,dress,women,Bahaar Street,1099,XS|S|M|L|XL|XXL,SC-SOCTMU,georgette,bodycon,orange
+PRD-EKS6P8TD,Saffron Basics Women's Navy Blue Solid Regular Polyester Top,Women Western,top,women,Saffron Basics,399,XS|S|M|L|XL|XXL,SC-MA75DH,polyester,regular,navy blue
+PRD-ELGYTDVM,Kesarbagh Women's Wine Printed Flared Net Anarkali,Women Ethnic,anarkali,women,Kesarbagh,4099,XS|S|M|L|XL|XXL,SC-4MUA2M,net,flared,wine
+PRD-EM21OSHN,Silvat Menswear Men's Beige Clean Look Slim Stretchable Denim Jeans,Men Western,jeans,men,Silvat Menswear,999,28|30|32|34|36|38|40,SC-977YA6,stretchable denim,slim,beige
+PRD-ENXN4E2X,Bahaar Street Women's Green Floral Midi Bodycon Crepe Dress,Women Western,dress,women,Bahaar Street,799,XS|S|M|L|XL|XXL,SC-SOCTMU,crepe,bodycon,green
+PRD-EOLCO25P,Padchinh Women's Black Embroidered Juttis,Footwear,juttis,women,Padchinh,899,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-8989PJ,synthetic leather,regular,black
+PRD-EPPLMTOL,Gulmohar Threads Women's White Cotton Blend Embroidered Kurta Set,Women Ethnic,kurta set,women,Gulmohar Threads,1799,XS|S|M|L|XL|XXL,SC-QXB5CC,cotton blend,regular,white
+PRD-EQXNW6JL,Pagdandi Menswear Men's Sky Blue Printed Casual Regular Cotton Blend Shirt,Men Western,shirt,men,Pagdandi Menswear,1799,S|M|L|XL|XXL,SC-ZXJIB2,cotton blend,regular,sky blue
+PRD-ES6AQEFX,Veer Denim Works Men's Grey Henley Slim Cotton T-Shirt,Men Western,t-shirt,men,Veer Denim Works,299,S|M|L|XL,SC-CW1SAW,cotton,slim,grey
+PRD-EU5IFCLD,Veer Denim Works Men's Black Polo Relaxed Cotton T-Shirt,Men Western,t-shirt,men,Veer Denim Works,799,S|M|L|XL|XXL,SC-OR3J4C,cotton,oversized,black
+PRD-EVEI27WV,Silvat Menswear Men's Light Pink Solid Casual Regular Poly-Cotton Shirt,Men Western,shirt,men,Silvat Menswear,799,S|M|L|XL|XXL,SC-B8U76E,poly-cotton,regular,light pink
+PRD-EVSQRF3Y,Gulmohar Threads Women's Grey Net Solid Dupatta,Women Ethnic,dupatta,women,Gulmohar Threads,399,Free Size,,net,free size,grey
+PRD-EWC7RX55,Veer Denim Works Men's Black Textured Slim Cotton Stretch Chinos,Men Western,chinos,men,Veer Denim Works,1199,28|30|32|34|36|38,SC-CVQMZG,cotton stretch,slim,black
+PRD-EY0YGLLJ,Padchinh Women's Gold Ballerinas Flats,Footwear,flats,women,Padchinh,1399,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-MPMQQB,synthetic,regular,gold
+PRD-EY4B72AS,Karonda Studio Women's Green Solid Regular Georgette Top,Women Western,top,women,Karonda Studio,399,XS|S|M|L|XL,SC-RFCU3K,georgette,regular,green
+PRD-F0BQYCQD,Saffron Basics Women's Black Pack of 1 Ankle Length Viscose Lycra Leggings,Women Western,leggings,women,Saffron Basics,399,XS|S|M|L|XL|XXL,SC-SGWIYT,viscose lycra,ankle length,black
+PRD-F344EJEN,Silvat Menswear Men's Off-White Mid Rise Slim Stretchable Denim Jeans,Men Western,jeans,men,Silvat Menswear,2599,28|30|32|34|36|38|40,SC-977YA6,stretchable denim,slim,off-white
+PRD-F48EXNN9,Kadam Footwear Women's Gold Ballerinas Flats,Footwear,flats,women,Kadam Footwear,999,UK 3|UK 4|UK 5|UK 6|UK 7,SC-GPLSC7,PU,regular,gold
+PRD-F5ADWG4Y,Karonda Studio Women's Off-White Light Fade Straight Stretchable Denim Jeans,Women Western,jeans,women,Karonda Studio,1999,26|28|30|32|34|36,SC-TU8F2V,stretchable denim,straight,off-white
+PRD-F5YS06WJ,Paavni Studio Women's Navy Blue Block Print Straight Cotton Kurta,Women Ethnic,kurta,women,Paavni Studio,499,XS|S|M|L|XL|XXL,SC-A4B61X,cotton,straight,navy blue
+PRD-F7C2E8IY,Kadam Footwear Women's Maroon Kitten Heels Heels,Footwear,heels,women,Kadam Footwear,2799,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-8V4RR0,synthetic,regular,maroon
+PRD-F9OG1RK5,Taranga Lane Women's Yellow Solid Fitted Cotton Top,Women Western,top,women,Taranga Lane,799,XS|S|M|L|XL|XXL,SC-2D0A79,cotton,fitted,yellow
+PRD-FAIARAPY,Saffron Basics Men's Peach Checked Casual Regular Linen Blend Shirt,Men Western,shirt,men,Saffron Basics,1999,S|M|L|XL,SC-WO8UFI,linen blend,regular,peach
+PRD-FAV1UMR1,Paavni Studio Women's Rani Pink Solid Straight Cotton Kurta,Women Ethnic,kurta,women,Paavni Studio,499,XS|S|M|L|XL|XXL,SC-WX2SLW,cotton,straight,rani pink
+PRD-FCD2HW39,Bahaar Street Women's Rani Pink Tiered Regular Polyester Dress,Women Western,dress,women,Bahaar Street,1099,XS|S|M|L|XL|XXL,SC-SOCTMU,polyester,regular,rani pink
+PRD-FELJA50P,Saffron Basics Men's Blue Dark Wash Relaxed Cotton Denim Jeans,Men Western,jeans,men,Saffron Basics,1199,28|30|32|34|36|38|40,SC-FKU70Q,cotton denim,relaxed,blue
+PRD-FENQZFTG,Taranga Lane Women's Teal Solid Churidar Viscose Lycra Leggings,Women Western,leggings,women,Taranga Lane,299,XS|S|M|L|XL,SC-2PKQPD,viscose lycra,churidar,teal
+PRD-FFZD4JD6,Gulmohar Threads Women's Teal Embroidered Flared Georgette Anarkali,Women Ethnic,anarkali,women,Gulmohar Threads,1399,XS|S|M|L|XL|XXL,SC-7YZM0F,georgette,flared,teal
+PRD-FFZO1FUX,Padchinh Women's Maroon Casual Sneakers,Footwear,sneakers,women,Padchinh,999,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-V5MLTZ,synthetic,regular,maroon
+PRD-FGIZJWEF,Silvat Menswear Men's Off-White Henley Oversized Polyester T-Shirt,Men Western,t-shirt,men,Silvat Menswear,599,S|M|L|XL|XXL,SC-VLVWX8,polyester,oversized,off-white
+PRD-FGM5SSJN,Karonda Studio Women's Mustard Tiered Fit And Flare Polyester Dress,Women Western,dress,women,Karonda Studio,2799,XS|S|M|L|XL|XXL,SC-9ZCDOA,polyester,fit and flare,mustard
+PRD-FHT0V6XI,Chalo Steps Men's Brown Casual Sneakers,Footwear,sneakers,men,Chalo Steps,1799,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-GYV2A8,synthetic leather,regular,brown
+PRD-FKIZZ83W,Veer Denim Works Men's Peach Printed Casual Regular Linen Blend Shirt,Men Western,shirt,men,Veer Denim Works,699,S|M|L|XL|XXL,SC-6R2QTT,linen blend,regular,peach
+PRD-FMW0L9AK,Kesarbagh Women's Green Pleated Flared Cotton Palazzo,Women Ethnic,palazzo,women,Kesarbagh,699,XS|S|M|L|XL|XXL,SC-ILH3I9,cotton,flared,green
+PRD-FNEUH2HT,Veer Denim Works Men's Sky Blue Solid Casual Regular Poly-Cotton Shirt,Men Western,shirt,men,Veer Denim Works,1299,S|M|L|XL|XXL,SC-4RMUD0,poly-cotton,regular,sky blue
+PRD-FO2W46O1,Silvat Menswear Men's Bottle Green Striped Oversized Cotton Blend T-Shirt,Men Western,t-shirt,men,Silvat Menswear,599,S|M|L|XL,SC-VLVWX8,cotton blend,oversized,bottle green
+PRD-FOMKRSRS,Jhumka Lane Women's Navy Blue Cotton Blend Gota Patti Kurta Set,Women Ethnic,kurta set,women,Jhumka Lane,3199,XS|S|M|L|XL|XXL,SC-IKCOMJ,cotton blend,straight,navy blue
+PRD-FOMMK0ZM,Mohini Weaves Women's Rani Pink Georgette Solid with Border Saree,Women Ethnic,saree,women,Mohini Weaves,4899,Free Size,,georgette,free size,rani pink
+PRD-FPV5RD47,Mohini Weaves Women's Teal Net Zari Work Lehenga,Women Ethnic,lehenga,women,Mohini Weaves,12999,S|M|L|XL,SC-AYWT5W,net,semi-stitched,teal
+PRD-FQI2DX71,Rangkaar Women's Rust Georgette Embroidered Kurta Set,Women Ethnic,kurta set,women,Rangkaar,1399,XS|S|M|L|XL|XXL,SC-XUZ9IJ,georgette,regular,rust
+PRD-FST575O9,Kadam Footwear Women's Pink Ballerinas Flats,Footwear,flats,women,Kadam Footwear,1399,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-GPLSC7,PU,regular,pink
+PRD-FUSFDMCU,Veer Denim Works Men's Blue Polo Slim Cotton T-Shirt,Men Western,t-shirt,men,Veer Denim Works,999,S|M|L|XL,SC-6GO9IB,cotton,slim,blue
+PRD-FYDOF15O,Kadam Footwear Women's Brown Kolhapuri Style Flats,Footwear,flats,women,Kadam Footwear,1099,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-9QVZ8M,synthetic,regular,brown
+PRD-G2DXRL84,Kadam Footwear Men's Pink Plain Mojaris,Footwear,mojaris,men,Kadam Footwear,899,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-V99Z9N,synthetic leather,regular,pink
+PRD-G6DEG024,Gulmohar Threads Women's Beige Bandhani Print Regular Chanderi Silk Kurta,Women Ethnic,kurta,women,Gulmohar Threads,699,XS|S|M|L|XL|XXL,SC-YXAUMG,chanderi silk,regular,beige
+PRD-G8ODPAOG,Kesarbagh Women's Beige Art Silk Sequinned Saree,Women Ethnic,saree,women,Kesarbagh,2999,Free Size,,art silk,free size,beige
+PRD-G8X46Z7V,Saffron Basics Women's Peach Puff Sleeve Boxy Cotton Top,Women Western,top,women,Saffron Basics,799,XS|S|M|L|XL|XXL,SC-MA75DH,cotton,boxy,peach
+PRD-G97EOC2Y,Rangkaar Women's Teal Solid Flared Rayon Palazzo,Women Ethnic,palazzo,women,Rangkaar,799,XS|S|M|L|XL,SC-PDW1NX,rayon,flared,teal
+PRD-G9H4V3X7,Pagdandi Menswear Men's Bottle Green Solid Formal Regular Poly-Cotton Shirt,Men Western,shirt,men,Pagdandi Menswear,1399,S|M|L|XL|XXL,SC-V0UICZ,poly-cotton,regular,bottle green
+PRD-G9IK3HYB,Bahaar Street Women's Black Puff Sleeve Regular Georgette Top,Women Western,top,women,Bahaar Street,1199,XS|S|M|L|XL|XXL,SC-ZVM0P8,georgette,regular,black
+PRD-GAZ99RRO,Silvat Menswear Men's Teal Distressed Regular Stretchable Denim Jeans,Men Western,jeans,men,Silvat Menswear,1099,28|30|32|34|36|38|40,SC-977YA6,stretchable denim,regular,teal
+PRD-GB4VR1D1,Saffron Basics Men's Bottle Green Solid Formal Regular Linen Blend Shirt,Men Western,shirt,men,Saffron Basics,1499,S|M|L|XL,SC-WO8UFI,linen blend,regular,bottle green
+PRD-GBT66YD7,Shaan Ethnic Men's Black Embroidered Set Regular Cotton Kurta Pyjama Set,Men Ethnic,kurta pyjama set,men,Shaan Ethnic,1699,S|M|L|XL,SC-7QYQMJ,cotton,regular,black
+PRD-GETZ62MU,Saffron Basics Women's White Tiered Fit And Flare Cotton Dress,Women Western,dress,women,Saffron Basics,1099,XS|S|M|L|XL|XXL,SC-Y8LC9H,cotton,fit and flare,white
+PRD-GI0TN25N,Veer Denim Works Men's Navy Blue Solid Regular Cotton Chinos,Men Western,chinos,men,Veer Denim Works,1399,28|30|32|34|36|38|40,SC-C5I25I,cotton,regular,navy blue
+PRD-GI7YWD9R,Karonda Studio Women's Peach Solid Maxi Bodycon Polyester Dress,Women Western,dress,women,Karonda Studio,1499,XS|S|M|L|XL|XXL,SC-9ZCDOA,polyester,bodycon,peach
+PRD-GKEFS7SL,Kesarbagh Women's Wine Chikankari Embroidered Straight Rayon Kurta,Women Ethnic,kurta,women,Kesarbagh,1799,XS|S|M|L|XL|XXL,SC-4EV3RS,rayon,straight,wine
+PRD-GOEB6WW9,Chalo Steps Men's Silver Strap Sandals Sandals,Footwear,sandals,men,Chalo Steps,1299,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-C6KBV0,PU,regular,silver
+PRD-GP8BGXQV,Kadam Footwear Women's Grey Wedges Heels,Footwear,heels,women,Kadam Footwear,1199,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-8V4RR0,PU,regular,grey
+PRD-GS7BRKEE,Mojri Mahal Men's Brown Monk Strap Formal Shoes,Footwear,formal shoes,men,Mojri Mahal,3099,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-1QEWGK,leather,regular,brown
+PRD-GSVBSTS3,Kesarbagh Men Men's Beige Set with Nehru Jacket Straight Cotton Kurta Pyjama Set,Men Ethnic,kurta pyjama set,men,Kesarbagh Men,2699,S|M|L|XL|XXL,SC-5HZ2NQ,cotton,straight,beige
+PRD-GSXYB8D0,Mohini Weaves Women's Mustard Embroidered Flared Silk Blend Anarkali,Women Ethnic,anarkali,women,Mohini Weaves,2099,XS|S|M|L|XL,SC-ZBLNZ6,silk blend,flared,mustard
+PRD-GUQGDYUM,Rangkaar Women's Mustard Ikat Print Regular Cotton Kurta,Women Ethnic,kurta,women,Rangkaar,2199,XS|S|M|L|XL|XXL,SC-Y17XT5,cotton,regular,mustard
+PRD-GV7GK5NF,Paavni Studio Women's Red Solid Relaxed Rayon Palazzo,Women Ethnic,palazzo,women,Paavni Studio,699,XS|S|M|L|XL,SC-2116M8,rayon,relaxed,red
+PRD-GV9QLB45,Gulmohar Threads Women's Lavender Cotton Solid with Border Saree,Women Ethnic,saree,women,Gulmohar Threads,5399,Free Size,,cotton,free size,lavender
+PRD-GWFLLG33,Veer Denim Works Men's Off-White Light Fade Slim Cotton Denim Jeans,Men Western,jeans,men,Veer Denim Works,1299,28|30|32|34|36|38,SC-PA59HA,cotton denim,slim,off-white
+PRD-GWTB4JG9,Mojri Mahal Men's Beige Embroidered Mojaris,Footwear,mojaris,men,Mojri Mahal,1199,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-X27TH4,synthetic leather,regular,beige
+PRD-H0UPBEW8,Pagdandi Menswear Men's White Checked Casual Slim Poly-Cotton Shirt,Men Western,shirt,men,Pagdandi Menswear,1199,S|M|L|XL,SC-V0UICZ,poly-cotton,slim,white
+PRD-H14X8PEU,Mojri Mahal Men's Beige Strap Sandals Sandals,Footwear,sandals,men,Mojri Mahal,1799,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-U8WZ1G,synthetic,regular,beige
+PRD-H1DP4TEZ,Saffron Basics Men's Beige Distressed Relaxed Stretchable Denim Jeans,Men Western,jeans,men,Saffron Basics,1199,28|30|32|34|36|38|40,SC-FKU70Q,stretchable denim,relaxed,beige
+PRD-H2PU822A,Silvat Menswear Men's Bottle Green Solid Slim Jacquard Nehru Jacket,Men Ethnic,nehru jacket,men,Silvat Menswear,1699,S|M|L|XL,SC-C82YGL,jacquard,slim,bottle green
+PRD-H2QCTOQ3,Gulmohar Threads Women's Rust Embroidered Regular Silk Blend Anarkali,Women Ethnic,anarkali,women,Gulmohar Threads,3199,XS|S|M|L|XL|XXL,SC-TL6PNP,silk blend,regular,rust
+PRD-H3T0PAID,Saffron Basics Men's Teal Printed Casual Regular Linen Blend Shirt,Men Western,shirt,men,Saffron Basics,1299,S|M|L|XL|XXL,SC-WO8UFI,linen blend,regular,teal
+PRD-H441PXQO,Padchinh Women's Navy Blue Embroidered Juttis,Footwear,juttis,women,Padchinh,1599,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-8989PJ,synthetic leather,regular,navy blue
+PRD-H821Z69U,Mohini Weaves Women's Peach Floral Print Flared Chanderi Silk Kurta,Women Ethnic,kurta,women,Mohini Weaves,499,XS|S|M|L|XL,SC-3Q94XN,chanderi silk,flared,peach
+PRD-H91K4FVJ,Gulmohar Threads Women's Blue Georgette Gota Patti Kurta Set,Women Ethnic,kurta set,women,Gulmohar Threads,1699,XS|S|M|L|XL,SC-QXB5CC,georgette,straight,blue
+PRD-H95215GW,Bahaar Street Women's Mustard Peplum Regular Polyester Top,Women Western,top,women,Bahaar Street,699,XS|S|M|L|XL|XXL,SC-ZVM0P8,polyester,regular,mustard
+PRD-HAB9CMZH,Jhumka Lane Women's Rani Pink Rayon Gota Patti Kurta Set,Women Ethnic,kurta set,women,Jhumka Lane,1299,XS|S|M|L|XL|XXL,SC-IKCOMJ,rayon,regular,rani pink
+PRD-HAW04Q7W,Padchinh Women's Grey Mirror Work Juttis,Footwear,juttis,women,Padchinh,1399,UK 3|UK 4|UK 5|UK 6|UK 7,SC-8989PJ,velvet upper,regular,grey
+PRD-HCEQ29T6,Kesarbagh Women's Pink Floral Print Flared Cotton Kurta,Women Ethnic,kurta,women,Kesarbagh,2499,XS|S|M|L|XL|XXL,SC-4EV3RS,cotton,flared,pink
+PRD-HDXTEL4F,Kesarbagh Men Men's White Printed Regular Linen Blend Kurta,Men Ethnic,kurta,men,Kesarbagh Men,899,S|M|L|XL|XXL,SC-GXJ7N5,linen blend,regular,white
+PRD-HEIX6HOK,Gulmohar Threads Women's Grey Solid Straight Rayon Kurta,Women Ethnic,kurta,women,Gulmohar Threads,1099,XS|S|M|L|XL|XXL,SC-YXAUMG,rayon,straight,grey
+PRD-HFAPOI5H,Kadam Footwear Men's Maroon Strap Sandals Sandals,Footwear,sandals,men,Kadam Footwear,1199,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-X70STK,synthetic,regular,maroon
+PRD-HFDACF4Q,Rangkaar Women's Wine Chikankari Embroidered Regular Chanderi Silk Kurta,Women Ethnic,kurta,women,Rangkaar,599,XS|S|M|L|XL|XXL,SC-Y17XT5,chanderi silk,regular,wine
+PRD-HFDK47OK,Paavni Studio Women's Black Yoke Embroidered Regular Cotton Kurta,Women Ethnic,kurta,women,Paavni Studio,1999,XS|S|M|L|XL|XXL,SC-WX2SLW,cotton,regular,black
+PRD-HH61BURU,Jhumka Lane Women's Bottle Green Ikat Print A-Line Viscose Rayon Kurta,Women Ethnic,kurta,women,Jhumka Lane,1499,XS|S|M|L|XL|XXL,SC-MD9V4K,viscose rayon,A-line,bottle green
+PRD-HHU7OZ1Q,Gulmohar Threads Women's Mustard Yoke Embroidered Straight Viscose Rayon Kurta,Women Ethnic,kurta,women,Gulmohar Threads,1799,XS|S|M|L|XL|XXL,SC-YXAUMG,viscose rayon,straight,mustard
+PRD-HHUVZP0I,Karonda Studio Women's Teal Floral Print Boxy Georgette Top,Women Western,top,women,Karonda Studio,399,XS|S|M|L|XL|XXL,SC-1UUC6S,georgette,boxy,teal
+PRD-HJT7AEOF,Kesarbagh Men Men's Teal Jacquard Set Regular Cotton Kurta Pyjama Set,Men Ethnic,kurta pyjama set,men,Kesarbagh Men,1099,S|M|L|XL|XXL,SC-5HZ2NQ,cotton,regular,teal
+PRD-HKOGJNSV,Veer Denim Works Men's Off-White Light Fade Relaxed Cotton Denim Jeans,Men Western,jeans,men,Veer Denim Works,2499,28|30|32|34|36|38|40,SC-PA59HA,cotton denim,relaxed,off-white
+PRD-HLKQCMCM,Jhumka Lane Women's Black Zari Woven Regular Net Anarkali,Women Ethnic,anarkali,women,Jhumka Lane,2899,XS|S|M|L|XL,SC-1E42MQ,net,regular,black
+PRD-HLX4NJDI,Bahaar Street Women's Orange Clean Look Wide Leg Stretchable Denim Jeans,Women Western,jeans,women,Bahaar Street,1099,26|28|30|32|34|36,SC-L0P2VO,stretchable denim,wide leg,orange
+PRD-HNC34HSX,Karonda Studio Women's Wine Floral Midi Bodycon Cotton Dress,Women Western,dress,women,Karonda Studio,1699,XS|S|M|L|XL|XXL,SC-9ZCDOA,cotton,bodycon,wine
+PRD-HNLT23LB,Paavni Studio Women's Red Rayon Embroidered Kurta Set,Women Ethnic,kurta set,women,Paavni Studio,2099,XS|S|M|L|XL|XXL,SC-NF7325,rayon,straight,red
+PRD-HPCG3J1R,Mohini Weaves Women's Teal Organza Printed Saree,Women Ethnic,saree,women,Mohini Weaves,5099,Free Size,,organza,free size,teal
+PRD-HRQ9Q3BM,Mohini Weaves Women's Navy Blue Floral Print A-Line Georgette Kurta,Women Ethnic,kurta,women,Mohini Weaves,799,XS|S|M|L|XL|XXL,SC-ACP6D3,georgette,A-line,navy blue
+PRD-HSHUV091,Saffron Basics Women's Black Tiered A-Line Cotton Dress,Women Western,dress,women,Saffron Basics,2499,XS|S|M|L|XL|XXL,SC-PJV58I,cotton,A-line,black
+PRD-HSSAQRZH,Kesarbagh Women's Black Block Print Straight Viscose Rayon Kurta,Women Ethnic,kurta,women,Kesarbagh,1999,XS|S|M|L|XL,SC-4EV3RS,viscose rayon,straight,black
+PRD-HTZV16N3,Mohini Weaves Women's Blue Cotton Printed Saree,Women Ethnic,saree,women,Mohini Weaves,7099,Free Size,,cotton,free size,blue
+PRD-HW6DTNRL,Padchinh Women's Silver Mirror Work Juttis,Footwear,juttis,women,Padchinh,999,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-8989PJ,synthetic leather,regular,silver
+PRD-HWVU8T60,Jhumka Lane Women's Grey Chikankari Embroidered A-Line Viscose Rayon Kurta,Women Ethnic,kurta,women,Jhumka Lane,699,XS|S|M|L|XL|XXL,SC-MD9V4K,viscose rayon,A-line,grey
+PRD-HY07KJZZ,Kesarbagh Women's Brown Velvet Sequinned Lehenga Set,Women Ethnic,lehenga,women,Kesarbagh,10499,S|M|L|XL,SC-9TYH1X,velvet,semi-stitched,brown
+PRD-HYRUTK8Z,Karonda Studio Women's Maroon Floral Print Fitted Crepe Top,Women Western,top,women,Karonda Studio,399,XS|S|M|L|XL|XXL,SC-LPO3PP,crepe,fitted,maroon
+PRD-HYYFH5WB,Silvat Menswear Men's Olive Art Silk Embroidered Sherwani Set,Men Ethnic,sherwani,men,Silvat Menswear,6899,S|M|L|XL|XXL,SC-H4XKM6,art silk,slim,olive
+PRD-HZA8BJZX,Padchinh Men's Tan Running Shoes,Footwear,sneakers,men,Padchinh,2899,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-BGQ5PU,canvas,regular,tan
+PRD-I09UUNLJ,Saffron Basics Men's Blue Solid Regular Cotton Chinos,Men Western,chinos,men,Saffron Basics,999,28|30|32|34|36|38,SC-GF81VS,cotton,regular,blue
+PRD-I2QW3842,Pagdandi Menswear Men's Blue Checked Casual Regular Cotton Shirt,Men Western,shirt,men,Pagdandi Menswear,599,S|M|L|XL|XXL,SC-YFIE91,cotton,regular,blue
+PRD-I4B6SAYC,Padchinh Men's Gold Walking Shoes,Footwear,sneakers,men,Padchinh,999,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-BGQ5PU,synthetic leather,regular,gold
+PRD-ID2N2L32,Pagdandi Menswear Men's Off-White Henley Regular Polyester T-Shirt,Men Western,t-shirt,men,Pagdandi Menswear,1099,S|M|L|XL,SC-SWJKNR,polyester,regular,off-white
+PRD-IEV9CIFC,Saffron Basics Men's Black Solid Casual Slim Cotton Blend Shirt,Men Western,shirt,men,Saffron Basics,1799,S|M|L|XL|XXL,SC-WO8UFI,cotton blend,slim,black
+PRD-IEXX0I0Z,Padchinh Men's Navy Blue Training Shoes,Footwear,sneakers,men,Padchinh,2699,UK 6|UK 7|UK 8|UK 9|UK 10,SC-P3UB3M,mesh,regular,navy blue
+PRD-IFLOMHFR,Mohini Weaves Women's Brown Printed Flared Rayon Anarkali,Women Ethnic,anarkali,women,Mohini Weaves,3499,XS|S|M|L|XL|XXL,SC-ZBLNZ6,rayon,flared,brown
+PRD-IHFNWEA2,Saffron Basics Women's Olive Peplum Regular Crepe Top,Women Western,top,women,Saffron Basics,499,XS|S|M|L|XL|XXL,SC-MA75DH,crepe,regular,olive
+PRD-IK27S7R7,Gulmohar Threads Women's Black Organza Floral Print Saree,Women Ethnic,saree,women,Gulmohar Threads,7899,Free Size,,organza,free size,black
+PRD-INCUBTB6,Kadam Footwear Men's Gold Casual Sneakers,Footwear,sneakers,men,Kadam Footwear,4799,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-HFP7IG,mesh,regular,gold
+PRD-IT0WDDM2,Pagdandi Menswear Men's Teal Graphic Print Regular Cotton Blend T-Shirt,Men Western,t-shirt,men,Pagdandi Menswear,799,S|M|L|XL|XXL,SC-SWJKNR,cotton blend,regular,teal
+PRD-IT7HX3PV,Mohini Weaves Women's Navy Blue Zari Woven Regular Georgette Anarkali,Women Ethnic,anarkali,women,Mohini Weaves,3699,XS|S|M|L|XL,SC-ZBLNZ6,georgette,regular,navy blue
+PRD-IU1N9WBJ,Kesarbagh Women's Yellow Chiffon Sequinned Saree,Women Ethnic,saree,women,Kesarbagh,3999,Free Size,,chiffon,free size,yellow
+PRD-IU9KI2B6,Bahaar Street Women's Brown Peplum Regular Polyester Top,Women Western,top,women,Bahaar Street,1099,XS|S|M|L|XL|XXL,SC-ZVM0P8,polyester,regular,brown
+PRD-IVTIL0QK,Silvat Menswear Men's Grey Chikankari Regular Jacquard Kurta,Men Ethnic,kurta,men,Silvat Menswear,899,S|M|L|XL,SC-2R7MKZ,jacquard,regular,grey
+PRD-IX6Y31QK,Taranga Lane Women's Red Floral Print Boxy Rayon Top,Women Western,top,women,Taranga Lane,699,XS|S|M|L|XL|XXL,SC-ZRED5R,rayon,boxy,red
+PRD-J0AFM4CK,Gulmohar Threads Women's Bottle Green Yoke Embroidered Regular Cotton Kurta,Women Ethnic,kurta,women,Gulmohar Threads,599,XS|S|M|L|XL|XXL,SC-YXAUMG,cotton,regular,bottle green
+PRD-J0HB1R36,Gulmohar Threads Women's Beige Linen Blend Floral Print Saree,Women Ethnic,saree,women,Gulmohar Threads,3299,Free Size,,linen blend,free size,beige
+PRD-J3AQPI84,Paavni Studio Women's Maroon Solid Flared Rayon Palazzo,Women Ethnic,palazzo,women,Paavni Studio,799,XS|S|M|L|XL,SC-7SMC5S,rayon,flared,maroon
+PRD-J499H3XO,Gulmohar Threads Women's Lavender Cotton Blend Kurta with Palazzo and Dupatta,Women Ethnic,kurta set,women,Gulmohar Threads,2699,XS|S|M|L|XL,SC-8FNB68,cotton blend,regular,lavender
+PRD-J5CGTTLY,Chalo Steps Women's Maroon Kolhapuri Style Flats,Footwear,flats,women,Chalo Steps,899,UK 3|UK 4|UK 5|UK 6|UK 7,SC-7656NH,PU,regular,maroon
+PRD-J5I12SNY,Kadam Footwear Men's Pink Loafers Formal Shoes,Footwear,formal shoes,men,Kadam Footwear,2999,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-N2GJ5V,synthetic leather,regular,pink
+PRD-J5TIEHCD,Karonda Studio Women's Green Puff Sleeve Fitted Polyester Top,Women Western,top,women,Karonda Studio,999,XS|S|M|L|XL|XXL,SC-OF5ZS3,polyester,fitted,green
+PRD-J7CQY22U,Chalo Steps Men's White Loafers Formal Shoes,Footwear,formal shoes,men,Chalo Steps,1499,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-GH7KDI,leather,regular,white
+PRD-J9IFNT42,Jhumka Lane Women's Mustard Art Silk Mirror Work Lehenga,Women Ethnic,lehenga,women,Jhumka Lane,9499,S|M|L|XL,SC-5A920L,art silk,semi-stitched,mustard
+PRD-JFLOO40I,Rangkaar Women's Navy Blue Silk Blend Floral Lehenga with Dupatta,Women Ethnic,lehenga,women,Rangkaar,13899,S|M|L|XL,SC-UHALZ3,silk blend,flared,navy blue
+PRD-JFSNHDOH,Taranga Lane Women's Peach Floral Print Boxy Polyester Top,Women Western,top,women,Taranga Lane,499,XS|S|M|L|XL|XXL,SC-90T3II,polyester,boxy,peach
+PRD-JIQ58HZW,Kesarbagh Women's Orange Silk Blend Embroidered Lehenga Choli,Women Ethnic,lehenga,women,Kesarbagh,9699,S|M|L|XL,SC-7PPAUR,silk blend,flared,orange
+PRD-JJ5E517F,Kesarbagh Women's Orange Leheriya Regular Cotton Blend Kurta,Women Ethnic,kurta,women,Kesarbagh,799,XS|S|M|L|XL|XXL,SC-UNV2VP,cotton blend,regular,orange
+PRD-JKJOMK98,Kesarbagh Women's Rani Pink Georgette Printed Saree,Women Ethnic,saree,women,Kesarbagh,1599,Free Size,,georgette,free size,rani pink
+PRD-JLKR24H3,Saffron Basics Women's Orange Ruffled Fitted Polyester Top,Women Western,top,women,Saffron Basics,599,XS|S|M|L|XL|XXL,SC-MA75DH,polyester,fitted,orange
+PRD-JMXMJVZC,Karonda Studio Women's Wine Solid Ankle Length Cotton Lycra Leggings,Women Western,leggings,women,Karonda Studio,499,XS|S|M|L|XL|XXL,SC-83LFSN,cotton lycra,ankle length,wine
+PRD-JPK9W2SS,Chalo Steps Men's Beige Strap Sandals Sandals,Footwear,sandals,men,Chalo Steps,1599,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-C6KBV0,leather,regular,beige
+PRD-JPRORNOF,Pagdandi Menswear Men's Brown Light Fade Tapered Stretchable Denim Jeans,Men Western,jeans,men,Pagdandi Menswear,1499,28|30|32|34|36|38|40,SC-IBJKPD,stretchable denim,tapered,brown
+PRD-JPYV1UM2,Gulmohar Threads Women's Peach Floral Print Flared Viscose Rayon Kurta,Women Ethnic,kurta,women,Gulmohar Threads,599,XS|S|M|L|XL|XXL,SC-YXAUMG,viscose rayon,flared,peach
+PRD-JQECITOT,Pagdandi Menswear Men's Blue Mid Rise Tapered Stretchable Denim Jeans,Men Western,jeans,men,Pagdandi Menswear,1499,28|30|32|34|36|38|40,SC-IBJKPD,stretchable denim,tapered,blue
+PRD-JQH1PL0A,Saffron Basics Women's Black Shirt Dress Bodycon Georgette Dress,Women Western,dress,women,Saffron Basics,799,XS|S|M|L|XL|XXL,SC-PJV58I,georgette,bodycon,black
+PRD-JQPX2C78,Chalo Steps Women's Gold Embellished Flats Flats,Footwear,flats,women,Chalo Steps,1199,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-7656NH,synthetic,regular,gold
+PRD-JSKK4H2J,Paavni Studio Women's Lavender Solid A-Line Chanderi Silk Kurta,Women Ethnic,kurta,women,Paavni Studio,999,XS|S|M|L|XL|XXL,SC-WX2SLW,chanderi silk,A-line,lavender
+PRD-JSPMJRUD,Kadam Footwear Women's Beige Casual Sneakers,Footwear,sneakers,women,Kadam Footwear,1199,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-3IC0H0,canvas,regular,beige
+PRD-JTZQ5C1I,Gulmohar Threads Women's Grey Georgette Printed Saree,Women Ethnic,saree,women,Gulmohar Threads,3799,Free Size,,georgette,free size,grey
+PRD-JXOUYP9I,Pagdandi Menswear Men's Maroon Solid Slim Cotton Stretch Chinos,Men Western,chinos,men,Pagdandi Menswear,999,28|30|32|34|36|38|40,SC-JJD1K2,cotton stretch,slim,maroon
+PRD-K2NLKYI4,Kesarbagh Women's Orange Chiffon Bandhani Saree,Women Ethnic,saree,women,Kesarbagh,2799,Free Size,,chiffon,free size,orange
+PRD-K2ZW59EM,Rangkaar Women's Rust Rayon Printed Kurta with Sharara,Women Ethnic,kurta set,women,Rangkaar,1799,XS|S|M|L|XL|XXL,SC-XUZ9IJ,rayon,regular,rust
+PRD-K41QU0YT,Saffron Basics Women's Orange Striped Regular Georgette Top,Women Western,top,women,Saffron Basics,1199,XS|S|M|L|XL|XXL,SC-Q7LNNW,georgette,regular,orange
+PRD-K6LSA68E,Paavni Studio Women's Grey Ikat Print Flared Georgette Kurta,Women Ethnic,kurta,women,Paavni Studio,1699,XS|S|M|L|XL|XXL,SC-WX2SLW,georgette,flared,grey
+PRD-K9H90QF7,Padchinh Women's Pink Mirror Work Juttis,Footwear,juttis,women,Padchinh,1699,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-8989PJ,velvet upper,regular,pink
+PRD-KB0G97CW,Jhumka Lane Women's Rust Muslin Printed Kurta with Sharara,Women Ethnic,kurta set,women,Jhumka Lane,1899,XS|S|M|L|XL|XXL,SC-IKCOMJ,muslin,straight,rust
+PRD-KDM0HDR3,Paavni Studio Women's Bottle Green Net Printed Dupatta,Women Ethnic,dupatta,women,Paavni Studio,499,Free Size,,net,free size,bottle green
+PRD-KIQQNYOQ,Kesarbagh Men Men's Sky Blue Jacquard Silk Blend Self Design Sherwani,Men Ethnic,sherwani,men,Kesarbagh Men,6599,S|M|L|XL|XXL,SC-NT1A9J,jacquard silk blend,slim,sky blue
+PRD-KJ4RJTV1,Shaan Ethnic Men's Mustard Solid Regular Velvet Nehru Jacket,Men Ethnic,nehru jacket,men,Shaan Ethnic,1799,S|M|L|XL,SC-PKAWKX,velvet,regular,mustard
+PRD-KKO2YYJM,Saffron Basics Men's Off-White Printed Casual Slim Cotton Shirt,Men Western,shirt,men,Saffron Basics,799,S|M|L|XL|XXL,SC-WO8UFI,cotton,slim,off-white
+PRD-KMK6HRH4,Bahaar Street Women's Red Solid Boxy Georgette Top,Women Western,top,women,Bahaar Street,799,XS|S|M|L|XL|XXL,SC-ZVM0P8,georgette,boxy,red
+PRD-KON3T73J,Paavni Studio Women's Brown Solid Regular Viscose Rayon Kurta,Women Ethnic,kurta,women,Paavni Studio,2199,XS|S|M|L|XL,SC-WX2SLW,viscose rayon,regular,brown
+PRD-KP106VXW,Veer Denim Works Men's Teal Light Fade Regular Cotton Denim Jeans,Men Western,jeans,men,Veer Denim Works,1199,28|30|32|34|36|38,SC-PA59HA,cotton denim,regular,teal
+PRD-KR5REMUH,Kesarbagh Women's Black Chanderi Printed Dupatta,Women Ethnic,dupatta,women,Kesarbagh,899,Free Size,,chanderi,free size,black
+PRD-KS5EHVVQ,Chalo Steps Women's Maroon Ballerinas Flats,Footwear,flats,women,Chalo Steps,1099,UK 3|UK 4|UK 5|UK 6|UK 7,SC-I1EDC0,canvas,regular,maroon
+PRD-KVDSIED9,Shaan Ethnic Men's Cream Solid Set Straight Cotton Kurta Pyjama Set,Men Ethnic,kurta pyjama set,men,Shaan Ethnic,3299,S|M|L|XL|XXL,SC-7QYQMJ,cotton,straight,cream
+PRD-KWWX7S7P,Pagdandi Menswear Men's Brown Solid Casual Slim Cotton Blend Shirt,Men Western,shirt,men,Pagdandi Menswear,999,S|M|L|XL,SC-V0UICZ,cotton blend,slim,brown
+PRD-KY3Z0H4B,Shaan Ethnic Men's Grey Pathani Straight Cotton Kurta,Men Ethnic,kurta,men,Shaan Ethnic,899,S|M|L|XL|XXL,SC-Z1A0DT,cotton,straight,grey
+PRD-KYSPBNPE,Mohini Weaves Women's Black Chiffon Zari Woven Saree,Women Ethnic,saree,women,Mohini Weaves,6199,Free Size,,chiffon,free size,black
+PRD-L0SQYFBS,Bahaar Street Women's Black Mid Rise Skinny Stretchable Denim Jeans,Women Western,jeans,women,Bahaar Street,2399,26|28|30|32|34,SC-L0P2VO,stretchable denim,skinny,black
+PRD-L13PVGRW,Jhumka Lane Women's Grey Printed Relaxed Rayon Palazzo,Women Ethnic,palazzo,women,Jhumka Lane,399,XS|S|M|L|XL,SC-AME3YD,rayon,relaxed,grey
+PRD-L32UAZHX,Saffron Basics Men's Bottle Green Solid Casual Regular Cotton Blend Shirt,Men Western,shirt,men,Saffron Basics,799,S|M|L|XL|XXL,SC-WO8UFI,cotton blend,regular,bottle green
+PRD-L55UBLWB,Kadam Footwear Men's Beige Monk Strap Formal Shoes,Footwear,formal shoes,men,Kadam Footwear,1899,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-YMYTZO,leather,regular,beige
+PRD-L8QAT57S,Saffron Basics Women's Red Ruffled Boxy Georgette Top,Women Western,top,women,Saffron Basics,699,XS|S|M|L|XL,SC-MA75DH,georgette,boxy,red
+PRD-LA1H76SW,Bahaar Street Women's Blue Striped Fitted Crepe Top,Women Western,top,women,Bahaar Street,349,XS|S|M|L|XL|XXL,SC-ZVM0P8,crepe,fitted,blue
+PRD-LBY0IJN6,Veer Denim Works Men's Brown Mid Rise Tapered Cotton Denim Jeans,Men Western,jeans,men,Veer Denim Works,1099,28|30|32|34|36|38,SC-PA59HA,cotton denim,tapered,brown
+PRD-LE91A156,Kesarbagh Women's Green Cotton Blend Kurta with Palazzo and Dupatta,Women Ethnic,kurta set,women,Kesarbagh,1299,XS|S|M|L|XL|XXL,SC-Z63YCC,cotton blend,straight,green
+PRD-LHNPGWGM,Veer Denim Works Men's Teal Textured Regular Cotton Stretch Chinos,Men Western,chinos,men,Veer Denim Works,1199,28|30|32|34|36|38|40,SC-A30J8C,cotton stretch,regular,teal
+PRD-LIWUMGIM,Karonda Studio Women's Off-White Floral Midi A-Line Rayon Dress,Women Western,dress,women,Karonda Studio,1699,XS|S|M|L|XL|XXL,SC-9ZCDOA,rayon,A-line,off-white
+PRD-LJFNUL1Q,Kesarbagh Women's Black Organza Floral Print Saree,Women Ethnic,saree,women,Kesarbagh,899,Free Size,,organza,free size,black
+PRD-LK3J4Y41,Mojri Mahal Men's Black Outdoor Sandals Sandals,Footwear,sandals,men,Mojri Mahal,599,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-L9IA33,synthetic,regular,black
+PRD-LK7WCWDG,Kesarbagh Men Men's Wine Printed Regular Linen Blend Nehru Jacket,Men Ethnic,nehru jacket,men,Kesarbagh Men,1699,S|M|L|XL,SC-X1XNRJ,linen blend,regular,wine
+PRD-LLKRLKPA,Shaan Ethnic Men's Blue Embroidered Set Straight Silk Blend Kurta Pyjama Set,Men Ethnic,kurta pyjama set,men,Shaan Ethnic,2199,S|M|L|XL|XXL,SC-YDO3P9,silk blend,straight,blue
+PRD-LM8UTD6G,Gulmohar Threads Women's Blue Printed Flared Georgette Anarkali,Women Ethnic,anarkali,women,Gulmohar Threads,3499,XS|S|M|L|XL|XXL,SC-7YZM0F,georgette,flared,blue
+PRD-LOEHWIVH,Mohini Weaves Women's Green Yoke Embroidered Regular Cotton Kurta,Women Ethnic,kurta,women,Mohini Weaves,699,XS|S|M|L|XL|XXL,SC-ACP6D3,cotton,regular,green
+PRD-LQ78FUVL,Rangkaar Women's Wine Printed Flared Rayon Palazzo,Women Ethnic,palazzo,women,Rangkaar,899,XS|S|M|L|XL|XXL,SC-PDW1NX,rayon,flared,wine
+PRD-LRAVO4ON,Mojri Mahal Men's Beige Casual Sneakers,Footwear,sneakers,men,Mojri Mahal,2099,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-90ZQP4,synthetic leather,regular,beige
+PRD-LSCMPV99,Karonda Studio Women's Peach Solid Fitted Georgette Top,Women Western,top,women,Karonda Studio,899,XS|S|M|L|XL|XXL,SC-RFCU3K,georgette,fitted,peach
+PRD-LSEZNMDG,Padchinh Women's White Embroidered Juttis,Footwear,juttis,women,Padchinh,1699,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-8989PJ,synthetic leather,regular,white
+PRD-LWHSYU05,Gulmohar Threads Women's Off-White Rayon Kurta with Palazzo and Dupatta,Women Ethnic,kurta set,women,Gulmohar Threads,899,XS|S|M|L|XL,SC-YQW5P7,rayon,straight,off-white
+PRD-LWSY2ENJ,Rangkaar Women's Rust Striped Straight Chanderi Silk Kurta,Women Ethnic,kurta,women,Rangkaar,499,XS|S|M|L|XL|XXL,SC-Y17XT5,chanderi silk,straight,rust
+PRD-LY0LGUIG,Kadam Footwear Women's Silver Wedges Heels,Footwear,heels,women,Kadam Footwear,2299,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-8V4RR0,synthetic,regular,silver
+PRD-LZFALC5H,Rangkaar Women's Rust Solid A-Line Chanderi Silk Kurta,Women Ethnic,kurta,women,Rangkaar,1599,XS|S|M|L|XL|XXL,SC-Y17XT5,chanderi silk,A-line,rust
+PRD-M1B242S5,Pagdandi Menswear Men's White Checked Casual Slim Linen Blend Shirt,Men Western,shirt,men,Pagdandi Menswear,1199,S|M|L|XL|XXL,SC-V0UICZ,linen blend,slim,white
+PRD-M49S3RHY,Kesarbagh Women's White Cotton Printed Saree,Women Ethnic,saree,women,Kesarbagh,1399,Free Size,,cotton,free size,white
+PRD-M5IXCYCB,Chalo Steps Men's Navy Blue Outdoor Sandals Sandals,Footwear,sandals,men,Chalo Steps,499,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-C6KBV0,leather,regular,navy blue
+PRD-M7YO2B53,Kesarbagh Women's Rust Chiffon Sequinned Saree,Women Ethnic,saree,women,Kesarbagh,5399,Free Size,,chiffon,free size,rust
+PRD-MAQYIK25,Jhumka Lane Women's Grey Block Print Flared Cotton Blend Kurta,Women Ethnic,kurta,women,Jhumka Lane,799,XS|S|M|L|XL,SC-JK79C5,cotton blend,flared,grey
+PRD-MBQ9IQ14,Rangkaar Women's White Printed Flared Silk Blend Anarkali,Women Ethnic,anarkali,women,Rangkaar,1299,XS|S|M|L|XL|XXL,SC-XMCOIU,silk blend,flared,white
+PRD-MC3CAMDN,Saffron Basics Women's Lavender Solid Maxi A-Line Crepe Dress,Women Western,dress,women,Saffron Basics,2099,XS|S|M|L|XL,SC-PJV58I,crepe,A-line,lavender
+PRD-MC44IPWT,Padchinh Men's Navy Blue Floaters Sandals,Footwear,sandals,men,Padchinh,799,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-09N28U,synthetic,regular,navy blue
+PRD-MC5DK0N9,Mohini Weaves Women's Peach Mirror Work Flared Net Anarkali,Women Ethnic,anarkali,women,Mohini Weaves,3299,XS|S|M|L|XL|XXL,SC-ZBLNZ6,net,flared,peach
+PRD-MCZ0EUX9,Gulmohar Threads Women's Wine Cotton Bandhani Dupatta,Women Ethnic,dupatta,women,Gulmohar Threads,1199,Free Size,,cotton,free size,wine
+PRD-ME15CNXA,Kesarbagh Women's Yellow Silk Blend Zari Work Lehenga,Women Ethnic,lehenga,women,Kesarbagh,8499,S|M|L|XL,SC-9TYH1X,silk blend,flared,yellow
+PRD-ME90NT7X,Jhumka Lane Women's Orange Muslin Gota Patti Kurta Set,Women Ethnic,kurta set,women,Jhumka Lane,999,XS|S|M|L|XL,SC-IKCOMJ,muslin,straight,orange
+PRD-MF8G8A6R,Rangkaar Women's Navy Blue Chikankari Embroidered Straight Rayon Kurta,Women Ethnic,kurta,women,Rangkaar,499,XS|S|M|L|XL|XXL,SC-Y17XT5,rayon,straight,navy blue
+PRD-MIEXT7N5,Taranga Lane Women's Off-White Ruffled Fitted Rayon Top,Women Western,top,women,Taranga Lane,399,XS|S|M|L|XL,SC-2D0A79,rayon,fitted,off-white
+PRD-MIUVKJ3X,Silvat Menswear Men's Sky Blue Embroidered Set Straight Jacquard Kurta Pyjama Set,Men Ethnic,kurta pyjama set,men,Silvat Menswear,1999,S|M|L|XL|XXL,SC-CNUV9X,jacquard,straight,sky blue
+PRD-MKXNEJFF,Kesarbagh Women's Mustard Banarasi Silk Blend Zari Woven Saree,Women Ethnic,saree,women,Kesarbagh,1699,Free Size,,banarasi silk blend,free size,mustard
+PRD-MLONZS4Q,Paavni Studio Women's Navy Blue Block Print Flared Cotton Blend Kurta,Women Ethnic,kurta,women,Paavni Studio,2299,XS|S|M|L|XL|XXL,SC-WX2SLW,cotton blend,flared,navy blue
+PRD-MLV2FEIY,Gulmohar Threads Women's Black Solid A-Line Chanderi Silk Kurta,Women Ethnic,kurta,women,Gulmohar Threads,1999,XS|S|M|L|XL,SC-YXAUMG,chanderi silk,A-line,black
+PRD-MM8TE21N,Gulmohar Threads Women's Blue Striped Flared Chanderi Silk Kurta,Women Ethnic,kurta,women,Gulmohar Threads,499,XS|S|M|L|XL|XXL,SC-YXAUMG,chanderi silk,flared,blue
+PRD-MMKOJQO1,Pagdandi Menswear Men's Sky Blue Polo Regular Cotton Blend T-Shirt,Men Western,t-shirt,men,Pagdandi Menswear,999,S|M|L|XL|XXL,SC-SWJKNR,cotton blend,regular,sky blue
+PRD-MMUAOW3R,Silvat Menswear Men's Navy Blue Checked Casual Regular Cotton Blend Shirt,Men Western,shirt,men,Silvat Menswear,699,S|M|L|XL|XXL,SC-B8U76E,cotton blend,regular,navy blue
+PRD-MNZUD4QW,Saffron Basics Men's Mustard Clean Look Slim Cotton Denim Jeans,Men Western,jeans,men,Saffron Basics,2599,28|30|32|34|36|38,SC-FKU70Q,cotton denim,slim,mustard
+PRD-MOEPA4QP,Shaan Ethnic Men's Wine Chikankari Straight Linen Blend Kurta,Men Ethnic,kurta,men,Shaan Ethnic,2199,S|M|L|XL|XXL,SC-Z1A0DT,linen blend,straight,wine
+PRD-MORZ33GB,Kesarbagh Men Men's Cream Solid Regular Jacquard Kurta,Men Ethnic,kurta,men,Kesarbagh Men,1399,S|M|L|XL|XXL,SC-GXJ7N5,jacquard,regular,cream
+PRD-MQW2W276,Chalo Steps Men's White Oxford Formal Shoes,Footwear,formal shoes,men,Chalo Steps,1499,UK 6|UK 7|UK 8|UK 9|UK 10,SC-GH7KDI,synthetic leather,regular,white
+PRD-MS61RPDW,Saffron Basics Men's Peach Polo Oversized Cotton T-Shirt,Men Western,t-shirt,men,Saffron Basics,799,S|M|L|XL|XXL,SC-SAKM69,cotton,oversized,peach
+PRD-MU5INC27,Pagdandi Menswear Men's Bottle Green Solid Formal Slim Cotton Shirt,Men Western,shirt,men,Pagdandi Menswear,799,S|M|L|XL|XXL,SC-V0UICZ,cotton,slim,bottle green
+PRD-MU6MZITN,Kesarbagh Women's Teal Chikankari Embroidered A-Line Cotton Kurta,Women Ethnic,kurta,women,Kesarbagh,1299,XS|S|M|L|XL,SC-4EV3RS,cotton,A-line,teal
+PRD-MZ9RAPQV,Padchinh Women's Maroon Casual Sneakers,Footwear,sneakers,women,Padchinh,1699,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-V5MLTZ,synthetic,regular,maroon
+PRD-N04UAIFZ,Mohini Weaves Women's Brown Cotton Embroidered Kurta Set,Women Ethnic,kurta set,women,Mohini Weaves,1999,XS|S|M|L|XL|XXL,SC-ISLYF2,cotton,straight,brown
+PRD-N1HU9WG8,Kesarbagh Women's Lavender Striped Straight Rayon Kurta,Women Ethnic,kurta,women,Kesarbagh,599,XS|S|M|L|XL|XXL,SC-CPPPYM,rayon,straight,lavender
+PRD-N41MDYAA,Kesarbagh Women's Pink Rayon Embroidered Kurta Set,Women Ethnic,kurta set,women,Kesarbagh,1399,XS|S|M|L|XL|XXL,SC-Z63YCC,rayon,straight,pink
+PRD-N59S7M5L,Taranga Lane Women's Bottle Green Ruffled Regular Polyester Top,Women Western,top,women,Taranga Lane,499,XS|S|M|L|XL|XXL,SC-2D0A79,polyester,regular,bottle green
+PRD-N5HSMZ3F,Silvat Menswear Men's Maroon Embroidered Set Regular Jacquard Kurta Pyjama Set,Men Ethnic,kurta pyjama set,men,Silvat Menswear,2899,S|M|L|XL|XXL,SC-EBH4MQ,jacquard,regular,maroon
+PRD-N5UDXM8M,Gulmohar Threads Women's Wine Yoke Embroidered Flared Viscose Rayon Kurta,Women Ethnic,kurta,women,Gulmohar Threads,599,XS|S|M|L|XL|XXL,SC-78MCZE,viscose rayon,flared,wine
+PRD-N7XR78N0,Mohini Weaves Women's Wine Net Printed Dupatta,Women Ethnic,dupatta,women,Mohini Weaves,699,Free Size,,net,free size,wine
+PRD-NA4FDGQN,Veer Denim Works Men's Off-White Henley Slim Polyester T-Shirt,Men Western,t-shirt,men,Veer Denim Works,499,S|M|L|XL|XXL,SC-UDTRB0,polyester,slim,off-white
+PRD-NBOGOVDA,Bahaar Street Women's Peach Distressed Wide Leg Cotton Denim Jeans,Women Western,jeans,women,Bahaar Street,2099,26|28|30|32|34,SC-L0P2VO,cotton denim,wide leg,peach
+PRD-NCOTXFTR,Saffron Basics Women's White Ruffled Regular Rayon Top,Women Western,top,women,Saffron Basics,399,XS|S|M|L|XL,SC-F9UTXI,rayon,regular,white
+PRD-NHMALGIB,Silvat Menswear Men's Bottle Green Art Silk Embroidered Sherwani Set,Men Ethnic,sherwani,men,Silvat Menswear,8499,S|M|L|XL|XXL,SC-H4XKM6,art silk,regular,bottle green
+PRD-NI9EVU52,Kesarbagh Men Men's Peach Printed Regular Silk Blend Kurta,Men Ethnic,kurta,men,Kesarbagh Men,1099,S|M|L|XL|XXL,SC-GXJ7N5,silk blend,regular,peach
+PRD-NIGW25NO,Saffron Basics Men's Blue Textured Regular Cotton Chinos,Men Western,chinos,men,Saffron Basics,899,28|30|32|34|36|38|40,SC-GF81VS,cotton,regular,blue
+PRD-NQ87657X,Silvat Menswear Men's White Self Design Slim Velvet Nehru Jacket,Men Ethnic,nehru jacket,men,Silvat Menswear,1999,S|M|L|XL,SC-Z9HAOV,velvet,slim,white
+PRD-NS1VN9EJ,Paavni Studio Women's Mustard Sequinned Flared Rayon Anarkali,Women Ethnic,anarkali,women,Paavni Studio,4599,XS|S|M|L|XL,SC-CIZWKJ,rayon,flared,mustard
+PRD-NSZ4IZW0,Paavni Studio Women's Beige Pleated Flared Rayon Palazzo,Women Ethnic,palazzo,women,Paavni Studio,899,XS|S|M|L|XL|XXL,SC-7SMC5S,rayon,flared,beige
+PRD-NXJUWNH0,Mohini Weaves Women's Wine Georgette Floral Print Saree,Women Ethnic,saree,women,Mohini Weaves,899,Free Size,,georgette,free size,wine
+PRD-NZZ6JXKO,Jhumka Lane Women's Green Yoke Embroidered A-Line Rayon Kurta,Women Ethnic,kurta,women,Jhumka Lane,1099,XS|S|M|L|XL,SC-MD9V4K,rayon,A-line,green
+PRD-O2X0AMGA,Kesarbagh Women's Bottle Green Block Print Straight Cotton Blend Kurta,Women Ethnic,kurta,women,Kesarbagh,699,XS|S|M|L|XL,SC-4EV3RS,cotton blend,straight,bottle green
+PRD-O4FV5VFP,Gulmohar Threads Women's Black Linen Blend Zari Woven Saree,Women Ethnic,saree,women,Gulmohar Threads,1099,Free Size,,linen blend,free size,black
+PRD-O4H5MPGR,Saffron Basics Women's Green Solid Maxi Regular Rayon Dress,Women Western,dress,women,Saffron Basics,2699,XS|S|M|L|XL|XXL,SC-PJV58I,rayon,regular,green
+PRD-O5UMFF71,Jhumka Lane Women's Pink Muslin Kurta with Palazzo and Dupatta,Women Ethnic,kurta set,women,Jhumka Lane,1299,XS|S|M|L|XL|XXL,SC-IKCOMJ,muslin,straight,pink
+PRD-O8BBVJEJ,Silvat Menswear Men's Grey Mid Rise Slim Cotton Denim Jeans,Men Western,jeans,men,Silvat Menswear,1299,28|30|32|34|36|38|40,SC-977YA6,cotton denim,slim,grey
+PRD-O8C5XFCA,Padchinh Women's Brown Ballerinas Flats,Footwear,flats,women,Padchinh,699,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-MPMQQB,synthetic,regular,brown
+PRD-O8S54JG2,Mohini Weaves Women's Orange Pleated Relaxed Cotton Palazzo,Women Ethnic,palazzo,women,Mohini Weaves,799,XS|S|M|L|XL|XXL,SC-NFL53I,cotton,relaxed,orange
+PRD-O8TO6A4W,Chalo Steps Women's Gold Pearl Work Juttis,Footwear,juttis,women,Chalo Steps,1199,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-6L42QG,velvet upper,regular,gold
+PRD-O93IY9T7,Jhumka Lane Women's Pink Rayon Gota Patti Kurta Set,Women Ethnic,kurta set,women,Jhumka Lane,1499,XS|S|M|L|XL|XXL,SC-IKCOMJ,rayon,regular,pink
+PRD-OADNZFIT,Saffron Basics Women's Red Peplum Regular Georgette Top,Women Western,top,women,Saffron Basics,1199,XS|S|M|L|XL,SC-MA75DH,georgette,regular,red
+PRD-OAGD67OQ,Veer Denim Works Men's Cream Solid Formal Regular Cotton Shirt,Men Western,shirt,men,Veer Denim Works,999,S|M|L|XL|XXL,SC-VJ57XJ,cotton,regular,cream
+PRD-OBZ8PO4O,Rangkaar Women's Green Rayon Printed Kurta with Sharara,Women Ethnic,kurta set,women,Rangkaar,3899,XS|S|M|L|XL|XXL,SC-XUZ9IJ,rayon,straight,green
+PRD-OFEJ9002,Silvat Menswear Men's Sky Blue Distressed Tapered Cotton Denim Jeans,Men Western,jeans,men,Silvat Menswear,1199,28|30|32|34|36|38|40,SC-977YA6,cotton denim,tapered,sky blue
+PRD-OGGH0TSI,Taranga Lane Women's Red Peplum Boxy Georgette Top,Women Western,top,women,Taranga Lane,699,XS|S|M|L|XL,SC-2D0A79,georgette,boxy,red
+PRD-OGST3QJJ,Taranga Lane Women's Yellow Striped Boxy Crepe Top,Women Western,top,women,Taranga Lane,1299,XS|S|M|L|XL|XXL,SC-2D0A79,crepe,boxy,yellow
+PRD-OHB6FORY,Padchinh Women's Beige Ballerinas Flats,Footwear,flats,women,Padchinh,1099,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-MPMQQB,synthetic,regular,beige
+PRD-OKXG61RI,Saffron Basics Men's Wine Polo Oversized Polyester T-Shirt,Men Western,t-shirt,men,Saffron Basics,1299,S|M|L|XL|XXL,SC-VJXMOW,polyester,oversized,wine
+PRD-OKYWH6D8,Bahaar Street Women's Rust Light Fade Straight Stretchable Denim Jeans,Women Western,jeans,women,Bahaar Street,999,26|28|30|32|34,SC-L0P2VO,stretchable denim,straight,rust
+PRD-OLDN9UZQ,Taranga Lane Women's Mustard Sequinned Party Bodycon Polyester Dress,Women Western,dress,women,Taranga Lane,1299,XS|S|M|L|XL|XXL,SC-SKA0WC,polyester,bodycon,mustard
+PRD-OLKWWEA1,Paavni Studio Women's Wine Georgette Kurta with Pants,Women Ethnic,kurta set,women,Paavni Studio,1899,XS|S|M|L|XL|XXL,SC-2B1Y48,georgette,regular,wine
+PRD-OQG1WHQG,Chalo Steps Men's Pink Running Shoes,Footwear,sneakers,men,Chalo Steps,2299,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-HVU875,synthetic leather,regular,pink
+PRD-OQXO8Q0A,Saffron Basics Men's Blue Solid Casual Slim Poly-Cotton Shirt,Men Western,shirt,men,Saffron Basics,999,S|M|L|XL|XXL,SC-WO8UFI,poly-cotton,slim,blue
+PRD-OSNR3LA5,Silvat Menswear Men's Black Light Fade Tapered Cotton Denim Jeans,Men Western,jeans,men,Silvat Menswear,999,28|30|32|34|36|38|40,SC-20NXB1,cotton denim,tapered,black
+PRD-OTMY00WR,Saffron Basics Men's Beige Clean Look Slim Cotton Denim Jeans,Men Western,jeans,men,Saffron Basics,1799,28|30|32|34|36|38|40,SC-FKU70Q,cotton denim,slim,beige
+PRD-OU8NV33B,Silvat Menswear Men's Black Dark Wash Relaxed Cotton Denim Jeans,Men Western,jeans,men,Silvat Menswear,1299,28|30|32|34|36|38|40,SC-5JIWL7,cotton denim,relaxed,black
+PRD-OWU5CSB2,Mohini Weaves Women's Mustard Muslin Kurta with Palazzo and Dupatta,Women Ethnic,kurta set,women,Mohini Weaves,999,XS|S|M|L|XL,SC-ISLYF2,muslin,straight,mustard
+PRD-OWWJROXN,Rangkaar Women's Lavender Bandhani Print Regular Chanderi Silk Kurta,Women Ethnic,kurta,women,Rangkaar,1099,XS|S|M|L|XL,SC-Y17XT5,chanderi silk,regular,lavender
+PRD-OX4ISR0S,Jhumka Lane Women's Rust Solid Regular Chanderi Silk Kurta,Women Ethnic,kurta,women,Jhumka Lane,1299,XS|S|M|L|XL,SC-MD9V4K,chanderi silk,regular,rust
+PRD-OXWA3MO0,Mojri Mahal Men's Brown Oxford Formal Shoes,Footwear,formal shoes,men,Mojri Mahal,2299,UK 6|UK 7|UK 8|UK 9|UK 10,SC-0DPX87,leather,regular,brown
+PRD-OXXRPDBR,Mohini Weaves Women's Wine Muslin Embroidered Kurta Set,Women Ethnic,kurta set,women,Mohini Weaves,1699,XS|S|M|L|XL,SC-ISLYF2,muslin,straight,wine
+PRD-P1427AO1,Saffron Basics Men's Teal Distressed Regular Cotton Denim Jeans,Men Western,jeans,men,Saffron Basics,1199,28|30|32|34|36|38|40,SC-FKU70Q,cotton denim,regular,teal
+PRD-P1PH30GL,Saffron Basics Women's Rani Pink High Rise Straight Stretchable Denim Jeans,Women Western,jeans,women,Saffron Basics,1399,26|28|30|32|34|36,SC-35W4TF,stretchable denim,straight,rani pink
+PRD-P52MYIWG,Mohini Weaves Women's Bottle Green Net Printed Dupatta,Women Ethnic,dupatta,women,Mohini Weaves,999,Free Size,,net,free size,bottle green
+PRD-P69UMOAD,Silvat Menswear Men's Black Round Neck Solid Slim Cotton T-Shirt,Men Western,t-shirt,men,Silvat Menswear,1299,S|M|L|XL,SC-WLQM9A,cotton,slim,black
+PRD-PAHESCK9,Chalo Steps Men's Tan Plain Mojaris,Footwear,mojaris,men,Chalo Steps,2499,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-ESZSVQ,velvet upper,regular,tan
+PRD-PEAYQHRC,Gulmohar Threads Women's Maroon Banarasi Silk Blend Kanjeevaram-style Woven Saree,Women Ethnic,saree,women,Gulmohar Threads,8499,Free Size,,banarasi silk blend,free size,maroon
+PRD-PEMXR1PA,Kesarbagh Women's Olive Cotton Embroidered Kurta Set,Women Ethnic,kurta set,women,Kesarbagh,3499,XS|S|M|L|XL,SC-Z63YCC,cotton,regular,olive
+PRD-PG32UXRK,Mohini Weaves Women's Grey Cotton Gota Border Dupatta,Women Ethnic,dupatta,women,Mohini Weaves,899,Free Size,,cotton,free size,grey
+PRD-PH8MZPL4,Shaan Ethnic Men's Brown Jacquard Set Regular Jacquard Kurta Pyjama Set,Men Ethnic,kurta pyjama set,men,Shaan Ethnic,1499,S|M|L|XL|XXL,SC-7QYQMJ,jacquard,regular,brown
+PRD-PIVKKS8S,Pagdandi Menswear Men's Maroon Solid Formal Slim Cotton Shirt,Men Western,shirt,men,Pagdandi Menswear,599,S|M|L|XL,SC-58QGV6,cotton,slim,maroon
+PRD-PIZ320NW,Veer Denim Works Men's Blue Solid Formal Slim Cotton Shirt,Men Western,shirt,men,Veer Denim Works,899,S|M|L|XL|XXL,SC-6R2QTT,cotton,slim,blue
+PRD-PJD893VO,Padchinh Women's Tan Walking Shoes,Footwear,sneakers,women,Padchinh,2899,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-V5MLTZ,canvas,regular,tan
+PRD-PKQ1YG0Y,Silvat Menswear Men's Mustard Textured Regular Cotton Chinos,Men Western,chinos,men,Silvat Menswear,1199,28|30|32|34|36|38|40,SC-VCOJ6F,cotton,regular,mustard
+PRD-PL4CIYJK,Gulmohar Threads Women's Mustard Georgette Gota Patti Kurta Set,Women Ethnic,kurta set,women,Gulmohar Threads,1099,XS|S|M|L|XL|XXL,SC-QXB5CC,georgette,A-line,mustard
+PRD-PM8RQU7S,Silvat Menswear Men's Bottle Green Self Design Regular Silk Blend Kurta,Men Ethnic,kurta,men,Silvat Menswear,799,S|M|L|XL|XXL,SC-2R7MKZ,silk blend,regular,bottle green
+PRD-PNEXG3H0,Gulmohar Threads Women's Rani Pink Georgette Bandhani Saree,Women Ethnic,saree,women,Gulmohar Threads,899,Free Size,,georgette,free size,rani pink
+PRD-PPK9LBML,Taranga Lane Women's Navy Blue Clean Look Mom Fit Cotton Denim Jeans,Women Western,jeans,women,Taranga Lane,1799,26|28|30|32|34,SC-JB32PJ,cotton denim,mom fit,navy blue
+PRD-PSSDTEQG,Gulmohar Threads Women's Rani Pink Cotton Solid with Border Saree,Women Ethnic,saree,women,Gulmohar Threads,3299,Free Size,,cotton,free size,rani pink
+PRD-PTKEMLMH,Pagdandi Menswear Men's Sky Blue Striped Formal Regular Cotton Blend Shirt,Men Western,shirt,men,Pagdandi Menswear,799,S|M|L|XL|XXL,SC-V0UICZ,cotton blend,regular,sky blue
+PRD-PU1YTL08,Pagdandi Menswear Men's Light Pink Checked Casual Slim Linen Blend Shirt,Men Western,shirt,men,Pagdandi Menswear,1099,S|M|L|XL,SC-V0UICZ,linen blend,slim,light pink
+PRD-PXAGONX9,Pagdandi Menswear Men's Bottle Green Solid Regular Cotton Stretch Chinos,Men Western,chinos,men,Pagdandi Menswear,1299,28|30|32|34|36|38|40,SC-JJD1K2,cotton stretch,regular,bottle green
+PRD-PYL818S1,Shaan Ethnic Men's Peach Pathani Straight Silk Blend Kurta,Men Ethnic,kurta,men,Shaan Ethnic,1299,S|M|L|XL|XXL,SC-Z1A0DT,silk blend,straight,peach
+PRD-Q1HCS271,Rangkaar Women's Orange Georgette Kurta with Pants,Women Ethnic,kurta set,women,Rangkaar,1699,XS|S|M|L|XL|XXL,SC-QLULL4,georgette,straight,orange
+PRD-Q52ZM743,Kesarbagh Women's Lavender Organza Printed Saree,Women Ethnic,saree,women,Kesarbagh,8299,Free Size,,organza,free size,lavender
+PRD-Q6X966R6,Veer Denim Works Men's Blue Dark Wash Relaxed Cotton Denim Jeans,Men Western,jeans,men,Veer Denim Works,2599,28|30|32|34|36|38|40,SC-PA59HA,cotton denim,relaxed,blue
+PRD-Q8IERAPX,Gulmohar Threads Women's Orange Chiffon Bandhani Saree,Women Ethnic,saree,women,Gulmohar Threads,1299,Free Size,,chiffon,free size,orange
+PRD-QCT7TUY9,Saffron Basics Women's Beige Ruffled Fitted Georgette Top,Women Western,top,women,Saffron Basics,499,XS|S|M|L|XL,SC-MA75DH,georgette,fitted,beige
+PRD-QEUEQEAX,Saffron Basics Men's Brown Henley Oversized Cotton T-Shirt,Men Western,t-shirt,men,Saffron Basics,399,S|M|L|XL|XXL,SC-D38IT9,cotton,oversized,brown
+PRD-QIBIIWWG,Kesarbagh Women's Wine Solid Relaxed Rayon Palazzo,Women Ethnic,palazzo,women,Kesarbagh,799,XS|S|M|L|XL,SC-XFFXJH,rayon,relaxed,wine
+PRD-QK9BCCY2,Silvat Menswear Men's Light Pink Dark Wash Slim Cotton Denim Jeans,Men Western,jeans,men,Silvat Menswear,2899,28|30|32|34|36|38,SC-977YA6,cotton denim,slim,light pink
+PRD-QL2PXDLC,Kesarbagh Women's Teal Net Floral Lehenga with Dupatta,Women Ethnic,lehenga,women,Kesarbagh,3299,S|M|L|XL,SC-9TYH1X,net,semi-stitched,teal
+PRD-QLS01A7C,Gulmohar Threads Women's Peach Banarasi Silk Blend Sequinned Saree,Women Ethnic,saree,women,Gulmohar Threads,899,Free Size,,banarasi silk blend,free size,peach
+PRD-QM0ZG7BK,Karonda Studio Women's Olive Solid Regular Crepe Top,Women Western,top,women,Karonda Studio,1199,XS|S|M|L|XL,SC-RFCU3K,crepe,regular,olive
+PRD-QOOII9J7,Veer Denim Works Men's Maroon Solid Casual Slim Poly-Cotton Shirt,Men Western,shirt,men,Veer Denim Works,1199,S|M|L|XL,SC-6R2QTT,poly-cotton,slim,maroon
+PRD-QOWBDZSN,Mohini Weaves Women's White Organza Sequinned Saree,Women Ethnic,saree,women,Mohini Weaves,899,Free Size,,organza,free size,white
+PRD-QXAZZAN7,Gulmohar Threads Women's Pink Muslin Kurta with Palazzo and Dupatta,Women Ethnic,kurta set,women,Gulmohar Threads,2299,XS|S|M|L|XL,SC-QXB5CC,muslin,straight,pink
+PRD-QYH48STO,Kesarbagh Women's Grey Block Print Regular Cotton Kurta,Women Ethnic,kurta,women,Kesarbagh,1799,XS|S|M|L|XL|XXL,SC-4EV3RS,cotton,regular,grey
+PRD-QZEVNOFS,Gulmohar Threads Women's Off-White Chiffon Gota Border Dupatta,Women Ethnic,dupatta,women,Gulmohar Threads,1199,Free Size,,chiffon,free size,off-white
+PRD-R0PKDNM5,Mohini Weaves Women's Pink Chanderi Phulkari Embroidered Dupatta,Women Ethnic,dupatta,women,Mohini Weaves,499,Free Size,,chanderi,free size,pink
+PRD-R1EXGS4G,Chalo Steps Women's Tan Block Heels Heels,Footwear,heels,women,Chalo Steps,1099,UK 3|UK 4|UK 5|UK 6|UK 7,SC-8FC264,PU,regular,tan
+PRD-R55B74ZM,Karonda Studio Women's Black Mid Rise Straight Cotton Denim Jeans,Women Western,jeans,women,Karonda Studio,1799,26|28|30|32|34,SC-TU8F2V,cotton denim,straight,black
+PRD-R8S9DI9T,Padchinh Women's Black Walking Shoes,Footwear,sneakers,women,Padchinh,1699,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-V5MLTZ,mesh,regular,black
+PRD-RBRFOY23,Veer Denim Works Men's Wine Distressed Regular Stretchable Denim Jeans,Men Western,jeans,men,Veer Denim Works,1599,28|30|32|34|36|38|40,SC-PA59HA,stretchable denim,regular,wine
+PRD-RCOQE75H,Kesarbagh Men Men's Sky Blue Solid Regular Linen Blend Nehru Jacket,Men Ethnic,nehru jacket,men,Kesarbagh Men,3299,S|M|L|XL,SC-R9A204,linen blend,regular,sky blue
+PRD-RDVASJVL,Saffron Basics Women's Beige Sequinned Party Regular Crepe Dress,Women Western,dress,women,Saffron Basics,1899,XS|S|M|L|XL,SC-PJV58I,crepe,regular,beige
+PRD-RDZEY9YH,Saffron Basics Women's Yellow Peplum Boxy Polyester Top,Women Western,top,women,Saffron Basics,399,XS|S|M|L|XL|XXL,SC-MA75DH,polyester,boxy,yellow
+PRD-RE6D9KYX,Silvat Menswear Men's Teal Round Neck Solid Oversized Polyester T-Shirt,Men Western,t-shirt,men,Silvat Menswear,799,S|M|L|XL|XXL,SC-VLVWX8,polyester,oversized,teal
+PRD-REDHV01Y,Silvat Menswear Men's Blue Pathani Straight Cotton Kurta,Men Ethnic,kurta,men,Silvat Menswear,2299,S|M|L|XL|XXL,SC-DWAL97,cotton,straight,blue
+PRD-RFWVGUN2,Karonda Studio Women's Orange Ruffled Boxy Georgette Top,Women Western,top,women,Karonda Studio,499,XS|S|M|L|XL,SC-RFCU3K,georgette,boxy,orange
+PRD-RFXCIDM1,Mohini Weaves Women's Pink Ikat Print Flared Chanderi Silk Kurta,Women Ethnic,kurta,women,Mohini Weaves,1599,XS|S|M|L|XL|XXL,SC-ACP6D3,chanderi silk,flared,pink
+PRD-RFYHSMFE,Silvat Menswear Men's Blue Embroidered Set Regular Silk Blend Kurta Pyjama Set,Men Ethnic,kurta pyjama set,men,Silvat Menswear,2299,S|M|L|XL|XXL,SC-CNUV9X,silk blend,regular,blue
+PRD-RG355ICF,Saffron Basics Men's Brown Textured Regular Cotton Chinos,Men Western,chinos,men,Saffron Basics,1199,28|30|32|34|36|38|40,SC-GF81VS,cotton,regular,brown
+PRD-RG8BJ1AU,Silvat Menswear Men's Teal Art Silk Embroidered Sherwani Set,Men Ethnic,sherwani,men,Silvat Menswear,12899,S|M|L|XL|XXL,SC-H4XKM6,art silk,regular,teal
+PRD-RH8407TB,Pagdandi Menswear Men's Black Henley Slim Cotton Blend T-Shirt,Men Western,t-shirt,men,Pagdandi Menswear,399,S|M|L|XL|XXL,SC-SWJKNR,cotton blend,slim,black
+PRD-RIL1I9WW,Kesarbagh Women's Black Net Gota Border Dupatta,Women Ethnic,dupatta,women,Kesarbagh,699,Free Size,,net,free size,black
+PRD-RJI2B9OO,Jhumka Lane Women's Pink Net Sequinned Lehenga Set,Women Ethnic,lehenga,women,Jhumka Lane,6899,S|M|L|XL,SC-5A920L,net,flared,pink
+PRD-RKIHPYUF,Chalo Steps Men's White Training Shoes,Footwear,sneakers,men,Chalo Steps,1399,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-2O45XM,knit,regular,white
+PRD-RLF00YXZ,Chalo Steps Men's Silver Strap Sandals Sandals,Footwear,sandals,men,Chalo Steps,1199,UK 6|UK 7|UK 8|UK 9|UK 10,SC-1C2IUA,leather,regular,silver
+PRD-RLKLAHZ5,Saffron Basics Men's Peach Striped Formal Regular Cotton Shirt,Men Western,shirt,men,Saffron Basics,2199,S|M|L|XL|XXL,SC-GKAS5B,cotton,regular,peach
+PRD-RNUAIAQM,Silvat Menswear Men's Cream Printed Casual Slim Linen Blend Shirt,Men Western,shirt,men,Silvat Menswear,1199,S|M|L|XL|XXL,SC-B8U76E,linen blend,slim,cream
+PRD-RNW0QO9V,Kesarbagh Women's Olive Chiffon Sequinned Saree,Women Ethnic,saree,women,Kesarbagh,799,Free Size,,chiffon,free size,olive
+PRD-RNYZH3FX,Silvat Menswear Men's Teal Henley Slim Cotton T-Shirt,Men Western,t-shirt,men,Silvat Menswear,599,S|M|L|XL|XXL,SC-VLVWX8,cotton,slim,teal
+PRD-RRX8PH6K,Chalo Steps Women's Brown Pearl Work Juttis,Footwear,juttis,women,Chalo Steps,1499,UK 3|UK 4|UK 5|UK 6|UK 7,SC-PLIV6U,leather,regular,brown
+PRD-RT846JT7,Gulmohar Threads Women's Green Embroidered Flared Georgette Anarkali,Women Ethnic,anarkali,women,Gulmohar Threads,1999,XS|S|M|L|XL|XXL,SC-7YZM0F,georgette,flared,green
+PRD-RTWT51D8,Pagdandi Menswear Men's Cream Light Fade Relaxed Stretchable Denim Jeans,Men Western,jeans,men,Pagdandi Menswear,1599,28|30|32|34|36|38|40,SC-CBGHHG,stretchable denim,relaxed,cream
+PRD-RUQQ53AA,Bahaar Street Women's Bottle Green Floral Print Fitted Crepe Top,Women Western,top,women,Bahaar Street,799,XS|S|M|L|XL|XXL,SC-ZVM0P8,crepe,fitted,bottle green
+PRD-RVEA14WM,Mojri Mahal Women's Maroon Stilettos Heels,Footwear,heels,women,Mojri Mahal,2399,UK 3|UK 4|UK 5|UK 6|UK 7,SC-MDM9CS,synthetic,regular,maroon
+PRD-RXELHQUZ,Chalo Steps Women's Silver Slip-ons Flats,Footwear,flats,women,Chalo Steps,899,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-7656NH,synthetic,regular,silver
+PRD-RXYA4IKD,Gulmohar Threads Women's Blue Muslin Kurta with Palazzo and Dupatta,Women Ethnic,kurta set,women,Gulmohar Threads,1199,XS|S|M|L|XL,SC-QXB5CC,muslin,regular,blue
+PRD-RYS9IFB5,Silvat Menswear Men's Black Jacquard Silk Blend Zari Work Sherwani,Men Ethnic,sherwani,men,Silvat Menswear,5199,S|M|L|XL|XXL,SC-H4XKM6,jacquard silk blend,regular,black
+PRD-S54CKIJF,Karonda Studio Women's Yellow Clean Look Mom Fit Stretchable Denim Jeans,Women Western,jeans,women,Karonda Studio,899,26|28|30|32|34|36,SC-TU8F2V,stretchable denim,mom fit,yellow
+PRD-S5FHBP1N,Paavni Studio Women's Red Chikankari Embroidered Straight Cotton Blend Kurta,Women Ethnic,kurta,women,Paavni Studio,1199,XS|S|M|L|XL,SC-WX2SLW,cotton blend,straight,red
+PRD-S5QEESAY,Padchinh Women's Pink Walking Shoes,Footwear,sneakers,women,Padchinh,1999,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-V5MLTZ,mesh,regular,pink
+PRD-S5Z5BXPG,Pagdandi Menswear Men's Peach Textured Slim Cotton Chinos,Men Western,chinos,men,Pagdandi Menswear,1199,28|30|32|34|36|38|40,SC-JJD1K2,cotton,slim,peach
+PRD-S7QC5SEW,Saffron Basics Women's Orange High Rise Mom Fit Cotton Denim Jeans,Women Western,jeans,women,Saffron Basics,1899,26|28|30|32|34|36,SC-35W4TF,cotton denim,mom fit,orange
+PRD-S7UIAXJX,Saffron Basics Men's Blue Henley Relaxed Polyester T-Shirt,Men Western,t-shirt,men,Saffron Basics,699,S|M|L|XL|XXL,SC-4X8OFZ,polyester,oversized,blue
+PRD-S9LASTCB,Taranga Lane Women's Grey Tiered Regular Crepe Dress,Women Western,dress,women,Taranga Lane,2399,XS|S|M|L|XL|XXL,SC-SKA0WC,crepe,regular,grey
+PRD-SB42DCZY,Silvat Menswear Men's Bottle Green Embroidered Set Regular Cotton Kurta Pyjama Set,Men Ethnic,kurta pyjama set,men,Silvat Menswear,1799,S|M|L|XL,SC-CNUV9X,cotton,regular,bottle green
+PRD-SB7GP3TO,Saffron Basics Women's Wine Puff Sleeve Fitted Crepe Top,Women Western,top,women,Saffron Basics,699,XS|S|M|L|XL|XXL,SC-LN7VSH,crepe,fitted,wine
+PRD-SBHMRONV,Padchinh Men's Tan Monk Strap Formal Shoes,Footwear,formal shoes,men,Padchinh,1599,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-CA46JW,synthetic leather,regular,tan
+PRD-SC6X3E59,Shaan Ethnic Men's Brown Solid Straight Silk Blend Kurta,Men Ethnic,kurta,men,Shaan Ethnic,799,S|M|L|XL|XXL,SC-Z1A0DT,silk blend,straight,brown
+PRD-SC85D7TP,Saffron Basics Women's Beige Solid Maxi Bodycon Rayon Dress,Women Western,dress,women,Saffron Basics,799,XS|S|M|L|XL|XXL,SC-PJV58I,rayon,bodycon,beige
+PRD-SH2UK23Y,Karonda Studio Women's Wine Mid Rise Skinny Stretchable Denim Jeans,Women Western,jeans,women,Karonda Studio,1399,26|28|30|32|34|36,SC-TU8F2V,stretchable denim,skinny,wine
+PRD-SI30WGMP,Karonda Studio Women's Pink Floral Print Fitted Polyester Top,Women Western,top,women,Karonda Studio,1299,XS|S|M|L|XL,SC-RFCU3K,polyester,fitted,pink
+PRD-SIVIUEKF,Saffron Basics Men's Mustard Graphic Print Regular Cotton Blend T-Shirt,Men Western,t-shirt,men,Saffron Basics,799,S|M|L|XL|XXL,SC-FBHUCU,cotton blend,regular,mustard
+PRD-SLZFCU3H,Gulmohar Threads Women's Olive Organza Bandhani Saree,Women Ethnic,saree,women,Gulmohar Threads,1599,Free Size,,organza,free size,olive
+PRD-SM14D58V,Mojri Mahal Men's Navy Blue Plain Mojaris,Footwear,mojaris,men,Mojri Mahal,2199,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-X27TH4,synthetic leather,regular,navy blue
+PRD-SMUM99A1,Rangkaar Women's Yellow Georgette Kurta with Palazzo and Dupatta,Women Ethnic,kurta set,women,Rangkaar,1199,XS|S|M|L|XL,SC-1HKWJR,georgette,straight,yellow
+PRD-SQ10RFUG,Kesarbagh Women's Rust Banarasi Silk Blend Kanjeevaram-style Woven Saree,Women Ethnic,saree,women,Kesarbagh,4099,Free Size,,banarasi silk blend,free size,rust
+PRD-SQSYB2HP,Kesarbagh Men Men's Olive Embroidered Set Straight Silk Blend Kurta Pyjama Set,Men Ethnic,kurta pyjama set,men,Kesarbagh Men,2899,S|M|L|XL|XXL,SC-SXRXFB,silk blend,straight,olive
+PRD-SQUWGY45,Silvat Menswear Men's Light Pink Velvet Self Design Sherwani,Men Ethnic,sherwani,men,Silvat Menswear,13299,S|M|L|XL|XXL,SC-H0ZONG,velvet,regular,light pink
+PRD-SR1AEDIO,Mojri Mahal Men's White Running Shoes,Footwear,sneakers,men,Mojri Mahal,2699,UK 6|UK 7|UK 8|UK 9|UK 10,SC-90ZQP4,knit,regular,white
+PRD-SSM24ZIC,Kadam Footwear Women's Brown Walking Shoes,Footwear,sneakers,women,Kadam Footwear,3799,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-3IC0H0,mesh,regular,brown
+PRD-SSQHGJPY,Silvat Menswear Men's Grey Art Silk Self Design Sherwani,Men Ethnic,sherwani,men,Silvat Menswear,9499,S|M|L|XL,SC-H4XKM6,art silk,slim,grey
+PRD-SUK30SPF,Taranga Lane Women's Teal Shirt Dress Bodycon Cotton Dress,Women Western,dress,women,Taranga Lane,699,XS|S|M|L|XL|XXL,SC-SKA0WC,cotton,bodycon,teal
+PRD-SVIX154P,Silvat Menswear Men's Olive Embroidered Set Straight Cotton Kurta Pyjama Set,Men Ethnic,kurta pyjama set,men,Silvat Menswear,1499,S|M|L|XL,SC-CNUV9X,cotton,straight,olive
+PRD-SY7R52D5,Bahaar Street Women's Bottle Green Solid Regular Rayon Top,Women Western,top,women,Bahaar Street,399,XS|S|M|L|XL|XXL,SC-GY9IXS,rayon,regular,bottle green
+PRD-SYCQFJOD,Silvat Menswear Men's Sky Blue Dark Wash Tapered Cotton Denim Jeans,Men Western,jeans,men,Silvat Menswear,1199,28|30|32|34|36|38|40,SC-977YA6,cotton denim,tapered,sky blue
+PRD-SYY1THSE,Jhumka Lane Women's Grey Rayon Gota Patti Kurta Set,Women Ethnic,kurta set,women,Jhumka Lane,899,XS|S|M|L|XL|XXL,SC-DI7IBA,rayon,A-line,grey
+PRD-T3AYCR91,Silvat Menswear Men's Maroon Printed Regular Cotton Kurta,Men Ethnic,kurta,men,Silvat Menswear,1099,S|M|L|XL|XXL,SC-2R7MKZ,cotton,regular,maroon
+PRD-T3HE0TM6,Veer Denim Works Men's Brown Printed Casual Regular Cotton Shirt,Men Western,shirt,men,Veer Denim Works,1699,S|M|L|XL|XXL,SC-6R2QTT,cotton,regular,brown
+PRD-T4IMBETN,Kesarbagh Women's Orange Ikat Print Straight Viscose Rayon Kurta,Women Ethnic,kurta,women,Kesarbagh,999,XS|S|M|L|XL,SC-A7Z25K,viscose rayon,straight,orange
+PRD-T8F497RO,Padchinh Men's Tan Running Shoes,Footwear,sneakers,men,Padchinh,3399,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-BPBXHN,synthetic leather,regular,tan
+PRD-TCS3DVVO,Gulmohar Threads Women's Green Cotton Printed Kurta with Sharara,Women Ethnic,kurta set,women,Gulmohar Threads,1099,XS|S|M|L|XL,SC-QXB5CC,cotton,straight,green
+PRD-TE33OH2B,Mojri Mahal Women's Silver Slip-ons Flats,Footwear,flats,women,Mojri Mahal,499,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-GUQOZR,canvas,regular,silver
+PRD-TEAZO7EE,Kadam Footwear Women's White Casual Sneakers,Footwear,sneakers,women,Kadam Footwear,1999,UK 3|UK 4|UK 5|UK 6|UK 7,SC-E09TIA,synthetic,regular,white
+PRD-THXMYY0T,Gulmohar Threads Women's Rani Pink Georgette Embroidered Kurta Set,Women Ethnic,kurta set,women,Gulmohar Threads,3199,XS|S|M|L|XL|XXL,SC-MVJ0Y9,georgette,regular,rani pink
+PRD-TJ37QM0S,Bahaar Street Women's Teal High Rise Skinny Stretchable Denim Jeans,Women Western,jeans,women,Bahaar Street,1599,26|28|30|32|34|36,SC-L0P2VO,stretchable denim,skinny,teal
+PRD-TJFWWWEA,Taranga Lane Women's Off-White Distressed Mom Fit Stretchable Denim Jeans,Women Western,jeans,women,Taranga Lane,2399,26|28|30|32|34|36,SC-0IO2CX,stretchable denim,mom fit,off-white
+PRD-TK4OZ16K,Mohini Weaves Women's Black Banarasi Silk Blend Sequinned Saree,Women Ethnic,saree,women,Mohini Weaves,2399,Free Size,,banarasi silk blend,free size,black
+PRD-TKZJ0PZ9,Paavni Studio Women's Wine Floral Print Regular Rayon Kurta,Women Ethnic,kurta,women,Paavni Studio,1799,XS|S|M|L|XL,SC-WX2SLW,rayon,regular,wine
+PRD-TLCKGRTD,Mojri Mahal Women's Pink Block Heels Heels,Footwear,heels,women,Mojri Mahal,1499,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-RFZI2C,PU,regular,pink
+PRD-TLKN1NAC,Bahaar Street Women's Red Sequinned Party Fit And Flare Rayon Dress,Women Western,dress,women,Bahaar Street,1799,XS|S|M|L|XL,SC-HXC72T,rayon,fit and flare,red
+PRD-TMAFACC3,Padchinh Women's Beige Embroidered Juttis,Footwear,juttis,women,Padchinh,1399,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-BASMZB,leather,regular,beige
+PRD-TME9ISP8,Shaan Ethnic Men's Sky Blue Printed Regular Velvet Nehru Jacket,Men Ethnic,nehru jacket,men,Shaan Ethnic,3299,S|M|L|XL|XXL,SC-8T3Y8H,velvet,regular,sky blue
+PRD-TN0EA52X,Mohini Weaves Women's Yellow Georgette Embroidered Lehenga Choli,Women Ethnic,lehenga,women,Mohini Weaves,9899,S|M|L|XL,SC-AYWT5W,georgette,semi-stitched,yellow
+PRD-TO3TP1M8,Mojri Mahal Men's Brown Walking Shoes,Footwear,sneakers,men,Mojri Mahal,1299,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-90ZQP4,canvas,regular,brown
+PRD-TOANT5PA,Karonda Studio Women's Off-White Peplum Fitted Rayon Top,Women Western,top,women,Karonda Studio,999,XS|S|M|L|XL|XXL,SC-RFCU3K,rayon,fitted,off-white
+PRD-TP9XPTYD,Mohini Weaves Women's Bottle Green Sequinned Regular Georgette Anarkali,Women Ethnic,anarkali,women,Mohini Weaves,4999,XS|S|M|L|XL|XXL,SC-ZBLNZ6,georgette,regular,bottle green
+PRD-TPD8J4M6,Silvat Menswear Men's Bottle Green Chikankari Regular Cotton Kurta,Men Ethnic,kurta,men,Silvat Menswear,1799,S|M|L|XL|XXL,SC-OU7AHC,cotton,regular,bottle green
+PRD-TQ3LTDB5,Jhumka Lane Women's White Georgette Printed Kurta with Sharara,Women Ethnic,kurta set,women,Jhumka Lane,1699,XS|S|M|L|XL|XXL,SC-7ZQB59,georgette,straight,white
+PRD-TQMG38ZF,Silvat Menswear Men's White Striped Slim Polyester T-Shirt,Men Western,t-shirt,men,Silvat Menswear,499,S|M|L|XL|XXL,SC-VLVWX8,polyester,slim,white
+PRD-TRJ5B7DI,Gulmohar Threads Women's Bottle Green Linen Blend Bandhani Saree,Women Ethnic,saree,women,Gulmohar Threads,6199,Free Size,,linen blend,free size,bottle green
+PRD-TSALK0UI,Mojri Mahal Women's White Pearl Work Juttis,Footwear,juttis,women,Mojri Mahal,999,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-62PY7I,leather,regular,white
+PRD-TUD7952B,Rangkaar Women's Lavender Cotton Blend Kurta with Palazzo and Dupatta,Women Ethnic,kurta set,women,Rangkaar,3199,XS|S|M|L|XL,SC-XUZ9IJ,cotton blend,straight,lavender
+PRD-TUXTPLQR,Silvat Menswear Men's Black Textured Regular Cotton Chinos,Men Western,chinos,men,Silvat Menswear,899,28|30|32|34|36|38|40,SC-2CSN4I,cotton,regular,black
+PRD-TVZ09E13,Saffron Basics Men's Beige Polo Slim Cotton Blend T-Shirt,Men Western,t-shirt,men,Saffron Basics,599,S|M|L|XL|XXL,SC-VJXMOW,cotton blend,slim,beige
+PRD-TW41CBMB,Jhumka Lane Women's Brown Embroidered Regular Georgette Anarkali,Women Ethnic,anarkali,women,Jhumka Lane,2499,XS|S|M|L|XL|XXL,SC-1E42MQ,georgette,regular,brown
+PRD-TWCM84H6,Bahaar Street Women's Brown Solid Maxi Bodycon Cotton Dress,Women Western,dress,women,Bahaar Street,999,XS|S|M|L|XL,SC-SOCTMU,cotton,bodycon,brown
+PRD-TYCU0IY9,Kesarbagh Women's Red Georgette Kurta with Pants,Women Ethnic,kurta set,women,Kesarbagh,2499,XS|S|M|L|XL|XXL,SC-Z63YCC,georgette,A-line,red
+PRD-TYKU8OH8,Shaan Ethnic Men's Brown Velvet Self Design Sherwani,Men Ethnic,sherwani,men,Shaan Ethnic,12599,S|M|L|XL,SC-X7J8NC,velvet,slim,brown
+PRD-TYOYW6A1,Silvat Menswear Men's Wine Printed Regular Silk Blend Kurta,Men Ethnic,kurta,men,Silvat Menswear,599,S|M|L|XL,SC-2R7MKZ,silk blend,regular,wine
+PRD-TZ0F859J,Kesarbagh Women's Pink Printed Regular Rayon Anarkali,Women Ethnic,anarkali,women,Kesarbagh,1699,XS|S|M|L|XL|XXL,SC-4MUA2M,rayon,regular,pink
+PRD-TZXIFGRJ,Chalo Steps Women's Tan Wedges Heels,Footwear,heels,women,Chalo Steps,899,UK 3|UK 4|UK 5|UK 6|UK 7,SC-8FC264,synthetic,regular,tan
+PRD-U20B7OAZ,Veer Denim Works Men's Light Pink Striped Slim Polyester T-Shirt,Men Western,t-shirt,men,Veer Denim Works,299,S|M|L|XL,SC-9B0G0L,polyester,slim,light pink
+PRD-U266GK5P,Paavni Studio Women's Brown Cotton Gota Patti Kurta Set,Women Ethnic,kurta set,women,Paavni Studio,2499,XS|S|M|L|XL,SC-9FY7O9,cotton,straight,brown
+PRD-U419WGNB,Saffron Basics Men's Maroon Round Neck Solid Slim Cotton T-Shirt,Men Western,t-shirt,men,Saffron Basics,399,S|M|L|XL,SC-7129MV,cotton,slim,maroon
+PRD-U73244P9,Veer Denim Works Men's Light Pink Textured Slim Cotton Chinos,Men Western,chinos,men,Veer Denim Works,999,28|30|32|34|36|38|40,SC-C5I25I,cotton,slim,light pink
+PRD-U79PEBNP,Paavni Studio Women's Green Muslin Kurta with Pants,Women Ethnic,kurta set,women,Paavni Studio,1199,XS|S|M|L|XL|XXL,SC-2B1Y48,muslin,regular,green
+PRD-U8MWYRR4,Rangkaar Women's Bottle Green Yoke Embroidered Flared Cotton Blend Kurta,Women Ethnic,kurta,women,Rangkaar,699,XS|S|M|L|XL|XXL,SC-LYV4GU,cotton blend,flared,bottle green
+PRD-U92RY7SD,Rangkaar Women's Green Rayon Kurta with Palazzo and Dupatta,Women Ethnic,kurta set,women,Rangkaar,1999,XS|S|M|L|XL,SC-XUZ9IJ,rayon,A-line,green
+PRD-U9HNAC0U,Gulmohar Threads Women's Yellow Chiffon Bandhani Saree,Women Ethnic,saree,women,Gulmohar Threads,2599,Free Size,,chiffon,free size,yellow
+PRD-U9UEB3FO,Shaan Ethnic Men's Brown Self Design Straight Jacquard Kurta,Men Ethnic,kurta,men,Shaan Ethnic,899,S|M|L|XL|XXL,SC-Z1A0DT,jacquard,straight,brown
+PRD-UB6Z76S3,Mohini Weaves Women's Wine Striped Straight Cotton Blend Kurta,Women Ethnic,kurta,women,Mohini Weaves,1399,XS|S|M|L|XL|XXL,SC-ACP6D3,cotton blend,straight,wine
+PRD-UF5WDZRZ,Veer Denim Works Men's Blue Graphic Print Slim Cotton Blend T-Shirt,Men Western,t-shirt,men,Veer Denim Works,499,S|M|L|XL,SC-TI3LT5,cotton blend,slim,blue
+PRD-UFLP3QCL,Padchinh Men's Tan Embroidered Mojaris,Footwear,mojaris,men,Padchinh,1299,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-WBQXE9,synthetic leather,regular,tan
+PRD-UFQLWY4M,Silvat Menswear Men's Beige Solid Regular Jacquard Kurta,Men Ethnic,kurta,men,Silvat Menswear,1099,S|M|L|XL|XXL,SC-2R7MKZ,jacquard,regular,beige
+PRD-UGPZROQ2,Rangkaar Women's Bottle Green Yoke Embroidered A-Line Rayon Kurta,Women Ethnic,kurta,women,Rangkaar,999,XS|S|M|L|XL|XXL,SC-Y17XT5,rayon,A-line,bottle green
+PRD-UIME3VCP,Bahaar Street Women's Olive Striped Fitted Crepe Top,Women Western,top,women,Bahaar Street,899,XS|S|M|L|XL|XXL,SC-ZVM0P8,crepe,fitted,olive
+PRD-UJJLJFE4,Shaan Ethnic Men's Navy Blue Printed Slim Velvet Nehru Jacket,Men Ethnic,nehru jacket,men,Shaan Ethnic,3899,S|M|L|XL|XXL,SC-8T3Y8H,velvet,slim,navy blue
+PRD-UMQSL3Y8,Saffron Basics Men's Grey Graphic Print Regular Cotton Blend T-Shirt,Men Western,t-shirt,men,Saffron Basics,799,S|M|L|XL|XXL,SC-VJXMOW,cotton blend,regular,grey
+PRD-UO2BWZB8,Rangkaar Women's Red Chikankari Embroidered A-Line Rayon Kurta,Women Ethnic,kurta,women,Rangkaar,599,XS|S|M|L|XL|XXL,SC-V3SLK0,rayon,A-line,red
+PRD-UOFFBG60,Mohini Weaves Women's Green Cotton Blend Kurta with Pants,Women Ethnic,kurta set,women,Mohini Weaves,2499,XS|S|M|L|XL|XXL,SC-ISLYF2,cotton blend,regular,green
+PRD-UOU61C3B,Veer Denim Works Men's Navy Blue Clean Look Regular Stretchable Denim Jeans,Men Western,jeans,men,Veer Denim Works,1599,28|30|32|34|36|38|40,SC-PA59HA,stretchable denim,regular,navy blue
+PRD-UOUSPA00,Gulmohar Threads Women's Maroon Net Embroidered Lehenga Choli,Women Ethnic,lehenga,women,Gulmohar Threads,10999,S|M|L|XL,SC-ENAASQ,net,flared,maroon
+PRD-UPCE2Q42,Taranga Lane Women's Peach Sequinned Party Fit And Flare Polyester Dress,Women Western,dress,women,Taranga Lane,2199,XS|S|M|L|XL|XXL,SC-VUP8Q3,polyester,fit and flare,peach
+PRD-USC60K6O,Kesarbagh Women's Beige Georgette Zari Work Lehenga,Women Ethnic,lehenga,women,Kesarbagh,7399,S|M|L|XL,SC-9TYH1X,georgette,flared,beige
+PRD-UTPL37AB,Kesarbagh Women's Olive Bandhani Print Straight Rayon Kurta,Women Ethnic,kurta,women,Kesarbagh,499,XS|S|M|L|XL|XXL,SC-P10CEQ,rayon,straight,olive
+PRD-UTTJAQR0,Kadam Footwear Men's Beige Casual Sneakers,Footwear,sneakers,men,Kadam Footwear,2999,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-HFP7IG,synthetic leather,regular,beige
+PRD-UU1EUP9Y,Mojri Mahal Women's Gold Ballerinas Flats,Footwear,flats,women,Mojri Mahal,499,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-S1T2LO,canvas,regular,gold
+PRD-UVOQIRYP,Gulmohar Threads Women's Orange Rayon Embroidered Kurta Set,Women Ethnic,kurta set,women,Gulmohar Threads,2099,XS|S|M|L|XL,SC-QXB5CC,rayon,A-line,orange
+PRD-V01QGY6M,Taranga Lane Women's Yellow Floral Print Regular Polyester Top,Women Western,top,women,Taranga Lane,899,XS|S|M|L|XL|XXL,SC-2D0A79,polyester,regular,yellow
+PRD-V0LE3IX9,Kesarbagh Women's Yellow Net Sequinned Lehenga Set,Women Ethnic,lehenga,women,Kesarbagh,6299,S|M|L|XL,SC-9Q8NE1,net,flared,yellow
+PRD-V0OIZ0QY,Veer Denim Works Men's Black Light Fade Relaxed Cotton Denim Jeans,Men Western,jeans,men,Veer Denim Works,2699,28|30|32|34|36|38,SC-PA59HA,cotton denim,relaxed,black
+PRD-V0ZE18H3,Jhumka Lane Women's Grey Yoke Embroidered Straight Cotton Blend Kurta,Women Ethnic,kurta,women,Jhumka Lane,1899,XS|S|M|L|XL,SC-OKUGO0,cotton blend,straight,grey
+PRD-V2NAQODT,Silvat Menswear Men's Mustard Graphic Print Oversized Polyester T-Shirt,Men Western,t-shirt,men,Silvat Menswear,1299,S|M|L|XL,SC-4LTQTD,polyester,oversized,mustard
+PRD-V2WU8UI0,Veer Denim Works Men's Beige Dark Wash Tapered Stretchable Denim Jeans,Men Western,jeans,men,Veer Denim Works,2299,28|30|32|34|36|38,SC-PA59HA,stretchable denim,tapered,beige
+PRD-V5CZA5Y1,Pagdandi Menswear Men's Mustard Henley Oversized Cotton T-Shirt,Men Western,t-shirt,men,Pagdandi Menswear,299,S|M|L|XL|XXL,SC-SWJKNR,cotton,oversized,mustard
+PRD-V6DA5G1F,Taranga Lane Women's Wine Floral Print Regular Rayon Top,Women Western,top,women,Taranga Lane,999,XS|S|M|L|XL|XXL,SC-2D0A79,rayon,regular,wine
+PRD-V6OET78B,Saffron Basics Men's Mustard Round Neck Solid Regular Cotton Blend T-Shirt,Men Western,t-shirt,men,Saffron Basics,299,S|M|L|XL|XXL,SC-VJXMOW,cotton blend,regular,mustard
+PRD-V777E7ZC,Gulmohar Threads Women's Grey Georgette Printed Kurta with Sharara,Women Ethnic,kurta set,women,Gulmohar Threads,2099,XS|S|M|L|XL|XXL,SC-QXB5CC,georgette,straight,grey
+PRD-V9H3M8MH,Chalo Steps Women's Gold Block Heels Heels,Footwear,heels,women,Chalo Steps,1599,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-8FC264,PU,regular,gold
+PRD-V9J1BO5D,Jhumka Lane Women's Yellow Georgette Embroidered Kurta Set,Women Ethnic,kurta set,women,Jhumka Lane,1999,XS|S|M|L|XL|XXL,SC-R4ZR55,georgette,A-line,yellow
+PRD-VB5P2IS6,Mojri Mahal Men's Brown Oxford Formal Shoes,Footwear,formal shoes,men,Mojri Mahal,1499,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-J40S91,leather,regular,brown
+PRD-VC1IWIR2,Silvat Menswear Men's Mustard Self Design Regular Linen Blend Kurta,Men Ethnic,kurta,men,Silvat Menswear,799,S|M|L|XL|XXL,SC-2R7MKZ,linen blend,regular,mustard
+PRD-VDPGQSEM,Saffron Basics Women's Green Peplum Fitted Polyester Top,Women Western,top,women,Saffron Basics,599,XS|S|M|L|XL|XXL,SC-MA75DH,polyester,fitted,green
+PRD-VE5ZK49Y,Kesarbagh Women's Green Embroidered Regular Georgette Anarkali,Women Ethnic,anarkali,women,Kesarbagh,1499,XS|S|M|L|XL|XXL,SC-4MUA2M,georgette,regular,green
+PRD-VGG007XI,Mojri Mahal Men's Beige Derby Formal Shoes,Footwear,formal shoes,men,Mojri Mahal,1299,UK 6|UK 7|UK 8|UK 9|UK 10,SC-84CW77,leather,regular,beige
+PRD-VJXQ6QT9,Bahaar Street Women's Grey Peplum Fitted Polyester Top,Women Western,top,women,Bahaar Street,499,XS|S|M|L|XL,SC-ZVM0P8,polyester,fitted,grey
+PRD-VKHRWUW6,Kesarbagh Men Men's Peach Art Silk Embroidered Sherwani Set,Men Ethnic,sherwani,men,Kesarbagh Men,11199,S|M|L|XL|XXL,SC-0X9KYY,art silk,regular,peach
+PRD-VMNRDSHL,Mohini Weaves Women's Pink Block Print Straight Cotton Kurta,Women Ethnic,kurta,women,Mohini Weaves,899,XS|S|M|L|XL|XXL,SC-ACP6D3,cotton,straight,pink
+PRD-VMS4EHK5,Mohini Weaves Women's Bottle Green Striped Straight Chanderi Silk Kurta,Women Ethnic,kurta,women,Mohini Weaves,1699,XS|S|M|L|XL|XXL,SC-ACP6D3,chanderi silk,straight,bottle green
+PRD-VNU977JT,Padchinh Women's Grey Block Heels Heels,Footwear,heels,women,Padchinh,1299,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-QW4UOB,synthetic,regular,grey
+PRD-VOPUGC47,Pagdandi Menswear Men's Peach Solid Casual Regular Linen Blend Shirt,Men Western,shirt,men,Pagdandi Menswear,2099,S|M|L|XL|XXL,SC-V0UICZ,linen blend,regular,peach
+PRD-VOXZHJ4O,Taranga Lane Women's Mustard Distressed Mom Fit Stretchable Denim Jeans,Women Western,jeans,women,Taranga Lane,1299,26|28|30|32|34|36,SC-0IO2CX,stretchable denim,mom fit,mustard
+PRD-VPAG92CG,Silvat Menswear Men's Navy Blue Polo Oversized Polyester T-Shirt,Men Western,t-shirt,men,Silvat Menswear,499,S|M|L|XL|XXL,SC-VLVWX8,polyester,oversized,navy blue
+PRD-VQWY0JTC,Rangkaar Women's Off-White Striped Regular Georgette Kurta,Women Ethnic,kurta,women,Rangkaar,799,XS|S|M|L|XL|XXL,SC-Y17XT5,georgette,regular,off-white
+PRD-VS7LM1Z2,Chalo Steps Men's Maroon Loafers Formal Shoes,Footwear,formal shoes,men,Chalo Steps,2399,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-2F4J8S,synthetic leather,regular,maroon
+PRD-VTE7IKK1,Saffron Basics Women's Rani Pink Floral Print Fitted Cotton Top,Women Western,top,women,Saffron Basics,399,XS|S|M|L|XL|XXL,SC-3BDVHX,cotton,fitted,rani pink
+PRD-VUSRB66Q,Paavni Studio Women's Off-White Rayon Kurta with Palazzo and Dupatta,Women Ethnic,kurta set,women,Paavni Studio,1999,XS|S|M|L|XL|XXL,SC-2B1Y48,rayon,regular,off-white
+PRD-VW1KBBVA,Shaan Ethnic Men's Teal Chikankari Regular Linen Blend Kurta,Men Ethnic,kurta,men,Shaan Ethnic,1399,S|M|L|XL|XXL,SC-Z1A0DT,linen blend,regular,teal
+PRD-VX3X06SS,Kadam Footwear Women's Gold Mirror Work Juttis,Footwear,juttis,women,Kadam Footwear,599,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-QCALXU,leather,regular,gold
+PRD-VZ64V8FT,Gulmohar Threads Women's Mustard Mirror Work Regular Rayon Anarkali,Women Ethnic,anarkali,women,Gulmohar Threads,1699,XS|S|M|L|XL|XXL,SC-WR1KNE,rayon,regular,mustard
+PRD-W0X53E7E,Mojri Mahal Men's Beige Plain Mojaris,Footwear,mojaris,men,Mojri Mahal,899,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-X27TH4,velvet upper,regular,beige
+PRD-W3M03BHH,Saffron Basics Women's Green Sequinned Party Fit And Flare Georgette Dress,Women Western,dress,women,Saffron Basics,799,XS|S|M|L|XL|XXL,SC-PJV58I,georgette,fit and flare,green
+PRD-W4HVC2BH,Mojri Mahal Women's Grey Stilettos Heels,Footwear,heels,women,Mojri Mahal,1499,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-S5XDRG,PU,regular,grey
+PRD-W50C00Q4,Kesarbagh Women's Off-White Leheriya A-Line Cotton Blend Kurta,Women Ethnic,kurta,women,Kesarbagh,699,XS|S|M|L|XL|XXL,SC-4EV3RS,cotton blend,A-line,off-white
+PRD-W5KJ8GY0,Saffron Basics Women's Wine High Rise Skinny Cotton Denim Jeans,Women Western,jeans,women,Saffron Basics,899,26|28|30|32|34|36,SC-35W4TF,cotton denim,skinny,wine
+PRD-W5PKR52P,Chalo Steps Men's Navy Blue Casual Sneakers,Footwear,sneakers,men,Chalo Steps,3199,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-HVU875,knit,regular,navy blue
+PRD-W7CW0YPV,Kesarbagh Women's Brown Printed Flared Crepe Palazzo,Women Ethnic,palazzo,women,Kesarbagh,599,XS|S|M|L|XL,SC-ILH3I9,crepe,flared,brown
+PRD-WAD9Z5YY,Padchinh Women's White Slip-ons Flats,Footwear,flats,women,Padchinh,999,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-MPMQQB,synthetic,regular,white
+PRD-WJIT1NY1,Jhumka Lane Women's Olive Pleated Relaxed Rayon Palazzo,Women Ethnic,palazzo,women,Jhumka Lane,899,XS|S|M|L|XL|XXL,SC-AME3YD,rayon,relaxed,olive
+PRD-WJYYAOLD,Gulmohar Threads Women's Beige Ikat Print Flared Cotton Blend Kurta,Women Ethnic,kurta,women,Gulmohar Threads,699,XS|S|M|L|XL,SC-70XWCW,cotton blend,flared,beige
+PRD-WMLWWYGV,Kesarbagh Men Men's Cream Solid Set Regular Jacquard Kurta Pyjama Set,Men Ethnic,kurta pyjama set,men,Kesarbagh Men,1999,S|M|L|XL,SC-5HZ2NQ,jacquard,regular,cream
+PRD-WMXFQKNO,Veer Denim Works Men's Sky Blue Henley Slim Cotton T-Shirt,Men Western,t-shirt,men,Veer Denim Works,1299,S|M|L|XL|XXL,SC-TI3LT5,cotton,slim,sky blue
+PRD-WOM5QM83,Paavni Studio Women's Teal Printed Flared Crepe Palazzo,Women Ethnic,palazzo,women,Paavni Studio,899,XS|S|M|L|XL|XXL,SC-7SMC5S,crepe,flared,teal
+PRD-WQ1AFD82,Taranga Lane Women's Olive Ruffled Boxy Polyester Top,Women Western,top,women,Taranga Lane,399,XS|S|M|L|XL|XXL,SC-2D0A79,polyester,boxy,olive
+PRD-WQCKV8NC,Karonda Studio Women's Olive Puff Sleeve Regular Cotton Top,Women Western,top,women,Karonda Studio,399,XS|S|M|L|XL|XXL,SC-77JQNT,cotton,regular,olive
+PRD-WSH0JM45,Paavni Studio Women's Beige Embroidered Regular Silk Blend Anarkali,Women Ethnic,anarkali,women,Paavni Studio,4599,XS|S|M|L|XL,SC-CP7P50,silk blend,regular,beige
+PRD-WZDJBR9A,Silvat Menswear Men's Olive Self Design Regular Cotton Kurta,Men Ethnic,kurta,men,Silvat Menswear,1599,S|M|L|XL|XXL,SC-2R7MKZ,cotton,regular,olive
+PRD-WZVS2NTN,Kadam Footwear Men's Brown Walking Shoes,Footwear,sneakers,men,Kadam Footwear,3399,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-HFP7IG,canvas,regular,brown
+PRD-X03MCMZ0,Paavni Studio Women's Grey Chikankari Embroidered Straight Cotton Kurta,Women Ethnic,kurta,women,Paavni Studio,1799,XS|S|M|L|XL|XXL,SC-7D2VPR,cotton,straight,grey
+PRD-X096Y895,Kesarbagh Women's Off-White Art Silk Zari Woven Saree,Women Ethnic,saree,women,Kesarbagh,5699,Free Size,,art silk,free size,off-white
+PRD-X1UFSUR2,Karonda Studio Women's Teal Pack of 1 Ankle Length Viscose Lycra Leggings,Women Western,leggings,women,Karonda Studio,599,XS|S|M|L|XL|XXL,SC-RSDF8S,viscose lycra,ankle length,teal
+PRD-X1UI9ZI9,Kadam Footwear Men's Navy Blue Running Shoes,Footwear,sneakers,men,Kadam Footwear,1099,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-HFP7IG,knit,regular,navy blue
+PRD-X2OOD3FK,Veer Denim Works Men's Cream Striped Regular Cotton Blend T-Shirt,Men Western,t-shirt,men,Veer Denim Works,299,S|M|L|XL,SC-TI3LT5,cotton blend,regular,cream
+PRD-X3BUMPLN,Pagdandi Menswear Men's Beige Round Neck Solid Oversized Cotton Blend T-Shirt,Men Western,t-shirt,men,Pagdandi Menswear,399,S|M|L|XL,SC-SWJKNR,cotton blend,oversized,beige
+PRD-X3ZV4PVZ,Jhumka Lane Women's Mustard Pleated Flared Cotton Palazzo,Women Ethnic,palazzo,women,Jhumka Lane,499,XS|S|M|L|XL|XXL,SC-AME3YD,cotton,flared,mustard
+PRD-X55TBEYK,Kesarbagh Men Men's Navy Blue Velvet Embroidered Sherwani Set,Men Ethnic,sherwani,men,Kesarbagh Men,7299,S|M|L|XL|XXL,SC-NT1A9J,velvet,regular,navy blue
+PRD-X5E5FILW,Veer Denim Works Men's Bottle Green Henley Oversized Cotton Blend T-Shirt,Men Western,t-shirt,men,Veer Denim Works,399,S|M|L|XL,SC-TI3LT5,cotton blend,oversized,bottle green
+PRD-X5GBJM9Z,Paavni Studio Women's Yellow Zari Woven Regular Silk Blend Anarkali,Women Ethnic,anarkali,women,Paavni Studio,3599,XS|S|M|L|XL|XXL,SC-1AI6IZ,silk blend,regular,yellow
+PRD-X63VMNIT,Pagdandi Menswear Men's Black Solid Formal Slim Linen Blend Shirt,Men Western,shirt,men,Pagdandi Menswear,1499,S|M|L|XL|XXL,SC-V0UICZ,linen blend,slim,black
+PRD-X7FT5QLZ,Paavni Studio Women's Navy Blue Net Printed Dupatta,Women Ethnic,dupatta,women,Paavni Studio,599,Free Size,,net,free size,navy blue
+PRD-X95U2ZY8,Saffron Basics Women's White Clean Look Straight Stretchable Denim Jeans,Women Western,jeans,women,Saffron Basics,999,26|28|30|32|34|36,SC-35W4TF,stretchable denim,straight,white
+PRD-XBBKT306,Paavni Studio Women's Beige Bandhani Print Regular Georgette Kurta,Women Ethnic,kurta,women,Paavni Studio,1699,XS|S|M|L|XL|XXL,SC-WX2SLW,georgette,regular,beige
+PRD-XCWDMMMF,Silvat Menswear Men's Sky Blue Solid Set Regular Jacquard Kurta Pyjama Set,Men Ethnic,kurta pyjama set,men,Silvat Menswear,1899,S|M|L|XL|XXL,SC-CNUV9X,jacquard,regular,sky blue
+PRD-XD7IW7UK,Mohini Weaves Women's Mustard Floral Print Regular Chanderi Silk Kurta,Women Ethnic,kurta,women,Mohini Weaves,1099,XS|S|M|L|XL,SC-ACP6D3,chanderi silk,regular,mustard
+PRD-XDTS3PRR,Kesarbagh Men Men's Teal Solid Slim Linen Blend Nehru Jacket,Men Ethnic,nehru jacket,men,Kesarbagh Men,1499,S|M|L|XL|XXL,SC-R9A204,linen blend,slim,teal
+PRD-XE4UN519,Saffron Basics Women's Off-White Pack of 1 Churidar Cotton Lycra Leggings,Women Western,leggings,women,Saffron Basics,499,XS|S|M|L|XL|XXL,SC-GO01WQ,cotton lycra,churidar,off-white
+PRD-XFIGRAR4,Karonda Studio Women's Yellow Peplum Regular Polyester Top,Women Western,top,women,Karonda Studio,799,XS|S|M|L|XL,SC-RFCU3K,polyester,regular,yellow
+PRD-XJ0I0HC5,Padchinh Men's Navy Blue Embroidered Mojaris,Footwear,mojaris,men,Padchinh,899,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-U7WWDK,velvet upper,regular,navy blue
+PRD-XMIWQL10,Saffron Basics Men's Off-White Solid Casual Regular Linen Blend Shirt,Men Western,shirt,men,Saffron Basics,699,S|M|L|XL,SC-WO8UFI,linen blend,regular,off-white
+PRD-XO15GWXC,Gulmohar Threads Women's Black Art Silk Solid with Border Saree,Women Ethnic,saree,women,Gulmohar Threads,899,Free Size,,art silk,free size,black
+PRD-XO8CBX1Y,Silvat Menswear Men's Blue Solid Regular Velvet Nehru Jacket,Men Ethnic,nehru jacket,men,Silvat Menswear,3499,S|M|L|XL|XXL,SC-C82YGL,velvet,regular,blue
+PRD-XTF66FWI,Silvat Menswear Men's Beige Solid Casual Slim Cotton Blend Shirt,Men Western,shirt,men,Silvat Menswear,799,S|M|L|XL|XXL,SC-B8U76E,cotton blend,slim,beige
+PRD-XVYVZXXT,Saffron Basics Women's Pink Solid Regular Polyester Top,Women Western,top,women,Saffron Basics,899,XS|S|M|L|XL|XXL,SC-MA75DH,polyester,regular,pink
+PRD-XXGQBL9F,Padchinh Men's Pink Embroidered Mojaris,Footwear,mojaris,men,Padchinh,1399,UK 6|UK 7|UK 8|UK 9|UK 10,SC-U7WWDK,synthetic leather,regular,pink
+PRD-XYJHJD9G,Silvat Menswear Men's Bottle Green Pathani Regular Linen Blend Kurta,Men Ethnic,kurta,men,Silvat Menswear,1799,S|M|L|XL|XXL,SC-2R7MKZ,linen blend,regular,bottle green
+PRD-Y0LB51O2,Rangkaar Women's Beige Bandhani Print Straight Viscose Rayon Kurta,Women Ethnic,kurta,women,Rangkaar,799,XS|S|M|L|XL|XXL,SC-6LRVVL,viscose rayon,straight,beige
+PRD-Y1006MXH,Veer Denim Works Men's Olive Dark Wash Tapered Stretchable Denim Jeans,Men Western,jeans,men,Veer Denim Works,1999,28|30|32|34|36|38|40,SC-PA59HA,stretchable denim,tapered,olive
+PRD-Y1QYFMH9,Padchinh Women's Navy Blue Kolhapuri Style Flats,Footwear,flats,women,Padchinh,499,UK 3|UK 4|UK 5|UK 6|UK 7,SC-MPMQQB,synthetic,regular,navy blue
+PRD-Y1WDWNQS,Chalo Steps Women's Maroon Ballerinas Flats,Footwear,flats,women,Chalo Steps,799,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-XQCCE9,canvas,regular,maroon
+PRD-Y3QBJMQH,Shaan Ethnic Men's Peach Printed Regular Jacquard Nehru Jacket,Men Ethnic,nehru jacket,men,Shaan Ethnic,1999,S|M|L|XL|XXL,SC-8T3Y8H,jacquard,regular,peach
+PRD-Y429WY04,Mojri Mahal Women's Tan Mirror Work Juttis,Footwear,juttis,women,Mojri Mahal,899,UK 3|UK 4|UK 5|UK 6|UK 7,SC-62PY7I,leather,regular,tan
+PRD-Y5SBLEJV,Silvat Menswear Men's Teal Solid Regular Linen Blend Kurta,Men Ethnic,kurta,men,Silvat Menswear,599,S|M|L|XL|XXL,SC-E36IXK,linen blend,regular,teal
+PRD-Y9EDVV16,Jhumka Lane Women's Red Solid A-Line Georgette Kurta,Women Ethnic,kurta,women,Jhumka Lane,2299,XS|S|M|L|XL|XXL,SC-MD9V4K,georgette,A-line,red
+PRD-YD261U9W,Bahaar Street Women's Pink Sequinned Party Fit And Flare Polyester Dress,Women Western,dress,women,Bahaar Street,699,XS|S|M|L|XL|XXL,SC-DBR7Y0,polyester,fit and flare,pink
+PRD-YDD9296Z,Gulmohar Threads Women's Grey Striped Regular Cotton Kurta,Women Ethnic,kurta,women,Gulmohar Threads,499,XS|S|M|L|XL,SC-YXAUMG,cotton,regular,grey
+PRD-YDHRJFZ6,Taranga Lane Women's Rust Peplum Regular Crepe Top,Women Western,top,women,Taranga Lane,1199,XS|S|M|L|XL,SC-2D0A79,crepe,regular,rust
+PRD-YEACA42M,Mojri Mahal Men's Grey Zari Work Mojaris,Footwear,mojaris,men,Mojri Mahal,1399,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-X27TH4,synthetic leather,regular,grey
+PRD-YEUPIJ3H,Jhumka Lane Women's Peach Cotton Solid Dupatta,Women Ethnic,dupatta,women,Jhumka Lane,899,Free Size,,cotton,free size,peach
+PRD-YIME3XJ6,Gulmohar Threads Women's Lavender Ikat Print Straight Cotton Kurta,Women Ethnic,kurta,women,Gulmohar Threads,699,XS|S|M|L|XL|XXL,SC-7R3F11,cotton,straight,lavender
+PRD-YJ7DZFL8,Bahaar Street Women's Beige Pack of 1 Ankle Length Cotton Lycra Leggings,Women Western,leggings,women,Bahaar Street,299,XS|S|M|L|XL|XXL,SC-2YBRSM,cotton lycra,ankle length,beige
+PRD-YK1WPJ6B,Gulmohar Threads Women's Brown Chiffon Bandhani Dupatta,Women Ethnic,dupatta,women,Gulmohar Threads,399,Free Size,,chiffon,free size,brown
+PRD-YKYVWNBV,Mojri Mahal Women's Brown Wedges Heels,Footwear,heels,women,Mojri Mahal,2999,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-S5XDRG,synthetic,regular,brown
+PRD-YM4FCY25,Kesarbagh Men Men's Mustard Solid Regular Velvet Nehru Jacket,Men Ethnic,nehru jacket,men,Kesarbagh Men,1899,S|M|L|XL|XXL,SC-A42YDX,velvet,regular,mustard
+PRD-YNA37LT6,Silvat Menswear Men's Navy Blue Printed Regular Silk Blend Kurta,Men Ethnic,kurta,men,Silvat Menswear,1199,S|M|L|XL|XXL,SC-2R7MKZ,silk blend,regular,navy blue
+PRD-YP3R8RBO,Saffron Basics Men's Wine Light Fade Relaxed Cotton Denim Jeans,Men Western,jeans,men,Saffron Basics,2099,28|30|32|34|36|38|40,SC-FKU70Q,cotton denim,relaxed,wine
+PRD-YR0H40Y2,Rangkaar Women's Bottle Green Printed Flared Silk Blend Anarkali,Women Ethnic,anarkali,women,Rangkaar,1999,XS|S|M|L|XL|XXL,SC-I9WKRB,silk blend,flared,bottle green
+PRD-YS0WLAEZ,Mohini Weaves Women's Black Linen Blend Kanjeevaram-style Woven Saree,Women Ethnic,saree,women,Mohini Weaves,999,Free Size,,linen blend,free size,black
+PRD-YTBJQ680,Pagdandi Menswear Men's Blue Polo Oversized Cotton Blend T-Shirt,Men Western,t-shirt,men,Pagdandi Menswear,799,S|M|L|XL|XXL,SC-SWJKNR,cotton blend,oversized,blue
+PRD-YU91RZGG,Gulmohar Threads Women's Orange Georgette Floral Print Saree,Women Ethnic,saree,women,Gulmohar Threads,5399,Free Size,,georgette,free size,orange
+PRD-YUVJ2SGP,Saffron Basics Women's Peach Solid Churidar Cotton Lycra Leggings,Women Western,leggings,women,Saffron Basics,599,XS|S|M|L|XL|XXL,SC-GO01WQ,cotton lycra,churidar,peach
+PRD-YVMHRY0R,Veer Denim Works Men's Beige Printed Casual Regular Cotton Blend Shirt,Men Western,shirt,men,Veer Denim Works,1399,S|M|L|XL,SC-OYZTT6,cotton blend,regular,beige
+PRD-YWOV79XF,Chalo Steps Men's Gold Strap Sandals Sandals,Footwear,sandals,men,Chalo Steps,699,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-C6KBV0,synthetic,regular,gold
+PRD-YWRBD1O3,Mohini Weaves Women's Off-White Rayon Gota Patti Kurta Set,Women Ethnic,kurta set,women,Mohini Weaves,1199,XS|S|M|L|XL|XXL,SC-ISLYF2,rayon,regular,off-white
+PRD-YY8ZTDG6,Karonda Studio Women's Brown Floral Print Boxy Crepe Top,Women Western,top,women,Karonda Studio,399,XS|S|M|L|XL,SC-RFCU3K,crepe,boxy,brown
+PRD-YZDTXDYQ,Paavni Studio Women's Rust Block Print Flared Rayon Kurta,Women Ethnic,kurta,women,Paavni Studio,1099,XS|S|M|L|XL|XXL,SC-WX2SLW,rayon,flared,rust
+PRD-Z0JLIAAQ,Rangkaar Women's Green Silk Blend Embroidered Lehenga Choli,Women Ethnic,lehenga,women,Rangkaar,8199,S|M|L|XL,SC-JO9GMC,silk blend,flared,green
+PRD-Z0VBWCYO,Mohini Weaves Women's Olive Art Silk Sequinned Saree,Women Ethnic,saree,women,Mohini Weaves,6399,Free Size,,art silk,free size,olive
+PRD-Z0WC64Y4,Gulmohar Threads Women's Navy Blue Block Print A-Line Viscose Rayon Kurta,Women Ethnic,kurta,women,Gulmohar Threads,999,XS|S|M|L|XL|XXL,SC-YXAUMG,viscose rayon,A-line,navy blue
+PRD-Z14685SI,Rangkaar Women's Olive Bandhani Print A-Line Rayon Kurta,Women Ethnic,kurta,women,Rangkaar,1399,XS|S|M|L|XL|XXL,SC-Y17XT5,rayon,A-line,olive
+PRD-Z1H73HD2,Saffron Basics Women's Navy Blue Puff Sleeve Boxy Georgette Top,Women Western,top,women,Saffron Basics,799,XS|S|M|L|XL,SC-MA75DH,georgette,boxy,navy blue
+PRD-Z2HBXBUA,Mohini Weaves Women's Grey Linen Blend Floral Print Saree,Women Ethnic,saree,women,Mohini Weaves,1999,Free Size,,linen blend,free size,grey
+PRD-Z4EFEJYH,Paavni Studio Women's Teal Leheriya A-Line Cotton Blend Kurta,Women Ethnic,kurta,women,Paavni Studio,1599,XS|S|M|L|XL,SC-WX2SLW,cotton blend,A-line,teal
+PRD-Z4YOZ3WK,Saffron Basics Women's Beige Solid Maxi Bodycon Georgette Dress,Women Western,dress,women,Saffron Basics,2299,XS|S|M|L|XL|XXL,SC-PJV58I,georgette,bodycon,beige
+PRD-Z58SG52M,Kadam Footwear Men's Silver Training Shoes,Footwear,sneakers,men,Kadam Footwear,2899,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-HFP7IG,canvas,regular,silver
+PRD-Z5F1Z92E,Gulmohar Threads Women's Red Solid Straight Rayon Kurta,Women Ethnic,kurta,women,Gulmohar Threads,2099,XS|S|M|L|XL|XXL,SC-YXAUMG,rayon,straight,red
+PRD-Z71BNFR8,Rangkaar Women's Black Leheriya Regular Cotton Blend Kurta,Women Ethnic,kurta,women,Rangkaar,1999,XS|S|M|L|XL|XXL,SC-YH48ZD,cotton blend,regular,black
+PRD-Z7SZZNSE,Gulmohar Threads Women's Peach Cotton Blend Gota Patti Kurta Set,Women Ethnic,kurta set,women,Gulmohar Threads,2999,XS|S|M|L|XL,SC-QXB5CC,cotton blend,regular,peach
+PRD-ZB6QWJ5U,Mohini Weaves Women's Teal Chikankari Embroidered Straight Georgette Kurta,Women Ethnic,kurta,women,Mohini Weaves,1299,XS|S|M|L|XL|XXL,SC-UCJOSL,georgette,straight,teal
+PRD-ZDA0KD6X,Kadam Footwear Women's Tan Kitten Heels Heels,Footwear,heels,women,Kadam Footwear,1099,UK 3|UK 4|UK 5|UK 6|UK 7,SC-8V4RR0,PU,regular,tan
+PRD-ZDZMOLZN,Gulmohar Threads Women's Rani Pink Chiffon Kanjeevaram-style Woven Saree,Women Ethnic,saree,women,Gulmohar Threads,899,Free Size,,chiffon,free size,rani pink
+PRD-ZH7PDSCO,Saffron Basics Men's Brown Henley Slim Cotton T-Shirt,Men Western,t-shirt,men,Saffron Basics,399,S|M|L|XL|XXL,SC-VJXMOW,cotton,slim,brown
+PRD-ZI16BR5M,Shaan Ethnic Men's Bottle Green Jacquard Silk Blend Self Design Sherwani,Men Ethnic,sherwani,men,Shaan Ethnic,5599,S|M|L|XL,SC-X7J8NC,jacquard silk blend,slim,bottle green
+PRD-ZIISROYM,Veer Denim Works Men's Grey Textured Regular Cotton Stretch Chinos,Men Western,chinos,men,Veer Denim Works,899,28|30|32|34|36|38,SC-C5I25I,cotton stretch,regular,grey
+PRD-ZIK3IMGZ,Shaan Ethnic Men's Beige Printed Straight Jacquard Kurta,Men Ethnic,kurta,men,Shaan Ethnic,2099,S|M|L|XL|XXL,SC-Z1A0DT,jacquard,straight,beige
+PRD-ZISMBDCZ,Kadam Footwear Women's Beige Block Heels Heels,Footwear,heels,women,Kadam Footwear,1099,UK 3|UK 4|UK 5|UK 6|UK 7|UK 8,SC-8V4RR0,synthetic,regular,beige
+PRD-ZIUVM8UY,Paavni Studio Women's Rust Solid Flared Georgette Kurta,Women Ethnic,kurta,women,Paavni Studio,499,XS|S|M|L|XL|XXL,SC-WX2SLW,georgette,flared,rust
+PRD-ZIV3CPKQ,Silvat Menswear Men's Navy Blue Mid Rise Tapered Cotton Denim Jeans,Men Western,jeans,men,Silvat Menswear,1399,28|30|32|34|36|38|40,SC-977YA6,cotton denim,tapered,navy blue
+PRD-ZKE52VQA,Mohini Weaves Women's Grey Block Print A-Line Georgette Kurta,Women Ethnic,kurta,women,Mohini Weaves,1899,XS|S|M|L|XL,SC-ACP6D3,georgette,A-line,grey
+PRD-ZKFBDPS9,Jhumka Lane Women's Black Leheriya A-Line Viscose Rayon Kurta,Women Ethnic,kurta,women,Jhumka Lane,2099,XS|S|M|L|XL|XXL,SC-MD9V4K,viscose rayon,A-line,black
+PRD-ZKO9AZM3,Bahaar Street Women's Lavender Solid Maxi Fit And Flare Georgette Dress,Women Western,dress,women,Bahaar Street,2399,XS|S|M|L|XL|XXL,SC-SOCTMU,georgette,fit and flare,lavender
+PRD-ZNZVGH5O,Paavni Studio Women's Navy Blue Yoke Embroidered Regular Rayon Kurta,Women Ethnic,kurta,women,Paavni Studio,499,XS|S|M|L|XL|XXL,SC-WX2SLW,rayon,regular,navy blue
+PRD-ZQMARA3Y,Pagdandi Menswear Men's Mustard Mid Rise Slim Cotton Denim Jeans,Men Western,jeans,men,Pagdandi Menswear,2399,28|30|32|34|36|38|40,SC-NMGB4A,cotton denim,slim,mustard
+PRD-ZRPAOK8I,Veer Denim Works Men's Light Pink Striped Regular Cotton Blend T-Shirt,Men Western,t-shirt,men,Veer Denim Works,299,S|M|L|XL,SC-TI3LT5,cotton blend,regular,light pink
+PRD-ZTDSM960,Bahaar Street Women's Beige Ruffled Boxy Cotton Top,Women Western,top,women,Bahaar Street,699,XS|S|M|L|XL,SC-EWN9FP,cotton,boxy,beige
+PRD-ZTKYAVT2,Jhumka Lane Women's Red Muslin Kurta with Pants,Women Ethnic,kurta set,women,Jhumka Lane,1399,XS|S|M|L|XL|XXL,SC-IKCOMJ,muslin,straight,red
+PRD-ZUDF1WHC,Mojri Mahal Men's Silver Casual Sneakers,Footwear,sneakers,men,Mojri Mahal,4299,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-W3ETBN,mesh,regular,silver
+PRD-ZUYXAA1L,Mojri Mahal Men's Brown Casual Sneakers,Footwear,sneakers,men,Mojri Mahal,2399,UK 6|UK 7|UK 8|UK 9|UK 10|UK 11,SC-90ZQP4,mesh,regular,brown
+PRD-ZW8310SF,Saffron Basics Men's White Striped Formal Slim Cotton Shirt,Men Western,shirt,men,Saffron Basics,1399,S|M|L|XL,SC-WO8UFI,cotton,slim,white
+PRD-ZWGRKNL0,Mojri Mahal Men's Pink Walking Shoes,Footwear,sneakers,men,Mojri Mahal,1999,UK 6|UK 7|UK 8|UK 9|UK 10,SC-90ZQP4,synthetic leather,regular,pink
+PRD-ZZEVBVB2,Rangkaar Women's Mustard Embroidered Flared Georgette Anarkali,Women Ethnic,anarkali,women,Rangkaar,4099,XS|S|M|L|XL|XXL,SC-XMCOIU,georgette,flared,mustard

@@ -1,0 +1,10 @@
+target_coverage,method,coverage,coverage_before_empty_fix,abusive_coverage,avg_set_size,singleton_share,empty_before_fix
+0.95,marginal split,0.9513,0.9513,0.6738,1.1067,0.8975,0.0
+0.95,Mondrian (per class),0.953,0.953,0.9828,1.5547,0.4464,0.0
+0.95,"Mondrian, recency-weighted",0.9507,0.9507,0.9828,1.5623,0.4382,0.0
+0.9,marginal split,0.9122,0.8943,0.4421,1.0,1.0,0.0334
+0.9,Mondrian (per class),0.9126,0.9034,0.9399,1.2933,0.7067,0.0161
+0.9,"Mondrian, recency-weighted",0.9083,0.9018,0.9514,1.3348,0.6652,0.0111
+0.8,marginal split,0.9122,0.7931,0.4421,1.0,1.0,0.1836
+0.8,Mondrian (per class),0.8776,0.8124,0.8555,1.0446,0.9554,0.0896
+0.8,"Mondrian, recency-weighted",0.8745,0.8069,0.8584,1.0435,0.9565,0.092

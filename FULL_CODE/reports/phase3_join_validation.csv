@@ -1,0 +1,7 @@
+,value
+product_id_duplicates,0
+customer_id_duplicates,0
+requests_without_product,0
+requests_without_customer,0
+products_with_unknown_chart,0
+products_without_chart,90

@@ -1,0 +1,31 @@
+column,reason
+return_id,identifier - carries no behaviour and would let a model memorise rows
+order_id,identifier
+customer_id,identifier (customer history is expressed through point-in-time features instead)
+product_id,identifier (replaced by the training-fitted product_freq)
+order_date,raw date - converted to days_since_order and request_dow
+delivery_date,raw date - converted to timing features
+return_request_date,raw date and the split clock; month is not used (the abuse rate drifts by month)
+label,TARGET - never an input
+abusive,TARGET-derived
+customer_reason,free text - handled in Phase 4 (out-of-fold text probabilities)
+hist_max_text_sim,text-derived - Phase 4
+hist_n_similar_text,text-derived - Phase 4
+hist_same_text,text-derived - Phase 4
+lab_n_prev,earlier OUTCOMES (label history) - needs the review-delay assumption; decided later
+lab_n_abusive,earlier outcomes - see above
+lab_abuse_share,earlier outcomes - see above
+lab_n_fit,earlier outcomes - see above
+lab_n_quality,earlier outcomes - see above
+lab_n_wrong,earlier outcomes - see above
+lab_days_since_abusive,earlier outcomes - see above
+non_english,fairness group - must never be a model input (proxy risk)
+is_new_customer,fairness group flag - deliberately NOT created; raw tenure is kept instead
+is_low_value_order,fairness group flag - deliberately NOT created; raw order value is kept instead
+is_late_return_outside_window,constant: no request is later than the 30-day window (Phase 1)
+title,"catalogue free text, not needed"
+colour,catalogue attribute with no link to the outcome in Phase 1
+available_sizes,raw string - converted to size_pos_frac and catalogue_size_match
+size_chart_id,identifier
+is_train,bookkeeping
+day,bookkeeping index

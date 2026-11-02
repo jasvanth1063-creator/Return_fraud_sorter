@@ -1,0 +1,49 @@
+[project]
+name = "r2sorter"
+version = "1.0.0"
+description = "R2 Returns Fraud vs Genuine Grievance Sorter: calibrated, explainable, fairness-aware return routing"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy>=1.26",
+    "pandas>=2.1",
+    "scikit-learn>=1.4",
+    "lightgbm>=4.3",
+    "pyyaml>=6.0",
+    "catboost>=1.2.10",
+]
+
+[project.optional-dependencies]
+app = ["streamlit>=1.35"]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.0",
+    "ruff>=0.5",
+    "matplotlib>=3.8",
+    "nbclient>=0.10",
+    "nbformat>=5.10",
+    "ipykernel>=6.29",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.ruff]
+line-length = 120
+src = ["src", "tests"]
+extend-exclude = ["tools"]   # unmodified copy of the organisers' scorer
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP", "N", "SIM"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+
+[tool.ruff.lint.per-file-ignores]
+"notebooks/*" = ["E501", "I001", "E702", "SIM905", "E402", "E741", "B905"]
+"scripts/build_*.py" = ["E501"]   # notebook cell source kept as readable one-line strings

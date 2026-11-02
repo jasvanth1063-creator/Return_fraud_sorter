@@ -1,0 +1,66 @@
+feature,group,source,rule,leakage_safety
+gender,product,products.gender,one-hot product gender,static catalogue fact
+delivery_days,original,delivery_days,as given,row's own columns only
+days_since_delivery,original,days_since_delivery,as given,row's own columns only
+order_value_inr,original,order_value_inr,as given,row's own columns only
+item_price_inr,original,item_price_inr,as given,row's own columns only
+discount_pct,original,discount_pct,as given,row's own columns only
+items_in_order,original,items_in_order,as given,row's own columns only
+customer_tenure_days,original,customer_tenure_days,as given (also a fairness group),row's own columns only
+prior_orders_count,original,prior_orders_count,as given,given by the retailer at request time
+prior_return_rate,original,prior_return_rate,as given; missing = no earlier orders,given at request time
+mrp_inr,catalogue,products.price_inr,catalogue price,static catalogue fact
+size_pos_frac,catalogue,"size_ordered, available_sizes",position of the ordered size in the size run,static catalogue fact
+price_mismatch,catalogue,"item_price, mrp, discount",|price - mrp*(1-discount)| / mrp,row's own columns only
+item_share_of_order,catalogue,"item_price, order_value",item price / order value,row's own columns only
+days_since_order,timing,"order_date, return_request_date",days from order to return request,row's own columns only
+return_window_remaining,timing,days_since_delivery,30 - days since delivery,row's own columns only
+log_item_price,price,item_price_inr,log1p,row's own columns only
+log_order_value,price,order_value_inr,log1p,row's own columns only
+discount_amount_inr,price,"mrp, item_price",mrp - item price,row's own columns only
+price_band,price,item_price_inr,"ordinal band 0-4 (<500, <1000, <2000, <3000, more)","fixed hand-chosen edges, nothing learned"
+order_value_band,price,order_value_inr,"ordinal band 0-4, same edges","fixed hand-chosen edges, nothing learned"
+discount_band,price,discount_pct,"ordinal band 0-3 (<10, <30, <50, more)","fixed hand-chosen edges, nothing learned"
+size_chart_deviation,size,"size chart, size_ordered",ordered size's measurement / chart median - 1,static catalogue fact
+prior_return_count_est,customer,"prior_return_rate, prior_orders_count",rate x orders (0 when missing),row's own columns only
+log1p_prior_orders,customer,prior_orders_count,log1p,row's own columns only
+hist_n_prev,history,"customer_id, date order",earlier requests by the customer,uses only EARLIER requests of the same customer
+hist_days_since_prev,history,"customer_id, day",days since the previous request,uses only EARLIER requests of the same customer
+hist_returns_30d,history,"customer_id, day",earlier requests in the last 30 days,uses only EARLIER requests of the same customer
+hist_returns_60d,history,"customer_id, day",earlier requests in the last 60 days,uses only EARLIER requests of the same customer
+hist_returns_90d,history,"customer_id, day",earlier requests in the last 90 days,uses only EARLIER requests of the same customer
+hist_same_product,history,"customer_id, product_id",earlier requests for the same product,uses only EARLIER requests of the same customer
+hist_same_subcat_size,history,"customer, sub_category, size","earlier requests, same sub-category and size",uses only EARLIER requests of the same customer
+hist_same_category,history,"customer, category",earlier requests in the same category,uses only EARLIER requests of the same customer
+hist_same_order,history,order_id,earlier requests from the same order,uses only EARLIER requests of the same customer
+hist_mean_item_price,history,"customer, item_price",mean item price of earlier requests,uses only EARLIER requests of the same customer
+hist_price_ratio,history,"item_price, hist_mean_item_price",this item's price / earlier mean,uses only EARLIER requests of the same customer
+hist_rate_gap,history,"hist_n_prev, prior_orders_count",earlier requests / prior orders,uses only EARLIER requests of the same customer
+refund_value_30d,history,"customer, item_price","refund-value velocity: sum of earlier item prices, 30 d",uses only EARLIER requests of the same customer
+refund_value_60d,history,"customer, item_price","same, 60 d",uses only EARLIER requests of the same customer
+refund_value_90d,history,"customer, item_price","same, 90 d",uses only EARLIER requests of the same customer
+cod_flag,binary,payment_method,1 if cash on delivery,row's own columns only
+is_late_return,binary,days_since_delivery,1 if more than 14 days after delivery,row's own columns only
+is_high_discount,binary,discount_pct,1 if discount above 50%,row's own columns only
+is_weekend,binary,return_request_date,1 on Saturday or Sunday,row's own columns only
+prior_return_rate_missing,missingness,prior_return_rate,1 if the rate is missing (first-time customer),row's own columns only
+customer_history_available,missingness,prior_orders_count,1 if the customer has earlier orders,row's own columns only
+catalogue_size_match,data quality,"size_ordered, available_sizes",1 if the ordered size is sold,static catalogue fact
+size_chart_missing,data quality,size_chart_id,1 if the product has no chart (free size),static catalogue fact
+invalid_date_order,data quality,three dates,1 if order > delivery or delivery > request,row's own columns only
+price_exceeds_mrp,data quality,"item_price, mrp",1 if price is more than 1% above the catalogue price,row's own columns only
+missing_item_price,data quality,item_price_inr,1 if the price is missing,row's own columns only
+category,categorical,category,"one-hot, rare values pooled",learned from training rows only
+sub_category,categorical,sub_category,"one-hot, rare values pooled",learned from training rows only
+payment_method,categorical,payment_method,one-hot,learned from training rows only
+fulfilment_centre,categorical,fulfilment_centre,one-hot,learned from training rows only
+size_kind,categorical,size_ordered,free / shoe / waist / alpha,row's own columns only
+brand,categorical,products.brand,"one-hot, rare values pooled",learned from training rows only
+fabric,categorical,products.fabric,"one-hot, rare values pooled",learned from training rows only
+fit_type,categorical,products.fit_type,"one-hot, rare values pooled",learned from training rows only
+request_dow,categorical,return_request_date,weekday of the request,row's own columns only
+product_freq,learned,product_id,share of training rows for this product (unseen = 0),learned from training rows only
+sub_category_freq,learned,sub_category,share of training rows (unseen = 0),learned from training rows only
+brand_freq,learned,brand,share of training rows (unseen = 0),learned from training rows only
+price_vs_subcategory_median,learned,"item_price, sub_category",price / training median of the sub-category,learned from training rows only
+n_unseen_categories,data quality,all categorical columns,categorical values never seen in training,learned from training rows only

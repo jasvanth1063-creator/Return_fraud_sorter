@@ -1,0 +1,5 @@
+,saving_vs_approve_all,saving_vs_approve_all,abusive_PR_AUC,abusive_PR_AUC
+month,2026-05,2026-06,2026-05,2026-06
+model,,,,
+catboost,0.318,0.301,0.728,0.695
+ensemble: tuned weights,0.317,0.334,0.753,0.705

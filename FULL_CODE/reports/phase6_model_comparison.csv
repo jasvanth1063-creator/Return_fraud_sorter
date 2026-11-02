@@ -1,0 +1,5 @@
+model,official_score,cost_per_request,saving,saving_sd,abusive_PR_AUC,abusive_precision,abusive_recall,abusive_caught_by_routing,genuine_false_block_rate,genuine_escalated,fairness,macro_f1,train_s,infer_ms_per_1k,rss_mb
+catboost (Phase 5),0.3631,0.0569,0.3089,0.0098,0.7089,0.8184,0.4707,0.5937,0.02,1.0,0.7345,0.8458,,,
+lightgbm_plain,0.3116,0.0604,0.2662,0.0493,0.7208,0.7968,0.5694,0.5522,0.0131,4.5,0.6266,0.8643,4.03,35.89,2.5
+lightgbm_weighted,0.3032,0.0594,0.2785,0.0026,0.7244,0.7506,0.6352,0.5336,0.0113,3.5,0.5413,0.8693,3.94,30.6,0.35
+lightgbm_robust,0.2833,0.0626,0.2396,0.0079,0.6874,0.7081,0.6108,0.5236,0.0138,5.5,0.5779,0.8567,3.085,29.98,0.05

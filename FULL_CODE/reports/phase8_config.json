@@ -1,0 +1,69 @@
+{
+  "final_model": "catboost",
+  "based_on": "reports/phase7_config.json",
+  "members": {
+    "catboost": 1.0
+  },
+  "seeds": [
+    0,
+    1,
+    2
+  ],
+  "main_seed": 0,
+  "calibrator_candidates": [
+    "Platt (sigmoid)",
+    "isotonic",
+    "bagged isotonic"
+  ],
+  "chosen_calibrator": "Platt (sigmoid)",
+  "calibrator_rule": "chosen on the calibration part by 5-fold cross-fitting: lowest Brier; calibrators within 0.0005 are tied and the best official score of the routing wins",
+  "calibrator_choice_reason": "lowest cross-fit Brier score",
+  "calibrator_fitted_on": "calibration part only (10% chronological split)",
+  "conformal": {
+    "score": "1 - P(true class) from calibrated four-class probabilities",
+    "main_alpha": 0.1,
+    "alphas": [
+      0.05,
+      0.1,
+      0.2
+    ],
+    "variants": [
+      "marginal split",
+      "Mondrian (per class)",
+      "Mondrian, recency-weighted"
+    ],
+    "recency_half_life_days": 14,
+    "calibration_scores": "5-fold cross-fitted calibrated probabilities on the calibration part",
+    "thresholds_marginal_main_alpha": [
+      0.463188943644973,
+      0.463188943644973,
+      0.463188943644973,
+      0.463188943644973
+    ],
+    "thresholds_mondrian_main_alpha": {
+      "abusive": 0.9807389328213718,
+      "genuine_quality_issue": 0.37957210260297836,
+      "genuine_fit_issue": 0.12901231325659768,
+      "genuine_wrong_item": 0.2970703520260888
+    },
+    "thresholds_mondrian_recency_main_alpha": {
+      "abusive": 0.9845092642992187,
+      "genuine_quality_issue": 0.3547228435379668,
+      "genuine_fit_issue": 0.12348642047764269,
+      "genuine_wrong_item": 0.2946293078475728
+    },
+    "empty_sets": "receive the most probable class; coverage before the fix is reported"
+  },
+  "subgroups": {
+    "tenure": "new if tenure < 90 days",
+    "order_value": "terciles of the TRAIN order values",
+    "language": "word-list heuristic, three groups (English-like, Hinglish-like mixed, Hindi-dominant); not a language identifier"
+  },
+  "hidden_test_labels_used": false,
+  "versions": {
+    "python": "3.13.17",
+    "numpy": "2.5.4",
+    "pandas": "3.1.0",
+    "scikit-learn": "1.9.1"
+  }
+}

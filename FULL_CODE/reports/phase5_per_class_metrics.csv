@@ -1,0 +1,57 @@
+class,model,arm,precision,recall,f1,support
+abusive,dummy,A structured,0.0,0.0,0.0,699
+genuine_quality_issue,dummy,A structured,0.0,0.0,0.0,2453
+genuine_fit_issue,dummy,A structured,0.4935,1.0,0.6608,4193
+genuine_wrong_item,dummy,A structured,0.0,0.0,0.0,1152
+abusive,logreg,A structured,0.5491,0.3362,0.417,699
+genuine_quality_issue,logreg,A structured,0.5883,0.3245,0.4183,2453
+genuine_fit_issue,logreg,A structured,0.5929,0.8016,0.6816,4193
+genuine_wrong_item,logreg,A structured,0.4231,0.3845,0.4029,1152
+abusive,logreg,C + all text-derived,0.6321,0.3662,0.4638,699
+genuine_quality_issue,logreg,C + all text-derived,0.8573,0.923,0.8889,2453
+genuine_fit_issue,logreg,C + all text-derived,0.9431,0.9611,0.952,4193
+genuine_wrong_item,logreg,C + all text-derived,0.9024,0.9227,0.9124,1152
+abusive,decision_tree,A structured,0.5357,0.279,0.3669,699
+genuine_quality_issue,decision_tree,A structured,0.5535,0.2825,0.3741,2453
+genuine_fit_issue,decision_tree,A structured,0.5817,0.8056,0.6756,4193
+genuine_wrong_item,decision_tree,A structured,0.4302,0.401,0.4151,1152
+abusive,decision_tree,C + all text-derived,0.496,0.176,0.2598,699
+genuine_quality_issue,decision_tree,C + all text-derived,0.8078,0.9458,0.8714,2453
+genuine_fit_issue,decision_tree,C + all text-derived,0.9463,0.9461,0.9462,4193
+genuine_wrong_item,decision_tree,C + all text-derived,0.8987,0.9245,0.9114,1152
+abusive,random_forest,A structured,0.7247,0.3691,0.4891,699
+genuine_quality_issue,random_forest,A structured,0.5896,0.311,0.4073,2453
+genuine_fit_issue,random_forest,A structured,0.5875,0.8462,0.6935,4193
+genuine_wrong_item,random_forest,A structured,0.4567,0.3203,0.3765,1152
+abusive,random_forest,C + all text-derived,0.8655,0.2947,0.4397,699
+genuine_quality_issue,random_forest,C + all text-derived,0.8403,0.9503,0.8919,2453
+genuine_fit_issue,random_forest,C + all text-derived,0.9431,0.9647,0.9538,4193
+genuine_wrong_item,random_forest,C + all text-derived,0.8988,0.9332,0.9157,1152
+abusive,extra_trees,A structured,0.6597,0.2718,0.385,699
+genuine_quality_issue,extra_trees,A structured,0.5895,0.278,0.3778,2453
+genuine_fit_issue,extra_trees,A structured,0.5699,0.8955,0.6965,4193
+genuine_wrong_item,extra_trees,A structured,0.4687,0.1884,0.2687,1152
+abusive,extra_trees,C + all text-derived,0.8,0.2003,0.3204,699
+genuine_quality_issue,extra_trees,C + all text-derived,0.8286,0.9478,0.8842,2453
+genuine_fit_issue,extra_trees,C + all text-derived,0.9399,0.9668,0.9532,4193
+genuine_wrong_item,extra_trees,C + all text-derived,0.8894,0.9288,0.9087,1152
+abusive,hist_gb,A structured,0.6863,0.5665,0.6207,699
+genuine_quality_issue,hist_gb,A structured,0.5626,0.4101,0.4744,2453
+genuine_fit_issue,hist_gb,A structured,0.6211,0.7389,0.6749,4193
+genuine_wrong_item,hist_gb,A structured,0.4379,0.4349,0.4364,1152
+abusive,hist_gb,C + all text-derived,0.7968,0.5722,0.6661,699
+genuine_quality_issue,hist_gb,C + all text-derived,0.8767,0.9303,0.9027,2453
+genuine_fit_issue,hist_gb,C + all text-derived,0.9545,0.9614,0.9579,4193
+genuine_wrong_item,hist_gb,C + all text-derived,0.923,0.9366,0.9298,1152
+abusive,catboost,A structured,0.6968,0.4406,0.5399,699
+genuine_quality_issue,catboost,A structured,0.5823,0.3763,0.4572,2453
+genuine_fit_issue,catboost,A structured,0.6134,0.7696,0.6827,4193
+genuine_wrong_item,catboost,A structured,0.4351,0.4566,0.4456,1152
+abusive,catboost,C + all text-derived,0.8184,0.4707,0.5976,699
+genuine_quality_issue,catboost,C + all text-derived,0.8673,0.9409,0.9026,2453
+genuine_fit_issue,catboost,C + all text-derived,0.9516,0.9621,0.9568,4193
+genuine_wrong_item,catboost,C + all text-derived,0.9096,0.9436,0.9263,1152
+abusive,naive_bayes_text,text only,0.5,0.01,0.0196,699
+genuine_quality_issue,naive_bayes_text,text only,0.8117,0.9417,0.8719,2453
+genuine_fit_issue,naive_bayes_text,text only,0.9217,0.9714,0.9459,4193
+genuine_wrong_item,naive_bayes_text,text only,0.8719,0.9219,0.8962,1152

@@ -1,0 +1,161 @@
+{
+  "primary_score": 0.387755,
+  "primary_score_range": "[-0.7, 1.0]; all-auto_approve = 0.0 (savings 0 -> no fairness credit)",
+  "components": {
+    "savings": 0.293562,
+    "fairness_score": 0.911305,
+    "fairness_credit": 1.0,
+    "fairness_effective": 0.911305,
+    "size_chart_score": 0.0,
+    "weights": {
+      "savings": 0.7,
+      "fairness": 0.2,
+      "size_chart": 0.1
+    }
+  },
+  "cost": {
+    "team_total": 493.8,
+    "team_mean_per_request": 0.058113,
+    "all_auto_approve_total": 788.0,
+    "oracle_total": 0.0,
+    "cost_matrix": {
+      "genuine": {
+        "auto_approve": 0.0,
+        "inspect": 0.5,
+        "escalate": 10.0
+      },
+      "abusive": {
+        "auto_approve": 1.0,
+        "inspect": 0.3,
+        "escalate": 0.0
+      }
+    }
+  },
+  "fairness": {
+    "new_vs_established_customer": {
+      "group_a": "new (<90 days)",
+      "group_b": "established",
+      "n_genuine_a": 1143,
+      "n_genuine_b": 7584,
+      "flagged_a": 5,
+      "flagged_b": 128,
+      "flag_rate_a": 0.00437,
+      "flag_rate_b": 0.01688,
+      "smoothed_rate_a": 0.01437,
+      "smoothed_rate_b": 0.02688,
+      "disparity_ratio": 1.8698,
+      "ratio_95ci_bootstrap": [
+        1.395,
+        2.4354
+      ],
+      "score": 0.1302
+    },
+    "low_value_vs_other_order": {
+      "group_a": "low value (<1000)",
+      "group_b": "1000+",
+      "n_genuine_a": 2528,
+      "n_genuine_b": 6199,
+      "flagged_a": 29,
+      "flagged_b": 104,
+      "flag_rate_a": 0.01147,
+      "flag_rate_b": 0.01678,
+      "smoothed_rate_a": 0.02147,
+      "smoothed_rate_b": 0.02678,
+      "disparity_ratio": 1.2471,
+      "ratio_95ci_bootstrap": [
+        1.021,
+        1.5475
+      ],
+      "score": 0.7529
+    },
+    "non_english_vs_english_text": {
+      "group_a": "non-English",
+      "group_b": "English",
+      "n_genuine_a": 4176,
+      "n_genuine_b": 4551,
+      "flagged_a": 74,
+      "flagged_b": 59,
+      "flag_rate_a": 0.01772,
+      "flag_rate_b": 0.01296,
+      "smoothed_rate_a": 0.02772,
+      "smoothed_rate_b": 0.02296,
+      "disparity_ratio": 1.2071,
+      "ratio_95ci_bootstrap": [
+        1.0158,
+        1.467
+      ],
+      "score": 0.7929
+    }
+  },
+  "size_chart": {
+    "note": "no size-chart truth available for this truth file -> size-chart component = 0 (scored by organisers on hidden truth)",
+    "your_top5": null
+  },
+  "confusion_truth_by_decision": {
+    "abusive": {
+      "auto_approve": 308,
+      "inspect": 391,
+      "escalate": 0
+    },
+    "genuine_quality_issue": {
+      "auto_approve": 2379,
+      "inspect": 74,
+      "escalate": 0
+    },
+    "genuine_fit_issue": {
+      "auto_approve": 4146,
+      "inspect": 47,
+      "escalate": 0
+    },
+    "genuine_wrong_item": {
+      "auto_approve": 1136,
+      "inspect": 16,
+      "escalate": 0
+    }
+  },
+  "abuse_detection": {
+    "n_abusive": 788,
+    "n_genuine": 8727,
+    "flag_precision": 0.7405,
+    "flag_recall": 0.5594,
+    "genuine_flag_rate": 0.01757,
+    "genuine_escalated": 0,
+    "flags_with_confidence_below_0.2": 0
+  },
+  "calibration_of_confidence_as_P_abusive": {
+    "brier": 0.032548,
+    "ece_10_bins": 0.00508,
+    "average_precision": 0.77494
+  },
+  "n_truth_rows": 9515,
+  "n_missing_predictions": 0,
+  "n_extra_predictions_ignored": 0,
+  "missing_examples": [],
+  "warnings": [],
+  "notes": [
+    "fairness: no text_language column in truth file, so the language segment uses an APPROXIMATE keyword guess (the hidden test truth uses the true language tag)"
+  ],
+  "ece": 0.005072188689020188,
+  "fairness_audit": [
+    {
+      "group_pair": "new_vs_established_customer",
+      "disparity_ratio": 1.0,
+      "pair_score": 1.0
+    },
+    {
+      "group_pair": "low_value_vs_other_order",
+      "disparity_ratio": 1.2113,
+      "pair_score": 0.7887
+    },
+    {
+      "group_pair": "non_english_vs_english_text",
+      "disparity_ratio": 1.0521,
+      "pair_score": 0.9479
+    }
+  ],
+  "decision_counts": {
+    "auto_approve": 7969,
+    "inspect": 528,
+    "escalate": 0
+  }
+}

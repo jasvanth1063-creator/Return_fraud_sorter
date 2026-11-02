@@ -1,0 +1,25 @@
+# secrets and local config
+.env
+
+# model artefacts (never committed). data/ is deliberately NOT ignored: the dataset ships inside FULL_CODE/data/
+models/
+
+# environments and build output
+.venv/
+node_modules/
+dist/
+build/
+*.egg-info/
+
+# python / notebook caches
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# OS and logs
+.DS_Store
+*.log
+*.zip
+tabpfn_key.py

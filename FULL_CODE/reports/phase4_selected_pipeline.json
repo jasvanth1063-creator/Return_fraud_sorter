@@ -1,0 +1,40 @@
+{
+  "selected_candidate": "word_logreg",
+  "selection_rule": "simplest within max(seed sd, 0.005) of best S4 cost saving; abusive AP must beat base rate; macro-F1 not used",
+  "output_kind": "probability",
+  "text_params": {
+    "word_ngram": [
+      1,
+      2
+    ],
+    "word_min_df": 3,
+    "char_ngram": [
+      2,
+      5
+    ],
+    "char_min_df": 5,
+    "char_max_features": 120000,
+    "logreg_c": 4.0,
+    "svm_c": 0.5
+  },
+  "seed": 42,
+  "oof_strategy": "rolling-origin by month (strictly earlier data only); first 60 days grouped OOF inside the initial window, flagged grouped_initial",
+  "rolling_check": {
+    "rows": 43068,
+    "rolling_rows": 33271,
+    "grouped_initial_rows": 9797,
+    "rows_without_kind": 0,
+    "rolling_rows_scored_with_future_data": 0
+  },
+  "development_boundary": "2026-05-01",
+  "hidden_test_labels_used": false,
+  "embedding_experiment": "deferred",
+  "versions": {
+    "python": "3.13.17",
+    "numpy": "2.5.4",
+    "pandas": "3.1.0",
+    "scikit-learn": "1.9.1",
+    "lightgbm": "4.7.0"
+  },
+  "normaliser": "r2sorter.text.normalise_reason (lower-case, strip punctuation/emoji, squeeze repeats; no stemming/stop-words/translation)"
+}

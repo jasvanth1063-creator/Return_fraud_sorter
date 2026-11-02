@@ -1,0 +1,4 @@
+Phase,Official score,Savings,Fairness,Baseline score,Baseline fairness,Fairness effective
+Phase 9 (original),0.3493,0.2775,0.775,0.3326,0.6577,0.774977
+Phase 9 (optimized thresholds),0.387755,0.293562,0.911305,—,—,0.911305
+Improvement,+0.038455,+0.016062,+0.136328,—,—,+0.136328

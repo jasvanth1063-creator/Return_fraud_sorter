@@ -1,0 +1,144 @@
+{
+  "primary_score": 0.349273,
+  "primary_score_range": "[-0.7, 1.0]; all-auto_approve = 0.0 (savings 0 -> no fairness credit)",
+  "components": {
+    "savings": 0.277539,
+    "fairness_score": 0.774977,
+    "fairness_credit": 1.0,
+    "fairness_effective": 0.774977,
+    "size_chart_score": 0.0,
+    "weights": {
+      "savings": 0.7,
+      "fairness": 0.2,
+      "size_chart": 0.1
+    }
+  },
+  "cost": {
+    "team_total": 505.0,
+    "team_mean_per_request": 0.059433,
+    "all_auto_approve_total": 699.0,
+    "oracle_total": 0.0,
+    "cost_matrix": {
+      "genuine": {
+        "auto_approve": 0.0,
+        "inspect": 0.5,
+        "escalate": 10.0
+      },
+      "abusive": {
+        "auto_approve": 1.0,
+        "inspect": 0.3,
+        "escalate": 0.0
+      }
+    }
+  },
+  "fairness": {
+    "new_vs_established_customer": {
+      "group_a": "new (<90 days)",
+      "group_b": "established",
+      "n_genuine_a": 1021,
+      "n_genuine_b": 6777,
+      "flagged_a": 7,
+      "flagged_b": 86,
+      "flag_rate_a": 0.00686,
+      "flag_rate_b": 0.01269,
+      "smoothed_rate_a": 0.01686,
+      "smoothed_rate_b": 0.02269,
+      "disparity_ratio": 1.3461,
+      "ratio_95ci_bootstrap": [
+        1.0345,
+        1.8679
+      ],
+      "score": 0.6539
+    },
+    "low_value_vs_other_order": {
+      "group_a": "low value (<1000)",
+      "group_b": "1000+",
+      "n_genuine_a": 2288,
+      "n_genuine_b": 5510,
+      "flagged_a": 23,
+      "flagged_b": 70,
+      "flag_rate_a": 0.01005,
+      "flag_rate_b": 0.0127,
+      "smoothed_rate_a": 0.02005,
+      "smoothed_rate_b": 0.0227,
+      "disparity_ratio": 1.1322,
+      "ratio_95ci_bootstrap": [
+        1.0069,
+        1.4486
+      ],
+      "score": 0.8678
+    },
+    "non_english_vs_english_text": {
+      "group_a": "non-English",
+      "group_b": "English",
+      "n_genuine_a": 3741,
+      "n_genuine_b": 4057,
+      "flagged_a": 37,
+      "flagged_b": 56,
+      "flag_rate_a": 0.00989,
+      "flag_rate_b": 0.0138,
+      "smoothed_rate_a": 0.01989,
+      "smoothed_rate_b": 0.0238,
+      "disparity_ratio": 1.1967,
+      "ratio_95ci_bootstrap": [
+        1.0123,
+        1.5089
+      ],
+      "score": 0.8033
+    }
+  },
+  "size_chart": {
+    "note": "no size-chart truth available for this truth file -> size-chart component = 0 (scored by organisers on hidden truth)",
+    "your_top5": [
+      "PRD-YIME3XJ6",
+      "PRD-OSNR3LA5",
+      "PRD-6JG12RLX",
+      "PRD-7NDH0OJO",
+      "PRD-THXMYY0T"
+    ]
+  },
+  "confusion_truth_by_decision": {
+    "abusive": {
+      "auto_approve": 351,
+      "inspect": 295,
+      "escalate": 53
+    },
+    "genuine_quality_issue": {
+      "auto_approve": 2401,
+      "inspect": 51,
+      "escalate": 1
+    },
+    "genuine_fit_issue": {
+      "auto_approve": 4157,
+      "inspect": 35,
+      "escalate": 1
+    },
+    "genuine_wrong_item": {
+      "auto_approve": 1147,
+      "inspect": 5,
+      "escalate": 0
+    }
+  },
+  "abuse_detection": {
+    "n_abusive": 699,
+    "n_genuine": 7798,
+    "flag_precision": 0.7891,
+    "flag_recall": 0.4979,
+    "genuine_flag_rate": 0.01193,
+    "genuine_escalated": 2,
+    "flags_with_confidence_below_0.2": 0
+  },
+  "calibration_of_confidence_as_P_abusive": {
+    "brier": 0.040726,
+    "ece_10_bins": 0.012344,
+    "average_precision": 0.709571
+  },
+  "n_truth_rows": 8497,
+  "n_missing_predictions": 0,
+  "n_extra_predictions_ignored": 0,
+  "missing_examples": [],
+  "warnings": [],
+  "notes": [
+    "fairness: no text_language column in truth file, so the language segment uses an APPROXIMATE keyword guess (the hidden test truth uses the true language tag)"
+  ]
+}

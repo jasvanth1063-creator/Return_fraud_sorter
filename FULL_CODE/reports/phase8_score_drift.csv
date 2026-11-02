@@ -1,0 +1,5 @@
+class,calibration_rows,validation_rows,mean_score_calibration,mean_score_validation,shift,ks_statistic,ks_p_value
+abusive,287,699,0.5912,0.5575,-0.0337,0.0868,0.0869
+genuine_quality_issue,1292,2453,0.139,0.1361,-0.0029,0.0259,0.6069
+genuine_fit_issue,2141,4193,0.0666,0.0648,-0.0018,0.0165,0.8274
+genuine_wrong_item,668,1152,0.092,0.0915,-0.0005,0.0272,0.9024
